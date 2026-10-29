@@ -272,6 +272,36 @@
    "featured": true
   },
   {
+   "id": "B0DVMQVVDY",
+   "name": "Fone de Ouvido sem Fio Philips TWS TAT1109 Bluetooth com Microfone",
+   "cat": "headsets",
+   "store": "amazon",
+   "price": 109.88,
+   "img": "https://m.media-amazon.com/images/I/519bjoeFBTL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0GM1LSHQF",
+   "name": "Fone Bluetooth JBL Tune 530BT Over-Ear até 76h de Bateria Preto",
+   "cat": "headsets",
+   "store": "amazon",
+   "price": 192.0,
+   "img": "https://m.media-amazon.com/images/I/61cnqHlVvEL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0BTYCRJSS",
+   "name": "Fone Bluetooth Soundcore P20i by Anker Bass Up",
+   "cat": "headsets",
+   "store": "amazon",
+   "price": 146.0,
+   "img": "https://m.media-amazon.com/images/I/61ljZu9+GXL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=nlgstore-20",
+   "available": true
+  },
+  {
    "id": "B0dtGcBxo",
    "name": "Microfone USB FIFINE A6T RGB com Braço e Pop Filter",
    "cat": "microfones",
@@ -472,6 +502,190 @@
    "price": 835.05,
    "img": "https://m.media-amazon.com/images/I/51oYGzxUbsL._AC_SL500_.jpg",
    "link": "https://link.amazon/B07Ebu7W4",
+   "available": true
+  },
+  {
+   "id": "B0FPYV6K68",
+   "name": "Celular Samsung Galaxy A17 128GB 4GB RAM Câmera 50MP Tela 6.7\" Preto",
+   "cat": "celulares",
+   "store": "amazon",
+   "price": 929.0,
+   "img": "https://m.media-amazon.com/images/I/61ldkLk4JYL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0CVCLGV1W",
+   "name": "Smartwatch Samsung Galaxy Fit3 Tela 1.6\" Grafite",
+   "cat": "celulares",
+   "store": "amazon",
+   "price": 209.9,
+   "img": "https://m.media-amazon.com/images/I/61o3-pf41tL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0GQW2J4SK",
+   "name": "Apple iPhone 17 256GB Preto",
+   "cat": "celulares",
+   "store": "amazon",
+   "price": 5979.0,
+   "img": "https://m.media-amazon.com/images/I/41HPi5vrxSL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0GVSY9479",
+   "name": "Celular Samsung Galaxy A57 5G 256GB 8GB RAM Câmera Tripla 50MP",
+   "cat": "celulares",
+   "store": "amazon",
+   "price": 2499.0,
+   "img": "https://m.media-amazon.com/images/I/51z6hTsLwNL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0GVSY9479?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0DXR7GNWJ",
+   "name": "Apple iPhone 16e 128GB Preto",
+   "cat": "celulares",
+   "store": "amazon",
+   "price": 3499.0,
+   "img": "https://m.media-amazon.com/images/I/412RWxKFt8L._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0DHWFBYVC",
+   "name": "Smartphone Motorola Moto g35 5G 128GB 4GB RAM Câmera 50MP NFC",
+   "cat": "celulares",
+   "store": "amazon",
+   "price": 899.0,
+   "img": "https://m.media-amazon.com/images/I/61pGaBV+-AL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0DHWFBYVC?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0FH7LY3R4",
+   "name": "Roku Streaming Stick HD 2025 com Controle por Voz",
+   "cat": "tvs",
+   "store": "amazon",
+   "price": 259.0,
+   "img": "https://m.media-amazon.com/images/I/71NIAAVDxML._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FH7LY3R4?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0GH34KFLR",
+   "name": "Smart TV 32\" Philco Roku TV HDR10 Dolby Áudio",
+   "cat": "tvs",
+   "store": "amazon",
+   "price": 894.9,
+   "img": "https://m.media-amazon.com/images/I/81zLY1z0j4L._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0GH34KFLR?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0HCRPPXB1",
+   "name": "Smart TV LG 55\" 4K UHD NanoCell AI",
+   "cat": "tvs",
+   "store": "amazon",
+   "price": 2339.9,
+   "img": "https://m.media-amazon.com/images/I/71JvlwEntGL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0HCRPPXB1?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0F7K7B2PD",
+   "name": "Smart TV TCL 65\" QD-Mini LED 4K 144Hz Google TV C6K",
+   "cat": "tvs",
+   "store": "amazon",
+   "price": 4134.25,
+   "img": "https://m.media-amazon.com/images/I/91W5Y2SD1BL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0F7K7B2PD?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0D8V3QLDD",
+   "name": "Filtro de Linha Clamper iCLAMPER Energia 5 Tomadas Bivolt",
+   "cat": "casa",
+   "store": "amazon",
+   "price": 75.04,
+   "img": "https://m.media-amazon.com/images/I/51SvdybktoL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0D8V3QLDD?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B09B8VGCR8",
+   "name": "Echo Dot com Alexa, Wi-Fi e Bluetooth Preto",
+   "cat": "casa",
+   "store": "amazon",
+   "price": 649.0,
+   "img": "https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B098YHFT9S",
+   "name": "Impressora Multifuncional Epson EcoTank L3250 Wi-Fi Bivolt",
+   "cat": "casa",
+   "store": "amazon",
+   "price": 1121.43,
+   "img": "https://m.media-amazon.com/images/I/51Go2vIg0ML._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B098YHFT9S?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0CP31L73X",
+   "name": "Kindle 16GB (modelo 2024) com Tela Antirreflexo",
+   "cat": "casa",
+   "store": "amazon",
+   "price": 799.0,
+   "img": "https://m.media-amazon.com/images/I/718jJRdvDsL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CP31L73X?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0FHCHBRGF",
+   "name": "Notebook Dell 15 Intel Core i5-1334U Tela 15.6\" FHD 120Hz Windows 11",
+   "cat": "casa",
+   "store": "amazon",
+   "price": 3999.0,
+   "img": "https://m.media-amazon.com/images/I/51LAU1+ACrL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FHCHBRGF?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B07XLML2YS",
+   "name": "Câmera de Segurança Wi-Fi TP-Link Tapo C200 360º Full HD",
+   "cat": "casa",
+   "store": "amazon",
+   "price": 156.0,
+   "img": "https://m.media-amazon.com/images/I/41WQe9NiU6L._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B07XLML2YS?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0778VZYVV",
+   "name": "Pilhas Duracell AA com 16 Unidades (ideal para controle de Xbox)",
+   "cat": "pilhas",
+   "store": "amazon",
+   "price": 82.9,
+   "img": "https://m.media-amazon.com/images/I/81hlYhCb-YL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0778VZYVV?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B07X4JG2G4",
+   "name": "Carregador de Pilhas Duracell com 4 Pilhas AA Recarregáveis Bivolt",
+   "cat": "pilhas",
+   "store": "amazon",
+   "price": 149.89,
+   "img": "https://m.media-amazon.com/images/I/819KK4qPMeL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B07X4JG2G4?tag=nlgstore-20",
    "available": true
   },
   {

@@ -386,12 +386,16 @@ const CATEGORIES = {
   jogos:     { name:"Jogos",                 icon:"disc" },
   dualsense: { name:"Controles PlayStation", icon:"controller" },
   xbox:      { name:"Controles Xbox",        icon:"controller" },
-  headsets:  { name:"Headsets",              icon:"headset" },
+  headsets:  { name:"Fones e Headsets",      icon:"headset" },
   microfones:{ name:"Microfones",            icon:"mic" },
   teclados:  { name:"Teclados",              icon:"keyboard" },
   mouse:     { name:"Mouses",                icon:"mouse" },
   mousepad:  { name:"Mousepads",             icon:"mousepad" },
   pc:        { name:"Hardware PC",           icon:"gpu" },
+  celulares: { name:"Celulares e Smartwatch", icon:"phone" },
+  tvs:       { name:"TVs e Streaming",       icon:"monitor" },
+  casa:      { name:"Casa e Escritório",     icon:"home" },
+  pilhas:    { name:"Pilhas e Carregadores", icon:"battery" },
   giftcards: { name:"Gift Cards",            icon:"gift" },
   cafe:      { name:"Café de Outro Nível",   icon:"coffee" }
 };
@@ -414,6 +418,9 @@ const ICONS = {
   mouse:'<rect x="6" y="3" width="12" height="18" rx="6"/><path d="M12 7v4"/>',
   mousepad:'<rect x="2" y="6" width="20" height="12" rx="2"/><rect x="13" y="8.5" width="5" height="7" rx="2.5"/>',
   disc:'<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="2.5"/>',
+  home:'<path d="M3 11 12 4l9 7"/><path d="M5 10v10h14V10M10 20v-6h4v6"/>',
+  battery:'<rect x="3" y="7" width="16" height="10" rx="2"/><path d="M21 10v4M7 10v4M11 10v4"/>',
+  phone:'<rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M11 18h2"/>',
   coffee:'<path d="M4 9h13v5a6 6 0 0 1-6 6h-1a6 6 0 0 1-6-6V9Z"/><path d="M17 11h1.5a2.5 2.5 0 0 1 0 5H17M8 2.5c-.8 1 .8 2 0 3M12 2.5c-.8 1 .8 2 0 3"/>',
   mic:'<rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v4M8 22h8"/>'
 };
@@ -443,7 +450,7 @@ function renderCounts(){
   $("#deptGrid").innerHTML = Object.entries(CATEGORIES).map(([k,c]) =>
     `<button data-cat="${k}">${esc(c.name)}<span>${countBy(k)}</span></button>`).join("");
 }
-const quick = ["consoles","dualsense","xbox","headsets","pc","giftcards","cafe"];
+const quick = ["consoles","dualsense","xbox","headsets","pc","celulares","tvs","giftcards","cafe"];
 $("#navRow").insertAdjacentHTML("beforeend", quick.map(k =>
   `<button class="nav-link" data-cat="${k}" aria-pressed="false">${esc(CATEGORIES[k].name)}</button>`).join(""));
 $("#footCats").innerHTML = Object.entries(CATEGORIES).map(([k,c]) =>
@@ -482,14 +489,18 @@ const ALIASES = {
   jogos:"jogo game midia ps5 playstation",
   dualsense:"controle joystick manete dualsense ps5 ps4 playstation sony",
   xbox:"controle joystick manete xbox microsoft series",
-  headsets:"headset fone fone de ouvido audio",
+  headsets:"headset headsets fone fones fone de ouvido audio",
   microfones:"microfone mic streaming podcast",
   teclados:"teclado mecanico",
   mouse:"mouse",
   mousepad:"mousepad mouse pad desk pad",
   pc:"hardware pc componentes peca pecas upgrade",
   giftcards:"gift card giftcard cartao presente credito assinatura",
-  cafe:"cafe cafes coffee barista"
+  cafe:"cafe cafes coffee barista",
+  celulares:"celular celulares smartphone eletronico eletronicos",
+  tvs:"tv tvs televisao televisor streaming eletronico eletronicos",
+  casa:"casa escritorio eletronico eletronicos",
+  pilhas:"pilha pilhas bateria baterias carregador recarregavel"
 };
 const hayCache = new Map();
 function haystack(p){
@@ -506,8 +517,8 @@ function filtered(){
   let list = PRODUCTS.filter(p =>
     (state.store==="all"||p.store===state.store) &&
     (state.cat==="all"||p.cat===state.cat) &&
-    (!words.length || words.every(w => haystack(p).includes(w))));
-  if(words.length && state.sort==="rel"){ const byName = p => words.every(w => (" "+norm(p.name).replace(/playstation 5/g,"playstation 5 ps5")+" ").includes(w)) ? 0 : 1; list.sort((a,b)=>byName(a)-byName(b)); }
+    (!words.length || words.every(w => haystack(p).includes(" "+w))));
+  if(words.length && state.sort==="rel"){ const byName = p => words.every(w => (" "+norm(p.name).replace(/playstation 5/g,"playstation 5 ps5")+" ").includes(" "+w)) ? 0 : 1; list.sort((a,b)=>byName(a)-byName(b)); }
   const pct = p => p.oldPrice ? 1-p.price/p.oldPrice : 0;
   if(state.sort==="low") list.sort((a,b)=>a.price-b.price);
   if(state.sort==="high") list.sort((a,b)=>b.price-a.price);
