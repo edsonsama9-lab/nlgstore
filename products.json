@@ -1,0 +1,441 @@
+{
+ "updatedAt": "2026-10-29T00:40:00-03:00",
+ "products": [
+  {
+   "id": "1zYeYNc",
+   "name": "Console PlayStation 5 Slim Digital - Pacote Astro Bot e Gran Turismo 7 - Branco",
+   "cat": "consoles",
+   "store": "ml",
+   "price": 4499,
+   "tag": "Bundle",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_667226-MLA96871260244_112025-O.webp",
+   "link": "https://meli.la/1zYeYNc",
+   "available": true
+  },
+  {
+   "id": "2XK84oM",
+   "name": "Console Nintendo Switch 2 + Mario Kart World Bundle Preto",
+   "cat": "consoles",
+   "store": "ml",
+   "price": 4899,
+   "tag": "Bundle",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_839444-MLB117590898084_102026-O.webp",
+   "link": "https://meli.la/2XK84oM",
+   "available": true
+  },
+  {
+   "id": "2ME7orZ",
+   "name": "Console Nintendo Switch 2, Modelo Nacional de Tomada Preto",
+   "cat": "consoles",
+   "store": "ml",
+   "price": 4277,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_943364-MLA84206693207_042025-O.webp",
+   "link": "https://meli.la/2ME7orZ",
+   "available": true
+  },
+  {
+   "id": "1cipRB8",
+   "name": "Microsoft Xbox Series S 512GB Branco",
+   "cat": "consoles",
+   "store": "ml",
+   "price": 3555,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_632101-MLA110165481061_042026-O.webp",
+   "link": "https://meli.la/1cipRB8",
+   "available": true
+  },
+  {
+   "id": "2YF8HeF",
+   "name": "Nintendo Switch OLED 64GB",
+   "cat": "consoles",
+   "store": "ml",
+   "price": 2425,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-O.webp",
+   "link": "https://meli.la/2YF8HeF",
+   "available": true
+  },
+  {
+   "id": "1iepuLV",
+   "name": "Console Nintendo Switch Lite 32GB Azul-turquesa",
+   "cat": "consoles",
+   "store": "ml",
+   "price": 1349,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_750146-MLA99972052003_112025-O.webp",
+   "link": "https://meli.la/1iepuLV",
+   "available": true
+  },
+  {
+   "id": "1B1x48L",
+   "name": "Grand Theft Auto VI - PlayStation 5",
+   "cat": "jogos",
+   "store": "ml",
+   "price": 418.41,
+   "tag": "Lançamento",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_639067-MLA114816196520_082026-O.webp",
+   "link": "https://meli.la/1B1x48L",
+   "available": true
+  },
+  {
+   "id": "2TSw4YJ",
+   "name": "Controle sem fio DualSense - Edição Limitada Wolverine - Adamantium",
+   "cat": "dualsense",
+   "store": "ml",
+   "price": 557.91,
+   "tag": "Edição limitada",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_724499-MLA118153311134_102026-O.webp",
+   "link": "https://meli.la/2TSw4YJ",
+   "available": true
+  },
+  {
+   "id": "31Yo45p",
+   "name": "Controle sem fio PlayStation DualSense - Remix Green",
+   "cat": "dualsense",
+   "store": "ml",
+   "price": 493,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_745279-MLA105010226029_012026-O.webp",
+   "link": "https://meli.la/31Yo45p",
+   "available": true
+  },
+  {
+   "id": "1G3kz6f",
+   "name": "Controle DualSense sem fio PlayStation 5 Cobalt Blue",
+   "cat": "dualsense",
+   "store": "ml",
+   "price": 499.9,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_934470-MLA99513531000_112025-O.webp",
+   "link": "https://meli.la/1G3kz6f",
+   "available": true
+  },
+  {
+   "id": "17h2fWi",
+   "name": "Controle DualSense sem fio Sony CFI-ZCT1W Azul Claro PS5",
+   "cat": "dualsense",
+   "store": "ml",
+   "price": 434,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_891520-MLA97399587870_112025-O.webp",
+   "link": "https://meli.la/17h2fWi",
+   "available": true
+  },
+  {
+   "id": "2b2q6G1",
+   "name": "Controle sem fio Sony PlayStation 5 Cosmic Red",
+   "cat": "dualsense",
+   "store": "ml",
+   "price": 403.66,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_720590-MLB118304198491_092026-O.webp",
+   "link": "https://meli.la/2b2q6G1",
+   "available": true
+  },
+  {
+   "id": "1NLiV5b",
+   "name": "Controle sem fio Sony PlayStation 5 CFI-ZCT1W Midnight Black",
+   "cat": "dualsense",
+   "store": "ml",
+   "price": 432.15,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
+   "link": "https://meli.la/1NLiV5b",
+   "available": true
+  },
+  {
+   "id": "2MNRSxd",
+   "name": "Controle Sony CFI-ZCT1W sem fio White PS5",
+   "cat": "dualsense",
+   "store": "ml",
+   "price": 386.91,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_682801-MLA117393672127_092026-O.webp",
+   "link": "https://meli.la/2MNRSxd",
+   "available": true
+  },
+  {
+   "id": "34gFcd2",
+   "name": "Controle sem fio Xbox Series Edição Gears of War E-Day Vermelho",
+   "cat": "xbox",
+   "store": "ml",
+   "price": 759.05,
+   "tag": "Edição limitada",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_924936-MLB116060095320_092026-O.webp",
+   "link": "https://meli.la/34gFcd2",
+   "available": true
+  },
+  {
+   "id": "2hGpSg8",
+   "name": "Controle Xbox Elite Wireless Controller Series 2 Preto",
+   "cat": "xbox",
+   "store": "ml",
+   "price": 1438,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_989209-MLB119568516495_102026-O.webp",
+   "link": "https://meli.la/2hGpSg8",
+   "available": true
+  },
+  {
+   "id": "2a8dVXs",
+   "name": "Controle sem fio Xbox Velocity Green",
+   "cat": "xbox",
+   "store": "ml",
+   "price": 376.38,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_646853-MLA91590723354_092025-O.webp",
+   "link": "https://meli.la/2a8dVXs",
+   "available": true
+  },
+  {
+   "id": "1FvRK6D",
+   "name": "Controle sem fio Xbox Series X|S Azul Shock com Bluetooth",
+   "cat": "xbox",
+   "store": "ml",
+   "price": 433.9,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_838906-MLA86702461397_062025-O.webp",
+   "link": "https://meli.la/1FvRK6D",
+   "available": true
+  },
+  {
+   "id": "2Re8p5y",
+   "name": "Controle sem fio Xbox Series X|S Pulse Red para PC, One e Smart TVs",
+   "cat": "xbox",
+   "store": "ml",
+   "price": 502,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_698165-MLA86671767786_062025-O.webp",
+   "link": "https://meli.la/2Re8p5y",
+   "available": true
+  },
+  {
+   "id": "1HwPSvZ",
+   "name": "Controle sem fio Microsoft Xbox Series X|S Robot",
+   "cat": "xbox",
+   "store": "ml",
+   "price": 347.4,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_791846-MLU70663323517_072023-O.webp",
+   "link": "https://meli.la/1HwPSvZ",
+   "available": true
+  },
+  {
+   "id": "2EmghV1",
+   "name": "Controle Xbox sem fio compatível com Xbox Series S/X/One e PC Prateado",
+   "cat": "xbox",
+   "store": "ml",
+   "price": 252,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_607218-MLA109374437785_032026-O.webp",
+   "link": "https://meli.la/2EmghV1",
+   "available": true
+  },
+  {
+   "id": "1g1ruAg",
+   "name": "Fone de Ouvido sem fio PlayStation Pulse Elite - Midnight Black",
+   "cat": "headsets",
+   "store": "ml",
+   "price": 2079,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_690038-CBT108975317925_032026-O.webp",
+   "link": "https://meli.la/1g1ruAg",
+   "available": true
+  },
+  {
+   "id": "1QCZUEq",
+   "name": "Headset sem fio Pulse Elite Sony Branco",
+   "cat": "headsets",
+   "store": "ml",
+   "price": 902.4,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_676107-MLA95500678420_102025-O.webp",
+   "link": "https://meli.la/1QCZUEq",
+   "available": true
+  },
+  {
+   "id": "1zTN2MK",
+   "name": "Headset Gamer Logitech G Astro A50 - Branco",
+   "cat": "headsets",
+   "store": "ml",
+   "price": 2399,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_685347-MLA99518619038_112025-O.webp",
+   "link": "https://meli.la/1zTN2MK",
+   "available": true
+  },
+  {
+   "id": "1hkpyjX",
+   "name": "Headset Gamer HyperX Cloud II Surround 7.1 USB Preto",
+   "cat": "headsets",
+   "store": "ml",
+   "price": 456,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_629823-MLA99849339403_112025-O.webp",
+   "link": "https://meli.la/1hkpyjX",
+   "available": true
+  },
+  {
+   "id": "2fn6SbD",
+   "name": "Headset Gamer JBL Quantum 100M2 com Microfone para PS5 e Xbox Preto",
+   "cat": "headsets",
+   "store": "ml",
+   "price": 229.49,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_675471-MLA111791787900_062026-O.webp",
+   "link": "https://meli.la/2fn6SbD",
+   "available": true
+  },
+  {
+   "id": "1ri1XP6",
+   "name": "Teclado Mecânico HyperX Alloy Rise 75 com RGB e Switch Red",
+   "cat": "teclados",
+   "store": "ml",
+   "price": 708.53,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_632883-MLA90890312962_082025-O.webp",
+   "link": "https://meli.la/1ri1XP6",
+   "available": true
+  },
+  {
+   "id": "2zfqk1u",
+   "name": "Teclado Gamer Mecânico HyperX Alloy Origins Core RGB Switch Blue ABNT2",
+   "cat": "teclados",
+   "store": "ml",
+   "price": 311.22,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_662998-MLA99590652326_122025-O.webp",
+   "link": "https://meli.la/2zfqk1u",
+   "available": true
+  },
+  {
+   "id": "1J5CUmi",
+   "name": "Teclado Gamer HyperX Alloy Core RGB ABNT2 Preto",
+   "cat": "teclados",
+   "store": "ml",
+   "price": 245,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_819571-MLA118157889799_092026-O.webp",
+   "link": "https://meli.la/1J5CUmi",
+   "available": true
+  },
+  {
+   "id": "2CU3gxo",
+   "name": "Mouse Gamer HyperX Pulsefire Haste 2 Core sem fio, Leve e com Bateria de Longa Duração",
+   "cat": "mouse",
+   "store": "ml",
+   "price": 256.44,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_888781-MLA95393886558_102025-O.webp",
+   "link": "https://meli.la/2CU3gxo",
+   "available": true
+  },
+  {
+   "id": "1bvKTx7",
+   "name": "Mouse Gamer Redragon King Pro 4K Preto",
+   "cat": "mouse",
+   "store": "ml",
+   "price": 228.16,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_709542-MLA99397928184_112025-O.webp",
+   "link": "https://meli.la/1bvKTx7",
+   "available": true
+  },
+  {
+   "id": "29c34YD",
+   "name": "Mouse Gamer HyperX Pulsefire Core Preto",
+   "cat": "mouse",
+   "store": "ml",
+   "price": 166.8,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_911940-MLA110626665963_042026-O.webp",
+   "link": "https://meli.la/29c34YD",
+   "available": true
+  },
+  {
+   "id": "1ibJGx5",
+   "name": "Mouse Gamer Logitech G203 LIGHTSYNC Preto",
+   "cat": "mouse",
+   "store": "ml",
+   "price": 104.54,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_957206-MLA99870256007_112025-O.webp",
+   "link": "https://meli.la/1ibJGx5",
+   "available": true
+  },
+  {
+   "id": "2bU81tS",
+   "name": "Mouse Gamer Redragon Cobra Chroma M711 12.400 DPI RGB Preto",
+   "cat": "mouse",
+   "store": "ml",
+   "price": 91.9,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_898286-MLA95664298408_102025-O.webp",
+   "link": "https://meli.la/2bU81tS",
+   "available": true
+  },
+  {
+   "id": "1Y2Wtbc",
+   "name": "Mousepad Gamer 49x42 Pro Player Duality Ozzix Vermelho",
+   "cat": "mousepad",
+   "store": "ml",
+   "price": 78.9,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_788654-MLB104255628993_012026-O.webp",
+   "link": "https://meli.la/1Y2Wtbc",
+   "available": true
+  },
+  {
+   "id": "2TT9spm",
+   "name": "Mousepad Gamer 49x42 Tsuki Arte Japonesa Kitsune Branco",
+   "cat": "mousepad",
+   "store": "ml",
+   "price": 78.99,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_946619-MLB114072235226_072026-O.webp",
+   "link": "https://meli.la/2TT9spm",
+   "available": true
+  },
+  {
+   "id": "24BJ2dq",
+   "name": "Mousepad Gamer 90x40 Extra Grande Dragão Azul Speed/Control",
+   "cat": "mousepad",
+   "store": "ml",
+   "price": 38.39,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_640167-MLA99596167794_122025-O.webp",
+   "link": "https://meli.la/24BJ2dq",
+   "available": true
+  },
+  {
+   "id": "1pxDPbd",
+   "name": "Gift Card PlayStation Store R$ 100 (Digital)",
+   "cat": "giftcards",
+   "store": "ml",
+   "price": 80,
+   "oldPrice": 100,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_705903-MLA116553025803_082026-O.webp",
+   "link": "https://meli.la/1pxDPbd",
+   "available": true
+  },
+  {
+   "id": "17JJWxT",
+   "name": "Cartão Presente Xbox R$ 200 (Digital)",
+   "cat": "giftcards",
+   "store": "ml",
+   "price": 200,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_770877-MLA115096954866_082026-O.webp",
+   "link": "https://meli.la/17JJWxT",
+   "available": true
+  },
+  {
+   "id": "2wQK1TU",
+   "name": "Game Pass Ultimate 1 Mês - Assinatura",
+   "cat": "giftcards",
+   "store": "ml",
+   "price": 85,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_637167-MLB116748046545_082026-O.webp",
+   "link": "https://meli.la/2wQK1TU",
+   "available": true
+  },
+  {
+   "id": "1YnHS1L",
+   "name": "Valorant R$ 100 (Digital)",
+   "cat": "giftcards",
+   "store": "ml",
+   "price": 100,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_808429-MLA116490222849_082026-O.webp",
+   "link": "https://meli.la/1YnHS1L",
+   "available": true
+  },
+  {
+   "id": "1wiKFVY",
+   "name": "Roblox R$ 50 eGift (Digital)",
+   "cat": "giftcards",
+   "store": "ml",
+   "price": 50,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_934338-MLA115098076414_082026-O.webp",
+   "link": "https://meli.la/1wiKFVY",
+   "available": true
+  },
+  {
+   "id": "2NyvfAw",
+   "name": "Gift Card Minecoins 1720 Coins - Xbox e Windows",
+   "cat": "giftcards",
+   "store": "ml",
+   "price": 52.9,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_662278-MLA116489430857_082026-O.webp",
+   "link": "https://meli.la/2NyvfAw",
+   "available": true
+  }
+ ]
+}
