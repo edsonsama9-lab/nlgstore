@@ -19,10 +19,28 @@ def money(txt):
     return float(txt.replace(".", "").replace(",", "."))
 
 
+def parse_amazon(res):
+    if not res.get("title"):
+        return None
+    if not res.get("price") or re.search(r"não disponível|indisponível", res.get("avail") or "", re.I):
+        return (False, None, None, None)
+    num = lambda t: money(re.sub(r"[^\d.,]", "", t))
+    price = num(res["price"])
+    old = num(res["old"]) if res.get("old") else None
+    if old and old <= price * 1.01:
+        old = None
+    img = res.get("image") or None
+    if img:
+        img = re.sub(r"\._[^/]*_\.(jpg|png)$", r"._AC_SL500_.\1", img)
+    return (True, price, old, img)
+
+
 def parse(res):
     """Devolve (disponível, preço, preço_antigo, imagem) ou None se não deu para ler."""
     if not res:
         return None
+    if res.get("kind") == "amazon":
+        return parse_amazon(res)
     title = res.get("title") or ""
     head = re.sub(r"\s+", " ", res.get("head") or "")
     if UNAVAILABLE.search(head) or (not title and "R$" not in head):

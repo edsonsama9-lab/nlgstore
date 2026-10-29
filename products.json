@@ -10,7 +10,8 @@
    "tag": "Bundle",
    "img": "https://http2.mlstatic.com/D_NQ_NP_667226-MLA96871260244_112025-O.webp",
    "link": "https://meli.la/1zYeYNc",
-   "available": true
+   "available": true,
+   "featured": true
   },
   {
    "id": "2XK84oM",
@@ -72,7 +73,8 @@
    "tag": "Lançamento",
    "img": "https://http2.mlstatic.com/D_NQ_NP_639067-MLA114816196520_082026-O.webp",
    "link": "https://meli.la/1B1x48L",
-   "available": true
+   "available": true,
+   "featured": true
   },
   {
    "id": "2TSw4YJ",
@@ -133,7 +135,8 @@
    "price": 432.15,
    "img": "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
    "link": "https://meli.la/1NLiV5b",
-   "available": true
+   "available": true,
+   "featured": true
   },
   {
    "id": "2MNRSxd",
@@ -204,7 +207,8 @@
    "price": 347.4,
    "img": "https://http2.mlstatic.com/D_NQ_NP_791846-MLU70663323517_072023-O.webp",
    "link": "https://meli.la/1HwPSvZ",
-   "available": true
+   "available": true,
+   "featured": true
   },
   {
    "id": "2EmghV1",
@@ -264,7 +268,31 @@
    "price": 229.49,
    "img": "https://http2.mlstatic.com/D_NQ_NP_675471-MLA111791787900_062026-O.webp",
    "link": "https://meli.la/2fn6SbD",
-   "available": true
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0dtGcBxo",
+   "name": "Microfone USB FIFINE A6T RGB com Braço e Pop Filter",
+   "cat": "microfones",
+   "store": "amazon",
+   "price": 235.52,
+   "oldPrice": 348.99,
+   "tag": "Escolha da Amazon",
+   "img": "https://m.media-amazon.com/images/I/811EMBB42AL._AC_SL500_.jpg",
+   "link": "https://link.amazon/B0dtGcBxo",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0dwQFB5z",
+   "name": "Microfone USB FIFINE A6V RGB com Tripé e Pop Filter",
+   "cat": "microfones",
+   "store": "amazon",
+   "price": 0,
+   "img": "https://m.media-amazon.com/images/I/61ciiEJ7HRL._AC_SL500_.jpg",
+   "link": "https://link.amazon/B0dwQFB5z",
+   "available": false
   },
   {
    "id": "1ri1XP6",
@@ -295,6 +323,19 @@
    "img": "https://http2.mlstatic.com/D_NQ_NP_819571-MLA118157889799_092026-O.webp",
    "link": "https://meli.la/1J5CUmi",
    "available": true
+  },
+  {
+   "id": "B09oInFA8",
+   "name": "Teclado Gamer HyperX Alloy Core RGB ABNT2 Preto",
+   "cat": "teclados",
+   "store": "amazon",
+   "price": 149.9,
+   "oldPrice": 419.9,
+   "tag": "Escolha da Amazon",
+   "img": "https://m.media-amazon.com/images/I/61XRKm0vZaL._AC_SL500_.jpg",
+   "link": "https://link.amazon/B09oInFA8",
+   "available": true,
+   "featured": true
   },
   {
    "id": "2CU3gxo",
@@ -334,7 +375,8 @@
    "price": 104.54,
    "img": "https://http2.mlstatic.com/D_NQ_NP_957206-MLA99870256007_112025-O.webp",
    "link": "https://meli.la/1ibJGx5",
-   "available": true
+   "available": true,
+   "featured": true
   },
   {
    "id": "2bU81tS",
@@ -377,6 +419,62 @@
    "available": true
   },
   {
+   "id": "B01syE8b0",
+   "name": "Mousepad Gamer Havit MP860 Grande 70x30cm Preto",
+   "cat": "mousepad",
+   "store": "amazon",
+   "price": 32.22,
+   "oldPrice": 59.0,
+   "tag": "Escolha da Amazon",
+   "img": "https://m.media-amazon.com/images/I/718r+awekZL._AC_SL500_.jpg",
+   "link": "https://link.amazon/B01syE8b0",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0i0o9qxR",
+   "name": "Mousepad Gamer Havit MP845 Grande 70x30cm Jacquard",
+   "cat": "mousepad",
+   "store": "amazon",
+   "price": 0,
+   "img": "https://m.media-amazon.com/images/I/51MhpZf-C4L._AC_SL500_.jpg",
+   "link": "https://link.amazon/B0i0o9qxR",
+   "available": false
+  },
+  {
+   "id": "B0i9jFzDr",
+   "name": "SSD Kingston NV3 1TB M.2 NVMe Gen4",
+   "cat": "pc",
+   "store": "amazon",
+   "price": 925.3,
+   "oldPrice": 1039.0,
+   "tag": "Escolha da Amazon",
+   "img": "https://m.media-amazon.com/images/I/71ZnK38jZzL._AC_SL500_.jpg",
+   "link": "https://link.amazon/B0i9jFzDr",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0hi1lgA0",
+   "name": "Placa-mãe ASUS B760M-AYW WiFi D4 II Intel LGA 1700 mATX DDR4",
+   "cat": "pc",
+   "store": "amazon",
+   "price": 1072.55,
+   "img": "https://m.media-amazon.com/images/I/81aLJVTgADL._AC_SL500_.jpg",
+   "link": "https://link.amazon/B0hi1lgA0",
+   "available": true
+  },
+  {
+   "id": "B07Ebu7W4",
+   "name": "Memória RAM Kingston FURY Beast 16GB DDR4 3200MHz",
+   "cat": "pc",
+   "store": "amazon",
+   "price": 835.05,
+   "img": "https://m.media-amazon.com/images/I/51oYGzxUbsL._AC_SL500_.jpg",
+   "link": "https://link.amazon/B07Ebu7W4",
+   "available": true
+  },
+  {
    "id": "1pxDPbd",
    "name": "Gift Card PlayStation Store R$ 100 (Digital)",
    "cat": "giftcards",
@@ -385,7 +483,8 @@
    "oldPrice": 100,
    "img": "https://http2.mlstatic.com/D_NQ_NP_705903-MLA116553025803_082026-O.webp",
    "link": "https://meli.la/1pxDPbd",
-   "available": true
+   "available": true,
+   "featured": true
   },
   {
    "id": "17JJWxT",

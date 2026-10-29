@@ -147,6 +147,12 @@ section{padding-block:34px}
 .old{font-size:13px;color:var(--muted);text-decoration:line-through;font-variant-numeric:tabular-nums}
 .price{font-family:var(--f-display);font-weight:700;font-size:24px;color:var(--fg);font-variant-numeric:tabular-nums;line-height:1.1}
 .buy{width:100%}
+.rail{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(210px,232px);gap:14px;overflow-x:auto;padding-bottom:12px;scroll-snap-type:x mandatory;scrollbar-color:var(--yellow) var(--panel)}
+.rail>.card{scroll-snap-align:start}
+.rail-nav{display:flex;gap:8px}
+.rail-nav button{width:40px;height:40px;border-radius:4px;border:1px solid var(--line);background:var(--panel);color:var(--yellow);font-size:18px;line-height:1}
+.rail-nav button:hover{border-color:var(--yellow)}
+.cat-label{font-family:var(--f-display);font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.12em;color:var(--yellow)}
 .empty{grid-column:1/-1;text-align:center;padding:48px 16px;border:1px dashed var(--line);border-radius:6px;color:var(--muted)}
 .more{display:flex;justify-content:center;margin-top:22px}
 
@@ -178,6 +184,8 @@ footer a:hover{color:var(--yellow)}
   .foot{grid-template-columns:1fr 1fr}
 }
 @media (max-width:640px){
+  .rail{grid-auto-columns:minmax(170px,46vw)}
+  .rail-nav{display:none}
   .top-row{flex-wrap:wrap}
   .search{order:3;flex-basis:100%}
   .groups{margin-left:auto}
@@ -255,7 +263,20 @@ footer a:hover{color:var(--yellow)}
     </div>
   </div>
 
-  <section>
+  <section id="destaques">
+    <div class="wrap">
+      <div class="sec-head">
+        <div>
+          <h2>Destaques de cada categoria</h2>
+          <p>Uma escolha por departamento, puxando pelos mais procurados.</p>
+        </div>
+        <div class="rail-nav" aria-hidden="true"><button data-rail="-1" tabindex="-1">&#8249;</button><button data-rail="1" tabindex="-1">&#8250;</button></div>
+      </div>
+      <div class="rail" id="featured"></div>
+    </div>
+  </section>
+
+  <section style="padding-top:8px">
     <div class="wrap">
       <div class="sec-head">
         <div>
@@ -271,7 +292,7 @@ footer a:hover{color:var(--yellow)}
     <div class="wrap">
       <div class="sec-head">
         <div>
-          <h2>Destaques do dia</h2>
+          <h2>Todas as ofertas</h2>
           <p id="resultInfo">Preços conferidos pelo canal. Podem mudar a qualquer momento na loja.</p>
         </div>
       </div>
@@ -345,8 +366,8 @@ const CONFIG = {
 const STORES = {
   ml:      { name:"Mercado Livre", short:"ML", color:"#ffe600", fg:"#2d3277", link:"#" },
   shopee:  { name:"Shopee",        short:"S",  color:"#ee4d2d", fg:"#fff", link:"https://s.shopee.com.br/AKbiqoqLPe" },
-  amazon:  { name:"Amazon",        short:"a",  color:"#232f3e", fg:"#ff9900", link:"https://link.amazon/B0jfjJtJi" },
-  ali:     { name:"AliExpress",    short:"Ali",color:"#e43225", fg:"#fff", link:"#" },
+  amazon:  { name:"Amazon",        short:"a",  color:"#232f3e", fg:"#ff9900", dot:"#ff9900", link:"https://link.amazon/B0jfjJtJi" },
+  ali:     { name:"AliExpress",    short:"Ali",color:"#e43225", fg:"#fff", link:"https://s.click.aliexpress.com/e/_c30zYY6X" },
   magalu:  { name:"Magalu",        short:"M",  color:"#0086ff", fg:"#fff", link:"#" },
   kabum:   { name:"KaBuM!",        short:"K!", color:"#ff6500", fg:"#fff", link:"#" }
 };
@@ -359,9 +380,11 @@ const CATEGORIES = {
   dualsense: { name:"Controles PlayStation", icon:"controller" },
   xbox:      { name:"Controles Xbox",        icon:"controller" },
   headsets:  { name:"Headsets",              icon:"headset" },
+  microfones:{ name:"Microfones",            icon:"mic" },
   teclados:  { name:"Teclados",              icon:"keyboard" },
   mouse:     { name:"Mouses",                icon:"mouse" },
   mousepad:  { name:"Mousepads",             icon:"mousepad" },
+  pc:        { name:"Hardware PC",           icon:"gpu" },
   giftcards: { name:"Gift Cards",            icon:"gift" }
 };
 
@@ -382,7 +405,8 @@ const ICONS = {
   gift:'<rect x="3" y="8" width="18" height="13" rx="1"/><path d="M3 12h18M12 8v13M12 8c-2-4-6-4-6-1s6 1 6 1Zm0 0c2-4 6-4 6-1s-6 1-6 1Z"/>',
   mouse:'<rect x="6" y="3" width="12" height="18" rx="6"/><path d="M12 7v4"/>',
   mousepad:'<rect x="2" y="6" width="20" height="12" rx="2"/><rect x="13" y="8.5" width="5" height="7" rx="2.5"/>',
-  disc:'<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="2.5"/>'
+  disc:'<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="2.5"/>',
+  mic:'<rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v4M8 22h8"/>'
 };
 const SOCIAL_ICONS = {
   youtube:'<path fill="currentColor" d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .5 12a31 31 0 0 0 .5 4.8 3 3 0 0 0 2.1 2.1c1.9.5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1 31 31 0 0 0 .5-4.8 31 31 0 0 0-.5-4.8ZM9.7 15V9l5.8 3-5.8 3Z"/>',
@@ -410,7 +434,7 @@ function renderCounts(){
   $("#deptGrid").innerHTML = Object.entries(CATEGORIES).map(([k,c]) =>
     `<button data-cat="${k}">${esc(c.name)}<span>${countBy(k)}</span></button>`).join("");
 }
-const quick = ["consoles","dualsense","xbox","headsets","giftcards","jogos"];
+const quick = ["consoles","dualsense","xbox","headsets","pc","giftcards"];
 $("#navRow").insertAdjacentHTML("beforeend", quick.map(k =>
   `<button class="nav-link" data-cat="${k}" aria-pressed="false">${esc(CATEGORIES[k].name)}</button>`).join(""));
 $("#footCats").innerHTML = Object.entries(CATEGORIES).map(([k,c]) =>
@@ -455,7 +479,7 @@ function filtered(){
   return list;
 }
 
-function card(p){
+function card(p, showCat){
   const s = STORES[p.store], c = CATEGORIES[p.cat];
   const off = p.oldPrice ? Math.round((1-p.price/p.oldPrice)*100) : 0;
   const img = p.img
@@ -468,8 +492,9 @@ function card(p){
       ${off>0?`<span class="off">-${off}%</span>`:""}
     </a>
     <div class="body">
+      ${showCat?`<span class="cat-label">${esc(c.name)}</span>`:""}
       <h3 class="title">${esc(p.name)}</h3>
-      <div class="seller"><span class="dot" style="background:${s.color}"></span>Vendido por <b>${esc(s.name)}</b></div>
+      <div class="seller"><span class="dot" style="background:${s.dot||s.color}"></span><span>Vendido por <b>${esc(s.name)}</b></span></div>
       ${p.coupon?`<div class="coupon"><span><small>Use o cupom</small><code>${esc(p.coupon)}</code></span><button class="copy" data-copy="${esc(p.coupon)}">Copiar</button></div>`:""}
       <div class="price-row">
         ${p.oldPrice?`<span class="old">${brl(p.oldPrice)}</span>`:""}
@@ -481,6 +506,15 @@ function card(p){
       </a>
     </div>
   </article>`;
+}
+
+function renderFeatured(){
+  const picks = Object.keys(CATEGORIES).map(k => {
+    const inCat = PRODUCTS.filter(p=>p.cat===k);
+    return inCat.find(p=>p.featured) || inCat[0];
+  }).filter(Boolean);
+  $("#featured").innerHTML = picks.map(p=>card(p,true)).join("");
+  $("#destaques").hidden = !picks.length;
 }
 
 function render(){
@@ -513,6 +547,7 @@ document.addEventListener("click", e => {
   if(t.dataset.store){ state.store=t.dataset.store; state.shown=PAGE; renderFilters(); render(); return; }
   if(t.hasAttribute("data-clearcat")){ setCat("all"); return; }
   if(t.hasAttribute("data-reset")){ state={...state,q:"",store:"all",cat:"all",shown:PAGE}; $("#q").value=""; renderFilters(); render(); return; }
+  if(t.dataset.rail){ const r=$("#featured"); r.scrollBy({left:Number(t.dataset.rail)*r.clientWidth*0.8,behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); return; }
   if(t.id==="moreBtn"){ state.shown+=PAGE; render(); return; }
   if(t.dataset.copy){
     const code=t.dataset.copy;
@@ -533,7 +568,7 @@ function checkedText(){
 }
 fetch("products.json",{cache:"no-cache"})
   .then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
-  .then(d=>{ PRODUCTS=(d.products||[]).filter(p=>p.available!==false); UPDATED_AT=d.updatedAt||null; renderCounts(); renderFilters(); render(); })
+  .then(d=>{ PRODUCTS=(d.products||[]).filter(p=>p.available!==false); UPDATED_AT=d.updatedAt||null; renderCounts(); renderFeatured(); renderFilters(); render(); })
   .catch(()=>{ renderCounts(); renderFilters(); $("#grid").innerHTML='<div class="empty">Não foi possível carregar as ofertas agora. Atualize a página em alguns instantes.</div>'; $("#moreBtn").hidden=true; });
 </script>
 </body>
