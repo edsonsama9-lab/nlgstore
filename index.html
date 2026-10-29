@@ -51,7 +51,14 @@ button{font:inherit;color:inherit;cursor:pointer}
 .search input{width:100%;height:44px;border-radius:4px;border:1px solid var(--line);background:var(--panel);color:var(--fg);padding:0 44px 0 14px;font:inherit}
 .search input::placeholder{color:var(--muted)}
 .search input:focus{border-color:var(--yellow);outline:none}
-.search svg{position:absolute;right:13px;top:12px;width:20px;height:20px;color:var(--yellow)}
+.search{margin:0}
+.search button{position:absolute;right:2px;top:2px;width:40px;height:40px;border:0;background:none;color:var(--yellow);display:grid;place-items:center;border-radius:4px}
+.search button:hover{background:var(--panel-2)}
+.search svg{width:20px;height:20px}
+#ofertas,#destaques{scroll-margin-top:calc(env(safe-area-inset-top,0px) + 120px)}
+@media (max-width:640px){#ofertas,#destaques{scroll-margin-top:calc(env(safe-area-inset-top,0px) + 170px)}}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.clear-q{background:none;border:0;color:var(--yellow);text-decoration:underline;padding:0;font:inherit}
 .groups{display:flex;gap:8px;flex-shrink:0}
 .grp{display:flex;align-items:center;gap:8px;text-decoration:none;font-size:12px;line-height:1.15;font-weight:600;padding:7px 12px;border:1px solid var(--line);border-radius:4px}
 .grp:hover{border-color:var(--yellow)}
@@ -207,11 +214,11 @@ footer a:hover{color:var(--yellow)}
       <span class="logo-mark"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="square"><path d="M5 13l7-7 7 7M5 20l7-7 7 7"/></svg></span>
       <span class="logo-txt">NLG<small>Store</small></span>
     </a>
-    <label class="search">
-      <span hidden>Buscar produtos</span>
-      <input id="q" type="search" placeholder="Buscar controle, headset, SSD, console…" autocomplete="off">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-    </label>
+    <form class="search" id="searchForm" role="search">
+      <label for="q" class="sr-only">Buscar produtos</label>
+      <input id="q" type="search" placeholder="Buscar controle, headset, SSD, console…" autocomplete="off" enterkeyhint="search">
+      <button type="submit" aria-label="Buscar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
+    </form>
     <div class="groups">
       <a class="grp" id="lnk-whats" href="#" target="_blank" rel="noopener">
         <svg viewBox="0 0 24 24" fill="#25d366"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.2-.4.7-1.4.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.8 11.9 11.9 0 0 0 4.6 4c1.7.7 2.4.8 3.2.6a2.8 2.8 0 0 0 1.8-1.3 2.3 2.3 0 0 0 .2-1.3c-.1-.1-.3-.2-.5-.3Z"/></svg>
@@ -466,12 +473,38 @@ function renderFilters(){
   document.querySelectorAll(".nav-link").forEach(b=>b.setAttribute("aria-pressed", b.dataset.cat===state.cat));
 }
 
+/* Busca: cada palavra digitada precisa aparecer no produto (nome, departamento, loja ou apelidos) */
+const norm = t => String(t).normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9$ ]+/g," ").replace(/\s+/g," ").trim();
+const ALIASES = {
+  consoles:"console videogame video game ps5 playstation xbox nintendo switch",
+  jogos:"jogo game midia ps5 playstation",
+  dualsense:"controle joystick manete dualsense ps5 ps4 playstation sony",
+  xbox:"controle joystick manete xbox microsoft series",
+  headsets:"headset fone fone de ouvido audio",
+  microfones:"microfone mic streaming podcast",
+  teclados:"teclado mecanico",
+  mouse:"mouse",
+  mousepad:"mousepad mouse pad desk pad",
+  pc:"hardware pc componentes ssd memoria ram placa mae upgrade",
+  giftcards:"gift card giftcard cartao presente credito assinatura"
+};
+const hayCache = new Map();
+function haystack(p){
+  if(!hayCache.has(p)){
+    let h = norm(`${p.name} ${CATEGORIES[p.cat]?.name||""} ${STORES[p.store]?.name||""} ${ALIASES[p.cat]||""}`);
+    h = h.replace(/playstation 5/g,"playstation 5 ps5").replace(/playstation 4/g,"playstation 4 ps4");
+    hayCache.set(p, " "+h+" ");
+  }
+  return hayCache.get(p);
+}
+
 function filtered(){
-  const q = state.q.normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase().trim();
+  const words = norm(state.q).split(/\s+/).filter(Boolean);
   let list = PRODUCTS.filter(p =>
     (state.store==="all"||p.store===state.store) &&
     (state.cat==="all"||p.cat===state.cat) &&
-    (!q || (p.name+" "+CATEGORIES[p.cat].name+" "+STORES[p.store].name).normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase().includes(q)));
+    (!words.length || words.every(w => haystack(p).includes(w))));
+  if(words.length && state.sort==="rel"){ const byName = p => words.every(w => (" "+norm(p.name).replace(/playstation 5/g,"playstation 5 ps5")+" ").includes(w)) ? 0 : 1; list.sort((a,b)=>byName(a)-byName(b)); }
   const pct = p => p.oldPrice ? 1-p.price/p.oldPrice : 0;
   if(state.sort==="low") list.sort((a,b)=>a.price-b.price);
   if(state.sort==="high") list.sort((a,b)=>b.price-a.price);
@@ -520,13 +553,15 @@ function renderFeatured(){
 function render(){
   const list = filtered();
   const page = list.slice(0,state.shown);
-  $("#grid").innerHTML = page.length ? page.map(card).join("")
+  $("#grid").innerHTML = page.length ? page.map(p=>card(p)).join("")
     : `<div class="empty">Nenhuma oferta encontrada com esses filtros.<br><button class="btn btn-o" style="margin-top:14px" data-reset>Limpar filtros</button></div>`;
   $("#moreBtn").hidden = list.length <= state.shown;
   const filtering = state.q || state.store!=="all" || state.cat!=="all";
   $("#resultInfo").textContent = filtering
-    ? `${list.length} ${list.length===1?"oferta encontrada":"ofertas encontradas"}`
+    ? `${list.length} ${list.length===1?"oferta encontrada":"ofertas encontradas"}${state.q.trim()?` para “${state.q.trim()}”`:""}`
     : checkedText();
+  const info=$("#resultInfo");
+  if(state.q.trim()){ info.insertAdjacentHTML("beforeend",' · <button class="clear-q" data-reset>Limpar busca</button>'); }
 }
 
 function setCat(k){
@@ -558,7 +593,20 @@ document.addEventListener("click", e => {
 function selectCode(btn){ const el=btn.parentNode.querySelector("code"); const r=document.createRange(); r.selectNodeContents(el); const s=getSelection(); s.removeAllRanges(); s.addRange(r); toast("Cupom selecionado, copie com Ctrl+C"); }
 document.addEventListener("change", e => { if(e.target.id==="sort"){ state.sort=e.target.value; render(); } });
 document.addEventListener("keydown", e => { if(e.key==="Escape"){ $("#deptPanel").hidden=true; $("#deptBtn").setAttribute("aria-expanded","false"); } });
-let qT; $("#q").addEventListener("input", e => { clearTimeout(qT); qT=setTimeout(()=>{ state.q=e.target.value; state.shown=PAGE; render(); },150); });
+function goToResults(){
+  const el=document.getElementById("ofertas"); const top=el.getBoundingClientRect().top;
+  if(top>window.innerHeight*0.6 || top<0) el.scrollIntoView({behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block:"start"});
+}
+let qT;
+$("#q").addEventListener("input", e => {
+  clearTimeout(qT);
+  const was = state.q.trim();
+  qT=setTimeout(()=>{ state.q=e.target.value; state.shown=PAGE; render(); if(!was && state.q.trim()) goToResults(); },200);
+});
+$("#searchForm").addEventListener("submit", e => {
+  e.preventDefault(); clearTimeout(qT);
+  state.q=$("#q").value; state.shown=PAGE; render(); goToResults(); $("#q").blur();
+});
 
 function checkedText(){
   const base="Podem mudar a qualquer momento na loja.";
