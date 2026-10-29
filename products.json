@@ -65,6 +65,51 @@
    "available": true
   },
   {
+   "id": "1005006966123998",
+   "name": "Console Retrô Portátil R36S Tela 3.5\" IPS 64/128GB",
+   "cat": "retro",
+   "store": "ali",
+   "price": 186.59,
+   "oldPrice": 388.73,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Scef23243532f480885f4f760a45aa375E.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c36vZVQL",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1005009686782638",
+   "name": "Console Retrô Portátil R36 Ultra com Wi-Fi Tela 4\" IPS",
+   "cat": "retro",
+   "store": "ali",
+   "price": 219.07,
+   "oldPrice": 476.2,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sc0bed4ab4ec740fbaf1bbe0190515c022.png_480x480.png",
+   "link": "https://s.click.aliexpress.com/e/_c3p0n26P",
+   "available": true
+  },
+  {
+   "id": "1005006904735312",
+   "name": "Console Portátil Anbernic RG35XX H Tela 3.5\" IPS",
+   "cat": "retro",
+   "store": "ali",
+   "price": 433.82,
+   "oldPrice": 867.64,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S78baefbb036f4023b55a59a494950b20v.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c3ev8JKT",
+   "available": true
+  },
+  {
+   "id": "1005007805545971",
+   "name": "Console Portátil Anbernic RG40XX H Tela 4\" IPS",
+   "cat": "retro",
+   "store": "ali",
+   "price": 444.99,
+   "oldPrice": 927.06,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Scf080c4b1bac4de5a8cc5bb57553893fr.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c3NxV9Dp",
+   "available": true
+  },
+  {
    "id": "1B1x48L",
    "name": "Grand Theft Auto VI - PlayStation 5",
    "cat": "jogos",
@@ -221,6 +266,95 @@
    "available": true
   },
   {
+   "id": "1005012122397943",
+   "name": "Controle GameSir G7 Pro para Xbox Series X|S e PC com Sticks TMR e Hall Effect",
+   "cat": "xbox",
+   "store": "ali",
+   "price": 443.05,
+   "oldPrice": 476.35,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sd1bf885dc80043f58d7599a101a01451Q.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c3NmkpsX",
+   "available": true
+  },
+  {
+   "id": "1005005708451590",
+   "name": "Controle com Fio GameSir G7 SE para Xbox Series X|S e PC com Hall Effect",
+   "cat": "xbox",
+   "store": "ali",
+   "price": 255.38,
+   "oldPrice": 289.03,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S555334b997d3408594a1eb42c127c20ej.png_480x480.png",
+   "link": "https://s.click.aliexpress.com/e/_c3jb8mRh",
+   "available": true
+  },
+  {
+   "id": "1005006897761977",
+   "name": "Controle com Fio 8BitDo Ultimate C para Xbox com RGB e Hall Effect",
+   "cat": "xbox",
+   "store": "ali",
+   "price": 147.49,
+   "oldPrice": 202.3,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sd326d2ada90e474e94c5c9a85c735510r.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c3nmUHfd",
+   "available": true
+  },
+  {
+   "id": "1005008114401620",
+   "name": "Controle GameSir Cyclone 2 sem fio com Hall Effect (Switch 2, PC, Android e iPhone)",
+   "cat": "controles",
+   "store": "ali",
+   "price": 262.75,
+   "oldPrice": 324.06,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S5ec29644fdc64304b378209e2cf028043.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c3sotAGj",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1005010305106763",
+   "name": "Controle GameSir Nova Lite 2 sem fio com Hall Effect (Switch, PC, Android e iPhone)",
+   "cat": "controles",
+   "store": "ali",
+   "price": 180.51,
+   "oldPrice": 190.51,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sa898ef103a444c3d84f775dc19ae934am.png_480x480.png",
+   "link": "https://s.click.aliexpress.com/e/_c4bAfGkx",
+   "available": true
+  },
+  {
+   "id": "1005003913546013",
+   "name": "Controle 8BitDo Ultimate 2 sem fio com Sticks TMR (PC e Android)",
+   "cat": "controles",
+   "store": "ali",
+   "price": 290.06,
+   "oldPrice": 346.84,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S7769751458ac41549b87e76f18e7621bR.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4Mhv7Vp",
+   "available": true
+  },
+  {
+   "id": "1005007218956536",
+   "name": "Controle 8BitDo Ultimate 2C sem fio (PC, Steam Deck e Android)",
+   "cat": "controles",
+   "store": "ali",
+   "price": 124.83,
+   "oldPrice": 173.39,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sba9217218cd84fb282aefb37333e84a6l.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c3hVfJtv",
+   "available": true
+  },
+  {
+   "id": "1005010182516019",
+   "name": "Controle 8BitDo Pro 3 sem fio com Sticks TMR (Switch 1 e 2, PC e Apple)",
+   "cat": "controles",
+   "store": "ali",
+   "price": 291.67,
+   "oldPrice": 404.66,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sd531dc3bcba744cbad269c161887df11K.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4cDZPhv",
+   "available": true
+  },
+  {
    "id": "1g1ruAg",
    "name": "Fone de Ouvido sem fio PlayStation Pulse Elite - Midnight Black",
    "cat": "headsets",
@@ -302,6 +436,17 @@
    "available": true
   },
   {
+   "id": "1005009361746399",
+   "name": "Fone Bluetooth QCY MeloBuds N70 com Cancelamento de Ruído (ANC)",
+   "cat": "headsets",
+   "store": "ali",
+   "price": 257.18,
+   "oldPrice": 634.31,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sc9ab6c6d8585468cbdca0b92a71ad464Q.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4TpnrOT",
+   "available": true
+  },
+  {
    "id": "B0dtGcBxo",
    "name": "Microfone USB FIFINE A6T RGB com Braço e Pop Filter",
    "cat": "microfones",
@@ -368,6 +513,50 @@
    "featured": true
   },
   {
+   "id": "1005007539958713",
+   "name": "Teclado Mecânico AJAZZ AK820 75% sem fio Tri-Mode Hot Swap com Knob",
+   "cat": "teclados",
+   "store": "ali",
+   "price": 172.37,
+   "oldPrice": 368.97,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sc049d26647544bf4885f097ae400a8e7I.png_480x480.png",
+   "link": "https://s.click.aliexpress.com/e/_c3yPnTNh",
+   "available": true
+  },
+  {
+   "id": "1005007099240050",
+   "name": "Teclado Mecânico AULA F75 75% sem fio Tri-Mode RGB Gasket",
+   "cat": "teclados",
+   "store": "ali",
+   "price": 352.93,
+   "oldPrice": 715.35,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S9d0c285127124820ae8fda27a0cc0b34k.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4afH1dv",
+   "available": true
+  },
+  {
+   "id": "1005008406353375",
+   "name": "Teclado Magnético MonsGeek FUN60 60% Rapid Trigger 8K",
+   "cat": "teclados",
+   "store": "ali",
+   "price": 196.99,
+   "oldPrice": 410.4,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S8c3067b1a1a0444eaa2c939bce06a7f3Y.png_480x480.png",
+   "link": "https://s.click.aliexpress.com/e/_c43sOLZp",
+   "available": true
+  },
+  {
+   "id": "1005008813162763",
+   "name": "Teclado Magnético Attack Shark X68HE Rapid Trigger 8000Hz",
+   "cat": "teclados",
+   "store": "ali",
+   "price": 283.47,
+   "oldPrice": 611.39,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S42c1560064ce48ccbdac9f1fd7729d52G.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4VuwjI7",
+   "available": true
+  },
+  {
    "id": "2CU3gxo",
    "name": "Mouse Gamer HyperX Pulsefire Haste 2 Core sem fio, Leve e com Bateria de Longa Duração",
    "cat": "mouse",
@@ -416,6 +605,17 @@
    "price": 91.9,
    "img": "https://http2.mlstatic.com/D_NQ_NP_898286-MLA95664298408_102025-O.webp",
    "link": "https://meli.la/2bU81tS",
+   "available": true
+  },
+  {
+   "id": "1005006996396465",
+   "name": "Mouse Gamer sem fio Logitech G304 Lightspeed",
+   "cat": "mouse",
+   "store": "ali",
+   "price": 79.6,
+   "oldPrice": 175.7,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S9e29885da08a459f974e139e2943430eW.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4NmnOnv",
    "available": true
   },
   {
@@ -607,6 +807,16 @@
    "available": true
   },
   {
+   "id": "1005009022236959",
+   "name": "Fita LED RGB USB para TV com Controle por App",
+   "cat": "tvs",
+   "store": "ali",
+   "price": 15.14,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sec1cb5eee0484f3c814c05f59062809da.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c39JiYtl",
+   "available": true
+  },
+  {
    "id": "B0D8V3QLDD",
    "name": "Filtro de Linha Clamper iCLAMPER Energia 5 Tomadas Bivolt",
    "cat": "casa",
@@ -686,6 +896,17 @@
    "price": 149.89,
    "img": "https://m.media-amazon.com/images/I/819KK4qPMeL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B07X4JG2G4?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "1005006995250429",
+   "name": "Base Carregadora Dupla para Controle DualSense PS5",
+   "cat": "pilhas",
+   "store": "ali",
+   "price": 49.91,
+   "oldPrice": 109.32,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S874d388720044eb093dd92ddb17d8092g.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4DnHEL1",
    "available": true
   },
   {

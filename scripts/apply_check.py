@@ -35,12 +35,31 @@ def parse_amazon(res):
     return (True, price, old, img)
 
 
+def parse_ali(res):
+    if not res.get("title"):
+        return None
+    if res.get("soldout") or not res.get("price"):
+        return (False, None, None, None)
+    num = lambda t: money(re.sub(r"[^\d.,]", "", t))
+    price = num(res["price"])
+    old = num(res["old"]) if res.get("old") else None
+    if old and old <= price * 1.01:
+        old = None
+    img = res.get("image") or None
+    if img:
+        ext = img.rsplit(".", 1)[-1]
+        img = f"{img}_480x480.{ext}"
+    return (True, price, old, img)
+
+
 def parse(res):
     """Devolve (disponível, preço, preço_antigo, imagem) ou None se não deu para ler."""
     if not res:
         return None
     if res.get("kind") == "amazon":
         return parse_amazon(res)
+    if res.get("kind") == "ali":
+        return parse_ali(res)
     title = res.get("title") or ""
     head = re.sub(r"\s+", " ", res.get("head") or "")
     if UNAVAILABLE.search(head) or (not title and "R$" not in head):
