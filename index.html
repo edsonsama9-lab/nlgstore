@@ -271,6 +271,19 @@ footer a:hover{color:var(--yellow)}
     </div>
   </div>
 
+  <section id="meusetup" hidden>
+    <div class="wrap">
+      <div class="sec-head">
+        <div>
+          <h2>O PC do canal</h2>
+          <p>As peças que eu uso no meu setup, uma por uma.</p>
+        </div>
+        <div class="rail-nav" aria-hidden="true"><button data-rail="-1" data-target="setupRail" tabindex="-1">&#8249;</button><button data-rail="1" data-target="setupRail" tabindex="-1">&#8250;</button></div>
+      </div>
+      <div class="rail" id="setupRail"></div>
+    </div>
+  </section>
+
   <section id="destaques">
     <div class="wrap">
       <div class="sec-head">
@@ -594,7 +607,15 @@ function card(p, showCat){
   </article>`;
 }
 
+const SETUP_ORDER = ["cpu","gpu","ram","placamae","armazenamento","refrigeracao","fontes","gabinetes"];
+function renderSetup(){
+  const mine = PRODUCTS.filter(p=>p.tag==="Meu Setup")
+    .sort((a,b)=>SETUP_ORDER.indexOf(a.cat)-SETUP_ORDER.indexOf(b.cat));
+  $("#setupRail").innerHTML = mine.map(p=>card(p,true)).join("");
+  $("#meusetup").hidden = !mine.length;
+}
 function renderFeatured(){
+  renderSetup();
   const picks = Object.keys(CATEGORIES).map(k => {
     const inCat = PRODUCTS.filter(p=>p.cat===k);
     return inCat.find(p=>p.featured) || inCat[0];
@@ -635,7 +656,7 @@ document.addEventListener("click", e => {
   if(t.dataset.store){ state.store=t.dataset.store; state.shown=PAGE; renderFilters(); render(); return; }
   if(t.hasAttribute("data-clearcat")){ setCat("all"); return; }
   if(t.hasAttribute("data-reset")){ state={...state,q:"",store:"all",cat:"all",shown:PAGE}; $("#q").value=""; renderFilters(); render(); return; }
-  if(t.dataset.rail){ const r=$("#featured"); r.scrollBy({left:Number(t.dataset.rail)*r.clientWidth*0.8,behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); return; }
+  if(t.dataset.rail){ const r=$("#"+(t.dataset.target||"featured")); r.scrollBy({left:Number(t.dataset.rail)*r.clientWidth*0.8,behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); return; }
   if(t.id==="moreBtn"){ state.shown+=PAGE; render(); return; }
   if(t.dataset.copy){
     const code=t.dataset.copy;

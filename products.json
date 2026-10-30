@@ -792,7 +792,7 @@
    "store": "amazon",
    "price": 920.55,
    "oldPrice": 1034,
-   "tag": "Escolha da Amazon",
+   "tag": "Meu Setup",
    "img": "https://m.media-amazon.com/images/I/71ZnK38jZzL._AC_SL500_.jpg",
    "link": "https://link.amazon/B0i9jFzDr",
    "available": true,
@@ -806,7 +806,9 @@
    "price": 1072.55,
    "img": "https://m.media-amazon.com/images/I/81aLJVTgADL._AC_SL500_.jpg",
    "link": "https://link.amazon/B0hi1lgA0",
-   "available": true
+   "available": true,
+   "tag": "Meu Setup",
+   "featured": true
   },
   {
    "id": "B07Ebu7W4",
@@ -1529,8 +1531,7 @@
    "oldPrice": 3325.0,
    "img": "https://m.media-amazon.com/images/I/81UzzpO5dML._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B09729YMPT?tag=nlgstore-20",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B0F8BR2H6Z",
@@ -1573,8 +1574,7 @@
    "oldPrice": 1166.64,
    "img": "https://m.media-amazon.com/images/I/51So7GoGvxL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B09VCJ171S?tag=nlgstore-20",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B09VCHR1VH",
@@ -1637,8 +1637,7 @@
    "oldPrice": 871.45,
    "img": "https://m.media-amazon.com/images/I/81QyMksmunL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B08BN8VD23?tag=nlgstore-20",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B089HDJS79",
@@ -1690,8 +1689,7 @@
    "price": 930.99,
    "img": "https://m.media-amazon.com/images/I/61uXihcspuL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B097K2WBL3?tag=nlgstore-20",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B0C69V5N6W",
@@ -1782,8 +1780,7 @@
    "price": 433.22,
    "img": "https://m.media-amazon.com/images/I/81ksnT7oAFL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0CRHN3M8D?tag=nlgstore-20",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B0DY846XK5",
@@ -1825,8 +1822,7 @@
    "price": 340.53,
    "img": "https://m.media-amazon.com/images/I/71kjOOMZpBL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0CXQDHYZL?tag=nlgstore-20",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B01MTDJ6VP",
@@ -2188,6 +2184,68 @@
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Se2fce926723340f0805f1a9040189450a.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3N9M1Wb",
    "available": true
+  },
+  {
+   "id": "B0CHBH63YX",
+   "name": "Processador Intel Core i5-14600KF LGA1700 14ª Geração (até 5.3GHz)",
+   "cat": "cpu",
+   "store": "amazon",
+   "price": 1479.99,
+   "oldPrice": 1899.99,
+   "tag": "Meu Setup",
+   "img": "https://m.media-amazon.com/images/I/615MgoZ62BL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CHBH63YX?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0F32ND24S",
+   "name": "Placa de Vídeo MSI GeForce RTX 5060 Ti Ventus 2X OC Plus 8GB GDDR7",
+   "cat": "gpu",
+   "store": "amazon",
+   "price": 3837.05,
+   "tag": "Meu Setup",
+   "img": "https://m.media-amazon.com/images/I/71yZ+zHNPxL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0F32ND24S?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B097K2WKZW",
+   "name": "Memória RAM Kingston FURY Beast 32GB (2x16GB) DDR4 3200MHz",
+   "cat": "ram",
+   "store": "amazon",
+   "price": 1709.99,
+   "tag": "Meu Setup",
+   "img": "https://m.media-amazon.com/images/I/5150HvlLv0L._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B097K2WKZW?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0H37CRQ58",
+   "name": "Fonte Corsair RM750e 750W 80 Plus Gold Modular ATX 3.1",
+   "cat": "fontes",
+   "store": "amazon",
+   "price": 633.32,
+   "oldPrice": 733.32,
+   "tag": "Meu Setup",
+   "img": "https://m.media-amazon.com/images/I/51TO+Fm8DvL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0H37CRQ58?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0GTC9GHYT",
+   "name": "Gabinete Gamer Kalkan Asgard Evo ATX Aquário Câmara Dupla Preto",
+   "cat": "gabinetes",
+   "store": "amazon",
+   "price": 370.4,
+   "tag": "Meu Setup",
+   "img": "https://m.media-amazon.com/images/I/61rifDw2PuL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0GTC9GHYT?tag=nlgstore-20",
+   "available": true,
+   "featured": true
   }
  ]
 }
