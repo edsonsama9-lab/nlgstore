@@ -396,7 +396,16 @@ const CATEGORIES = {
   teclados:  { name:"Teclados",              icon:"keyboard" },
   mouse:     { name:"Mouses",                icon:"mouse" },
   mousepad:  { name:"Mousepads",             icon:"mousepad" },
-  pc:        { name:"Hardware PC",           icon:"gpu" },
+  gpu:       { name:"Placas de Vídeo",       icon:"gpu" },
+  cpu:       { name:"Processadores",         icon:"cpu" },
+  placamae:  { name:"Placas-mãe e Kits",     icon:"mobo" },
+  ram:       { name:"Memória RAM",           icon:"ram" },
+  armazenamento:{ name:"SSD e HD",           icon:"ssd" },
+  gabinetes: { name:"Gabinetes",             icon:"case" },
+  fontes:    { name:"Fontes",                icon:"psu" },
+  refrigeracao:{ name:"Coolers e Refrigeração", icon:"fan" },
+  monitores: { name:"Monitores",             icon:"monitor" },
+  pc:        { name:"Rede, Captura e Acessórios de PC", icon:"gpu" },
   setup:     { name:"Setup Gamer",           icon:"chair" },
   celulares: { name:"Celulares e Smartwatch", icon:"phone" },
   tvs:       { name:"TVs e Streaming",       icon:"monitor" },
@@ -432,6 +441,12 @@ const ICONS = {
   battery:'<rect x="3" y="7" width="16" height="10" rx="2"/><path d="M21 10v4M7 10v4M11 10v4"/>',
   phone:'<rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M11 18h2"/>',
   coffee:'<path d="M4 9h13v5a6 6 0 0 1-6 6h-1a6 6 0 0 1-6-6V9Z"/><path d="M17 11h1.5a2.5 2.5 0 0 1 0 5H17M8 2.5c-.8 1 .8 2 0 3M12 2.5c-.8 1 .8 2 0 3"/>',
+  cpu:'<rect x="6" y="6" width="12" height="12" rx="1.5"/><rect x="9.5" y="9.5" width="5" height="5"/><path d="M9 2v4M15 2v4M9 18v4M15 18v4M2 9h4M2 15h4M18 9h4M18 15h4"/>',
+  mobo:'<rect x="3" y="3" width="18" height="18" rx="1.5"/><rect x="6" y="6" width="5" height="5"/><path d="M14 6h4M14 9h4M6 15h12M6 18h8"/>',
+  ram:'<rect x="2" y="7" width="20" height="9" rx="1"/><path d="M6 10v3M10 10v3M14 10v3M18 10v3M4 16v2M20 16v2M11 16v2"/>',
+  case:'<rect x="6" y="2" width="12" height="20" rx="1.5"/><circle cx="12" cy="9" r="3"/><path d="M9 17h6M9 19h3"/>',
+  psu:'<rect x="2" y="5" width="20" height="14" rx="1.5"/><circle cx="9" cy="12" r="4"/><path d="M9 8v8M5 12h8M16 9h3M16 12h3M16 15h3"/>',
+  fan:'<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="1.5"/><path d="M12 10.5c-1-3 0-6 2.5-6M13.5 12c3-1 6 0 6 2.5M12 13.5c1 3 0 6-2.5 6M10.5 12c-3 1-6 0-6-2.5"/>',
   mic:'<rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v4M8 22h8"/>'
 };
 const SOCIAL_ICONS = {
@@ -460,7 +475,7 @@ function renderCounts(){
   $("#deptGrid").innerHTML = Object.entries(CATEGORIES).map(([k,c]) =>
     `<button data-cat="${k}">${esc(c.name)}<span>${countBy(k)}</span></button>`).join("");
 }
-const quick = ["consoles","retro","dualsense","xbox","controles","acessorios","headsets","pc","setup","celulares","cafe"];
+const quick = ["consoles","retro","dualsense","xbox","controles","acessorios","headsets","gpu","cpu","monitores","setup","celulares","cafe"];
 $("#navRow").insertAdjacentHTML("beforeend", quick.map(k =>
   `<button class="nav-link" data-cat="${k}" aria-pressed="false">${esc(CATEGORIES[k].name)}</button>`).join(""));
 $("#footCats").innerHTML = Object.entries(CATEGORIES).map(([k,c]) =>
@@ -506,7 +521,16 @@ const ALIASES = {
   teclados:"teclado mecanico",
   mouse:"mouse",
   mousepad:"mousepad mouse pad desk pad",
-  pc:"hardware pc componentes peca pecas upgrade",
+  pc:"hardware pc componentes peca pecas upgrade placa de rede wifi wi fi bluetooth captura stream",
+  gpu:"placa de video placas gpu vga rtx radeon geforce nvidia amd hardware pc componentes peca pecas",
+  cpu:"processador processadores cpu ryzen intel xeon amd hardware pc componentes peca pecas",
+  placamae:"placa mae placa-mae placas motherboard kit x99 hardware pc componentes peca pecas",
+  ram:"memoria memorias ram ddr4 ddr5 hardware pc componentes peca pecas",
+  armazenamento:"ssd hd nvme m2 armazenamento disco hardware pc componentes peca pecas",
+  gabinetes:"gabinete gabinetes case hardware pc componentes peca pecas",
+  fontes:"fonte fontes psu alimentacao hardware pc componentes peca pecas",
+  refrigeracao:"cooler coolers fan fans ventoinha water cooler pasta termica refrigeracao hardware pc componentes peca pecas",
+  monitores:"monitor monitores tela gamer pc",
   giftcards:"gift card giftcard cartao presente credito assinatura",
   cafe:"cafe cafes coffee barista",
   celulares:"celular celulares smartphone eletronico eletronicos",
