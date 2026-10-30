@@ -390,12 +390,14 @@ const CATEGORIES = {
   dualsense: { name:"Controles PlayStation", icon:"controller" },
   xbox:      { name:"Controles Xbox",        icon:"controller" },
   controles: { name:"Controles Multiplataforma", icon:"controller" },
+  acessorios:{ name:"Acessórios para Controle e Console", icon:"grip" },
   headsets:  { name:"Fones e Headsets",      icon:"headset" },
   microfones:{ name:"Microfones",            icon:"mic" },
   teclados:  { name:"Teclados",              icon:"keyboard" },
   mouse:     { name:"Mouses",                icon:"mouse" },
   mousepad:  { name:"Mousepads",             icon:"mousepad" },
   pc:        { name:"Hardware PC",           icon:"gpu" },
+  setup:     { name:"Setup Gamer",           icon:"chair" },
   celulares: { name:"Celulares e Smartwatch", icon:"phone" },
   tvs:       { name:"TVs e Streaming",       icon:"monitor" },
   casa:      { name:"Casa e Escritório",     icon:"home" },
@@ -425,6 +427,7 @@ const ICONS = {
   disc:'<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="2.5"/>',
   handheld:'<rect x="6" y="2" width="12" height="20" rx="2"/><rect x="8" y="4.5" width="8" height="7" rx="1"/><path d="M9 15v3M7.5 16.5h3M15 15.5h.01M16 17.5h.01"/>',
   shirt:'<path d="M8 3 3 6l2 5 3-1v11h8V10l3 1 2-5-5-3a4 4 0 0 1-8 0Z"/>',
+  grip:'<circle cx="8" cy="12" r="4"/><circle cx="16" cy="12" r="4"/><circle cx="8" cy="12" r="1.5"/><circle cx="16" cy="12" r="1.5"/>',
   home:'<path d="M3 11 12 4l9 7"/><path d="M5 10v10h14V10M10 20v-6h4v6"/>',
   battery:'<rect x="3" y="7" width="16" height="10" rx="2"/><path d="M21 10v4M7 10v4M11 10v4"/>',
   phone:'<rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M11 18h2"/>',
@@ -457,7 +460,7 @@ function renderCounts(){
   $("#deptGrid").innerHTML = Object.entries(CATEGORIES).map(([k,c]) =>
     `<button data-cat="${k}">${esc(c.name)}<span>${countBy(k)}</span></button>`).join("");
 }
-const quick = ["consoles","retro","dualsense","xbox","controles","headsets","pc","celulares","tvs","cafe"];
+const quick = ["consoles","retro","dualsense","xbox","controles","acessorios","headsets","pc","setup","celulares","cafe"];
 $("#navRow").insertAdjacentHTML("beforeend", quick.map(k =>
   `<button class="nav-link" data-cat="${k}" aria-pressed="false">${esc(CATEGORIES[k].name)}</button>`).join(""));
 $("#footCats").innerHTML = Object.entries(CATEGORIES).map(([k,c]) =>
@@ -510,6 +513,8 @@ const ALIASES = {
   tvs:"tv tvs televisao televisor streaming eletronico eletronicos",
   casa:"casa escritorio eletronico eletronicos",
   pilhas:"pilha pilhas bateria baterias carregador recarregavel",
+  acessorios:"acessorio acessorios console controle",
+  setup:"setup quarto gamer decoracao",
   roupas:"roupa roupas vestuario geek"
 };
 const hayCache = new Map();

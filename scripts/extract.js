@@ -26,6 +26,19 @@
       url: location.href.split("?")[0]
     };
   }
+  if (/shopee\./.test(location.hostname)) {
+    const main = (document.querySelector("main") || document.body).innerText || "";
+    const prices = main.slice(0, 4000).match(/R\$\s?[\d.]+,\d{2}/g) || [];
+    return {
+      kind: "shopee",
+      title: document.querySelector('meta[property="og:title"]')?.content || document.title || "",
+      price: prices[0] || "",
+      old: prices[1] || "",
+      image: document.querySelector('meta[property="og:image"]')?.content || "",
+      soldout: /esgotado|indispon[ií]vel|produto não existe|não está mais disponível/i.test(main.slice(0, 4000)),
+      url: location.href.split("?")[0]
+    };
+  }
   const og = p => document.querySelector(`meta[property="og:${p}"]`)?.content || "";
   const main = (document.querySelector("main") || document.body).innerText || "";
   const head = main.split(/\n\s*Para você\s*\n/)[0].slice(0, 1500);

@@ -60,6 +60,9 @@ def parse(res):
         return parse_amazon(res)
     if res.get("kind") == "ali":
         return parse_ali(res)
+    if res.get("kind") == "shopee":
+        r = parse_ali({**res, "image": None})  # mesmo formato de preço; mantém a foto atual
+        return r
     title = res.get("title") or ""
     head = re.sub(r"\s+", " ", res.get("head") or "")
     if UNAVAILABLE.search(head) or (not title and "R$" not in head):
