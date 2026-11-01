@@ -891,7 +891,7 @@
   {
    "id": "1241281618.20098202552",
    "name": "Cadeira Gamer Ergonômica Reclinável com Altura Ajustável",
-   "cat": "setup",
+   "cat": "cadeiras",
    "store": "shopee",
    "price": 359.15,
    "oldPrice": 1500.0,
@@ -902,7 +902,7 @@
   {
    "id": "1388709282.58258357808",
    "name": "Cadeira Gamer Fox Racer Nordic Preta",
-   "cat": "setup",
+   "cat": "cadeiras",
    "store": "shopee",
    "price": 322.91,
    "oldPrice": 1099.0,
@@ -913,7 +913,7 @@
   {
    "id": "1431552632.20899600608",
    "name": "Mesa Gamer Escrivaninha para Computador",
-   "cat": "setup",
+   "cat": "mesas",
    "store": "shopee",
    "price": 136.71,
    "oldPrice": 239.9,
@@ -924,7 +924,7 @@
   {
    "id": "469224847.44281056948",
    "name": "Escrivaninha Gamer com Suporte para CPU e Prateleira",
-   "cat": "setup",
+   "cat": "mesas",
    "store": "shopee",
    "price": 142.5,
    "oldPrice": 399.99,
@@ -2249,6 +2249,125 @@
    "link": "https://www.amazon.com.br/dp/B0GTC9GHYT?tag=nlgstore-20",
    "available": true,
    "featured": true
+  },
+  {
+   "id": "B00ELBQIKA",
+   "name": "Cadeira Gamer ThunderX3 TGC12 Preta",
+   "cat": "cadeiras",
+   "store": "amazon",
+   "price": 998.99,
+   "oldPrice": 1931,
+   "img": "https://m.media-amazon.com/images/I/71VqjPlOJAL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B00ELBQIKA?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0CJTYM3FH",
+   "name": "Cadeira Gamer Ergonômica com Apoio para os Pés Vermelha",
+   "cat": "cadeiras",
+   "store": "amazon",
+   "price": 474.05,
+   "img": "https://m.media-amazon.com/images/I/71FrXc9T1SL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CJTYM3FH?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0D78TTV94",
+   "name": "Cadeira Gamer Python Fly em Tecido Respirável Cinza",
+   "cat": "cadeiras",
+   "store": "amazon",
+   "price": 474.99,
+   "img": "https://m.media-amazon.com/images/I/714s0-e1cmL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0D78TTV94?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B07XM8KGBB",
+   "name": "Cadeira de Escritório Ergonômica ThunderX3 YAMA1 Preta",
+   "cat": "cadeiras",
+   "store": "amazon",
+   "price": 1139.9,
+   "oldPrice": 1441.08,
+   "img": "https://m.media-amazon.com/images/I/51W9FnH1Q1L._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B07XM8KGBB?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B07YF1PNKK",
+   "name": "Cadeira de Escritório Presidente Giratória Ergonômica ANM312",
+   "cat": "cadeiras",
+   "store": "amazon",
+   "price": 619,
+   "oldPrice": 699,
+   "img": "https://m.media-amazon.com/images/I/81ZrGkAdhsL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B07YF1PNKK?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B09VNBCFDJ",
+   "name": "Cadeira de Escritório Presidente Duoffice Atlanta DU500A",
+   "cat": "cadeiras",
+   "store": "amazon",
+   "price": 474.9,
+   "img": "https://m.media-amazon.com/images/I/51BMMOKhSJL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B09VNBCFDJ?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0CG8LWT97",
+   "name": "Cadeira de Escritório Ergonômica NR-17 com Suporte Lombar e Tela Mesh",
+   "cat": "cadeiras",
+   "store": "amazon",
+   "price": 379.05,
+   "oldPrice": 599,
+   "img": "https://m.media-amazon.com/images/I/618Pn1Aq6HL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CG8LWT97?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B08LQRYBNV",
+   "name": "Mesa Gamer Madesa 9409 Preta",
+   "cat": "mesas",
+   "store": "amazon",
+   "price": 296.99,
+   "oldPrice": 349.99,
+   "img": "https://m.media-amazon.com/images/I/61M0zF5KovL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B08LQRYBNV?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B089Y3S71L",
+   "name": "Escrivaninha Trevalla Kuadra 150cm Preto Ônix",
+   "cat": "mesas",
+   "store": "amazon",
+   "price": 297.47,
+   "img": "https://m.media-amazon.com/images/I/61BR+BkI0xL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B089Y3S71L?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B089Y4SNJZ",
+   "name": "Mesa de Escritório em L Kuadra 1,50m x 1,50m",
+   "cat": "mesas",
+   "store": "amazon",
+   "price": 397.72,
+   "oldPrice": 513.36,
+   "img": "https://m.media-amazon.com/images/I/31RU-AWsqOL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B089Y4SNJZ?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B08YP35XRT",
+   "name": "Escrivaninha Artely Match com Estante Lateral Preto/Pinho",
+   "cat": "mesas",
+   "store": "amazon",
+   "price": 292.89,
+   "oldPrice": 529,
+   "img": "https://m.media-amazon.com/images/I/61SwLdyBdFL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B08YP35XRT?tag=nlgstore-20",
+   "available": true
   }
  ]
 }
