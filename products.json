@@ -11,8 +11,18 @@
    "img": "https://http2.mlstatic.com/D_NQ_NP_667226-MLA96871260244_112025-O.webp",
    "link": "https://meli.la/1zYeYNc",
    "available": true,
-   "featured": true,
    "oldPrice": 4599
+  },
+  {
+   "id": "B0FPGF9J2J",
+   "name": "Console PlayStation 5 Slim Digital 825GB - Pacote Astro Bot e Gran Turismo 7",
+   "cat": "consoles",
+   "store": "amazon",
+   "price": 4146.86,
+   "img": "https://m.media-amazon.com/images/I/71WCygaQDAL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FPGF9J2J?tag=nlgstore-20",
+   "available": true,
+   "featured": true
   },
   {
    "id": "2XK84oM",
