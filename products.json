@@ -38,8 +38,7 @@
    "link": "https://meli.la/2XK84oM",
    "available": true,
    "oldPrice": 5699,
-   "promo": true,
-   "promoRank": 3
+   "promo": true
   },
   {
    "id": "2ME7orZ",
@@ -67,11 +66,12 @@
    "name": "Nintendo Switch OLED 64GB",
    "cat": "consoles",
    "store": "ml",
-   "price": 1999,
+   "price": 1899,
    "img": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-O.webp",
    "link": "https://meli.la/2YF8HeF",
    "available": true,
-   "oldPrice": 3299
+   "oldPrice": 2999,
+   "promo": true
   },
   {
    "id": "1iepuLV",
@@ -217,8 +217,7 @@
    "link": "https://meli.la/2MNRSxd",
    "available": true,
    "oldPrice": 447,
-   "promo": true,
-   "promoRank": 9
+   "promo": true
   },
   {
    "id": "34gFcd2",
@@ -254,7 +253,7 @@
    "available": true,
    "oldPrice": 499.99,
    "promo": true,
-   "promoRank": 8
+   "promoRank": 14
   },
   {
    "id": "1FvRK6D",
@@ -496,7 +495,7 @@
    "available": true,
    "oldPrice": 1099,
    "promo": true,
-   "promoRank": 7
+   "promoRank": 10
   },
   {
    "id": "1zTN2MK",
@@ -1101,7 +1100,7 @@
    "available": true,
    "oldPrice": 649,
    "promo": true,
-   "promoRank": 5
+   "promoRank": 12
   },
   {
    "id": "B098YHFT9S",
@@ -1128,7 +1127,7 @@
   {
    "id": "B0FHCHBRGF",
    "name": "Notebook Dell 15 Intel Core i5-1334U Tela 15.6\" FHD 120Hz Windows 11",
-   "cat": "casa",
+   "cat": "notebooks",
    "store": "amazon",
    "price": 3899,
    "img": "https://m.media-amazon.com/images/I/51LAU1+ACrL._AC_SL500_.jpg",
@@ -2552,7 +2551,7 @@
    "available": true,
    "promo": true,
    "oldPrice": 499.9,
-   "promoRank": 4
+   "promoRank": 6
   },
   {
    "id": "1343318906.28134934148",
@@ -2661,7 +2660,7 @@
    "available": true,
    "promo": true,
    "oldPrice": 1989,
-   "promoRank": 11
+   "promoRank": 16
   },
   {
    "id": "1388709282.21098130533",
@@ -2723,7 +2722,7 @@
    "link": "https://www.amazon.com.br/dp/B0FR6PC1FB?tag=nlgstore-20",
    "available": true,
    "promo": true,
-   "promoRank": 2
+   "promoRank": 3
   },
   {
    "id": "B0HKYBZRN1",
@@ -2749,7 +2748,7 @@
    "available": true,
    "promo": true,
    "featured": true,
-   "promoRank": 6
+   "promoRank": 8
   },
   {
    "id": "B088GNW267",
@@ -2833,8 +2832,7 @@
    "img": "https://m.media-amazon.com/images/I/51sg9BLSMTL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B07GPRWFC5?tag=nlgstore-20",
    "available": true,
-   "promo": true,
-   "promoRank": 12
+   "promo": true
   },
   {
    "id": "B0FHWYPYF4",
@@ -2859,7 +2857,7 @@
    "link": "https://www.amazon.com.br/dp/B0GGLJCJQM?tag=nlgstore-20",
    "available": true,
    "promo": true,
-   "promoRank": 10
+   "promoRank": 15
   },
   {
    "id": "B0CD2RBWM6",
@@ -2932,6 +2930,218 @@
    "link": "https://www.amazon.com.br/dp/B0DVK166SV?tag=nlgstore-20",
    "available": true,
    "promo": true
+  },
+  {
+   "id": "22FX56W",
+   "name": "Nintendo Switch 2 + Mario Kart World + 3 meses de NSO (Bundle)",
+   "cat": "consoles",
+   "store": "ml",
+   "price": 4399,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_642168-MLA118780566083_102026-O.webp",
+   "link": "https://meli.la/22FX56W",
+   "available": true,
+   "promo": true,
+   "oldPrice": 5699,
+   "promoRank": 5
+  },
+  {
+   "id": "1quDiHp",
+   "name": "Nintendo Switch 2 + EA Sports FC 27 (Bundle)",
+   "cat": "consoles",
+   "store": "ml",
+   "price": 3961,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_621310-MLB117384489436_102026-O.webp",
+   "link": "https://meli.la/1quDiHp",
+   "available": true,
+   "promo": true,
+   "oldPrice": 4699,
+   "promoRank": 4
+  },
+  {
+   "id": "2PQBQpJ",
+   "name": "GTA VI (Grand Theft Auto VI) Edição Standard – PS5",
+   "cat": "jogos",
+   "store": "ml",
+   "price": 449.9,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_795445-MLB120087071969_102026-O.webp",
+   "link": "https://meli.la/2PQBQpJ",
+   "available": true,
+   "promo": true,
+   "oldPrice": 529,
+   "promoRank": 2
+  },
+  {
+   "id": "2mugHzc",
+   "name": "Controle DualSense Cosmic Red – PS5",
+   "cat": "dualsense",
+   "store": "ml",
+   "price": 478.99,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_984099-MLA99993479459_112025-O.webp",
+   "link": "https://meli.la/2mugHzc",
+   "available": true,
+   "promo": true,
+   "oldPrice": 699
+  },
+  {
+   "id": "1SJQhkz",
+   "name": "Controle Xbox Series Carbon Black Sem Fio",
+   "cat": "xbox",
+   "store": "ml",
+   "price": 345.99,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_706410-MLA54692702580_032023-O.webp",
+   "link": "https://meli.la/1SJQhkz",
+   "available": true,
+   "promo": true,
+   "oldPrice": 499
+  },
+  {
+   "id": "2kY7gt4",
+   "name": "Controle Xbox Series Deep Pink Sem Fio",
+   "cat": "xbox",
+   "store": "ml",
+   "price": 327.92,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_652595-MLU70518626684_072023-O.webp",
+   "link": "https://meli.la/2kY7gt4",
+   "available": true,
+   "promo": true,
+   "oldPrice": 660,
+   "promoRank": 11
+  },
+  {
+   "id": "1wrn6HB",
+   "name": "ASUS ROG Ally Z2 16GB 512GB Tela 7\" FHD",
+   "cat": "consoles",
+   "store": "ml",
+   "price": 4539,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_793083-MLA99126402146_112025-O.webp",
+   "link": "https://meli.la/1wrn6HB",
+   "available": true,
+   "promo": true,
+   "oldPrice": 6999
+  },
+  {
+   "id": "1eprMdg",
+   "name": "Cadeira Gamer Healer Lancer Preta",
+   "cat": "cadeiras",
+   "store": "ml",
+   "price": 406.03,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_986648-MLA105118436464_012026-O.webp",
+   "link": "https://meli.la/1eprMdg",
+   "available": true,
+   "promo": true,
+   "oldPrice": 591
+  },
+  {
+   "id": "1DNo8R9",
+   "name": "Headset Gamer JBL Quantum 100P Branco/Azul",
+   "cat": "headsets",
+   "store": "ml",
+   "price": 179,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_850743-MLA85169586256_052025-O.webp",
+   "link": "https://meli.la/1DNo8R9",
+   "available": true,
+   "promo": true,
+   "oldPrice": 349
+  },
+  {
+   "id": "2ZVf4cp",
+   "name": "HD Seagate Barracuda 4TB 5400rpm SATA 3",
+   "cat": "armazenamento",
+   "store": "ml",
+   "price": 1299,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_708489-MLA99416699086_112025-O.webp",
+   "link": "https://meli.la/2ZVf4cp",
+   "available": true,
+   "promo": true,
+   "oldPrice": 2107
+  },
+  {
+   "id": "2umW32w",
+   "name": "Monitor Gamer LG UltraGear 27\" IPS 144Hz 1ms (27G411B)",
+   "cat": "monitores",
+   "store": "ml",
+   "price": 669.76,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_896633-MLA120723721883_112026-O.webp",
+   "link": "https://meli.la/2umW32w",
+   "available": true,
+   "promo": true,
+   "oldPrice": 1039
+  },
+  {
+   "id": "1LzjBgi",
+   "name": "Monitor Gamer Samsung Odyssey G40 27\" 240Hz 1ms",
+   "cat": "monitores",
+   "store": "ml",
+   "price": 975.57,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_960196-MLA90885249892_082025-O.webp",
+   "link": "https://meli.la/1LzjBgi",
+   "available": true,
+   "promo": true,
+   "oldPrice": 1819,
+   "promoRank": 9
+  },
+  {
+   "id": "2eoMnPH",
+   "name": "Monitor Gamer LG UltraGear 34\" Curvo UltraWide QHD 160Hz",
+   "cat": "monitores",
+   "store": "ml",
+   "price": 1655,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_714205-MLA120725726433_112026-O.webp",
+   "link": "https://meli.la/2eoMnPH",
+   "available": true,
+   "promo": true,
+   "oldPrice": 2515
+  },
+  {
+   "id": "1KaD7wX",
+   "name": "Monitor LG UltraGear OLED 27\" QHD 240Hz (27GX704A)",
+   "cat": "monitores",
+   "store": "ml",
+   "price": 3372,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_912218-MLA108662731317_032026-O.webp",
+   "link": "https://meli.la/1KaD7wX",
+   "available": true,
+   "promo": true,
+   "oldPrice": 5109,
+   "promoRank": 7
+  },
+  {
+   "id": "2QDLh4s",
+   "name": "Placa de Vídeo Zotac RTX 5060 Twin Edge 8GB GDDR7",
+   "cat": "gpu",
+   "store": "ml",
+   "price": 3099,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_980986-MLA99925899181_112025-O.webp",
+   "link": "https://meli.la/2QDLh4s",
+   "available": true,
+   "promo": true,
+   "oldPrice": 3879
+  },
+  {
+   "id": "1dbvocm",
+   "name": "Processador AMD Ryzen 7 5800X3D AM4",
+   "cat": "cpu",
+   "store": "ml",
+   "price": 2248,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_699392-MLA113258460830_072026-O.webp",
+   "link": "https://meli.la/1dbvocm",
+   "available": true,
+   "promo": true,
+   "oldPrice": 4699,
+   "promoRank": 13
+  },
+  {
+   "id": "1ZRraQD",
+   "name": "Notebook Gamer Acer Nitro V15 RTX 4060 i7 16GB 512GB 165Hz",
+   "cat": "notebooks",
+   "store": "ml",
+   "price": 6695,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_903344-MLA99495653410_112025-O.webp",
+   "link": "https://meli.la/1ZRraQD",
+   "available": true,
+   "promo": true,
+   "oldPrice": 9935,
+   "featured": true
   }
  ]
 }

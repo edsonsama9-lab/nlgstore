@@ -429,7 +429,7 @@ const CONFIG = {
 
 /* Links gerais de afiliado de cada loja (página inicial com seu ID) */
 const STORES = {
-  ml:      { name:"Mercado Livre", short:"ML", color:"#ffe600", fg:"#2d3277", link:"#" },
+  ml:      { name:"Mercado Livre", short:"ML", color:"#ffe600", fg:"#2d3277", link:"https://www.mercadolivre.com.br/social/uzzistyle?matt_word=nlgstore&matt_tool=59828346" },
   shopee:  { name:"Shopee",        short:"S",  color:"#ee4d2d", fg:"#fff", link:"https://s.shopee.com.br/AKbiqoqLPe" },
   amazon:  { name:"Amazon",        short:"a",  color:"#232f3e", fg:"#ff9900", dot:"#ff9900", link:"https://link.amazon/B0jfjJtJi" },
   ali:     { name:"AliExpress",    short:"Ali",color:"#e43225", fg:"#fff", link:"https://s.click.aliexpress.com/e/_c30zYY6X" },
@@ -443,7 +443,7 @@ const PROMO = {
   until: "2026-11-13T00:00:00-03:00",
   links: [
     { store:"shopee", title:"Shopee 11.11", sub:"Cupons e frete grátis", link:"https://s.shopee.com.br/5fqEr8toZe" },
-    { store:"ml",     title:"Mercado Livre", sub:"Ofertas do 11/11", link:"" },
+    { store:"ml",     title:"Mercado Livre", sub:"Minhas ofertas selecionadas", link:"https://www.mercadolivre.com.br/social/uzzistyle?matt_word=nlgstore&matt_tool=59828346" },
     { store:"amazon", title:"Amazon", sub:"Black da Amazon", link:"https://www.amazon.com.br/blackfriday?tag=nlgstore-20" }
   ]
 };
@@ -473,6 +473,7 @@ const CATEGORIES = {
   refrigeracao:{ name:"Coolers e Refrigeração", icon:"fan" },
   monitores: { name:"Monitores",             icon:"monitor" },
   pc:        { name:"Rede, Captura e Acessórios de PC", icon:"gpu" },
+  notebooks: { name:"Notebooks",             icon:"laptop" },
   cadeiras:  { name:"Cadeiras Gamer e de Escritório", icon:"chair" },
   mesas:     { name:"Mesas e Escrivaninhas", icon:"desk" },
   setup:     { name:"Setup Gamer",           icon:"chair" },
@@ -518,6 +519,7 @@ const ICONS = {
   case:'<rect x="6" y="2" width="12" height="20" rx="1.5"/><circle cx="12" cy="9" r="3"/><path d="M9 17h6M9 19h3"/>',
   psu:'<rect x="2" y="5" width="20" height="14" rx="1.5"/><circle cx="9" cy="12" r="4"/><path d="M9 8v8M5 12h8M16 9h3M16 12h3M16 15h3"/>',
   fan:'<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="1.5"/><path d="M12 10.5c-1-3 0-6 2.5-6M13.5 12c3-1 6 0 6 2.5M12 13.5c1 3 0 6-2.5 6M10.5 12c-3 1-6 0-6-2.5"/>',
+  laptop:'<rect x="4" y="4" width="16" height="11" rx="1.5"/><path d="M2 19h20l-2-4H4z"/>',
   wheel:'<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="2.5"/><path d="M3.5 10.5h6M14.5 10.5h6M12 14.5V21"/>',
   pot:'<path d="M4 10h16v6a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4v-6Z"/><path d="M2 10h20M9 6.5c0-1 1-1.5 3-1.5s3 .5 3 1.5V10H9z"/>',
   mic:'<rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v4M8 22h8"/>'
@@ -583,6 +585,7 @@ function renderFilters(){
 /* Busca: cada palavra digitada precisa aparecer no produto (nome, departamento, loja ou apelidos) */
 const norm = t => String(t).normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9$ ]+/g," ").replace(/\s+/g," ").trim();
 const ALIASES = {
+  notebooks:"notebook laptop notebook gamer computador portatil",
   volantes:"volante pedal pedais simulador corrida logitech g29 thrustmaster",
   cozinha:"air fryer airfryer fritadeira cozinha eletroportatil forno",
   consoles:"console consoles videogame video game",
