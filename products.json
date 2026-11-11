@@ -3142,6 +3142,280 @@
    "promo": true,
    "oldPrice": 9935,
    "featured": true
+  },
+  {
+   "id": "1829439454.58267536975",
+   "name": "Mochila de Emergência com Kit de 80 Itens (Primeiros Socorros, Lanterna e Ferramentas)",
+   "cat": "sobrevivencia",
+   "store": "shopee",
+   "price": 248.9,
+   "img": "https://down-br.img.susercontent.com/file/br-11134207-820m7-msozmzsfqmmef8",
+   "link": "https://s.shopee.com.br/3VlkNXQwoQ",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "871452687.22599349643",
+   "name": "Kit para Mochila de Emergência com +100 Itens (sem mochila)",
+   "cat": "sobrevivencia",
+   "store": "shopee",
+   "price": 149.99,
+   "img": "https://down-br.img.susercontent.com/file/br-11134207-820lc-mrvgrf5f6l8m3f",
+   "link": "https://s.shopee.com.br/3LSKBERa9P",
+   "available": true
+  },
+  {
+   "id": "B07QW516Z9",
+   "name": "Kit de Sobrevivência de Emergência SUPOLOGY com Ferramentas e Bolsa",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 360.04,
+   "img": "https://m.media-amazon.com/images/I/91tgiJcRCfL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B07QW516Z9?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B07TV4Q28Z",
+   "name": "Kit de Sobrevivência de Emergência Antarctica 60 em 1",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 317.8,
+   "img": "https://m.media-amazon.com/images/I/81KTgMVXQpL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B07TV4Q28Z?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0H58LL3QD",
+   "name": "Kit de Primeiros Socorros 183 Peças com Bolsa à Prova d'Água",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 95.45,
+   "img": "https://m.media-amazon.com/images/I/81LBFIT+mcL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0H58LL3QD?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0G7MDTPD4",
+   "name": "Kit Primeiros Socorros Texmed Completo com Bolsa (Casa, Carro e Camping)",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 75.04,
+   "img": "https://m.media-amazon.com/images/I/61RY1rCmxmL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0G7MDTPD4?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B01MFCFKG5",
+   "name": "Rádio de Emergência com Manivela, Solar, Lanterna LED e Carregador",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 208.51,
+   "img": "https://m.media-amazon.com/images/I/71hUF6+u3sL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B01MFCFKG5?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "408842872.25954297432",
+   "name": "Rádio de Emergência com Manivela e Painel Solar AM/FM + Lanterna",
+   "cat": "sobrevivencia",
+   "store": "shopee",
+   "price": 129.2,
+   "oldPrice": 190,
+   "img": "https://down-br.img.susercontent.com/file/sg-11134201-7rbmw-lpj91u4pj3vn82",
+   "link": "https://s.shopee.com.br/W88o4FZR2",
+   "available": true
+  },
+  {
+   "id": "B0DB8BR668",
+   "name": "Lanterna Tática Recarregável Goreit 10.000 Lúmens XHP70",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 113.99,
+   "oldPrice": 149.99,
+   "img": "https://m.media-amazon.com/images/I/81gHG9gMQkL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0DB8BR668?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "2M6c9Km",
+   "name": "Lanterna Tática LED Recarregável P70 Super Brilhante",
+   "cat": "sobrevivencia",
+   "store": "ml",
+   "price": 87.6,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_793208-MLA100019414683_122025-O.webp",
+   "link": "https://meli.la/2M6c9Km",
+   "available": true
+  },
+  {
+   "id": "1577854515.58204067039",
+   "name": "Lanterna Tática WUDI T9 P50 Recarregável USB",
+   "cat": "sobrevivencia",
+   "store": "shopee",
+   "price": 34.99,
+   "oldPrice": 59.9,
+   "img": "https://down-br.img.susercontent.com/file/sg-11134201-8261k-mjye50tsga9wb4",
+   "link": "https://s.shopee.com.br/6q2CLfEG37",
+   "available": true
+  },
+  {
+   "id": "B08K3GS882",
+   "name": "Lanterna Recarregável Vonder LRV 100L",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 34.64,
+   "oldPrice": 49.28,
+   "img": "https://m.media-amazon.com/images/I/51RBs4c74LL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B08K3GS882?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B07GFJM1TK",
+   "name": "Lanterna de Cabeça Vonder LCV 120 LED COB",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 38.78,
+   "oldPrice": 52.59,
+   "img": "https://m.media-amazon.com/images/I/51Tug8K32HL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B07GFJM1TK?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "1516493480.45969428297",
+   "name": "Lampião LED Solar Recarregável (Barraca, Casa e Emergência)",
+   "cat": "sobrevivencia",
+   "store": "shopee",
+   "price": 75.9,
+   "oldPrice": 78.9,
+   "img": "https://down-br.img.susercontent.com/file/br-11134207-820lh-muex5s2qsmpt66",
+   "link": "https://s.shopee.com.br/LoiblGCm1",
+   "available": true
+  },
+  {
+   "id": "B075X31K7K",
+   "name": "Luminária de Emergência Elgin 30 LEDs Bivolt (até 6h)",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 19,
+   "oldPrice": 21.88,
+   "img": "https://m.media-amazon.com/images/I/41ZC+b6x8ML._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B075X31K7K?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "1L353D8",
+   "name": "Pilha Alcalina AA Duracell – 16 Unidades",
+   "cat": "sobrevivencia",
+   "store": "ml",
+   "price": 76.27,
+   "oldPrice": 99.9,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_930225-MLA115343633264_082026-O.webp",
+   "link": "https://meli.la/1L353D8",
+   "available": true
+  },
+  {
+   "id": "B094YR4SLJ",
+   "name": "Power Bank I2GO 20.000mAh Carregamento Rápido 20W",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 149,
+   "oldPrice": 169,
+   "img": "https://m.media-amazon.com/images/I/51sXTXpIA1S._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B094YR4SLJ?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0001P151M",
+   "name": "Canivete Suíço Victorinox Hiker 13 Funções",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 265.81,
+   "img": "https://m.media-amazon.com/images/I/61Mke+uhyAL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0001P151M?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B00V8IMTBG",
+   "name": "Alicate Multiferramentas Stanley 16 em 1",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 68.78,
+   "oldPrice": 82.9,
+   "img": "https://m.media-amazon.com/images/I/61+-px8xrQL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B00V8IMTBG?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "319428587.58217289927",
+   "name": "Canivete Multiuso 16 em 1 Estilo Suíço",
+   "cat": "sobrevivencia",
+   "store": "shopee",
+   "price": 39.5,
+   "oldPrice": 49.99,
+   "img": "https://down-br.img.susercontent.com/file/br-11134207-820l6-msk8akpsaqdhcc",
+   "link": "https://s.shopee.com.br/1BsD9HTRz",
+   "available": true
+  },
+  {
+   "id": "B006QF3TW4",
+   "name": "Filtro de Água Pessoal LifeStraw",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 134.06,
+   "img": "https://m.media-amazon.com/images/I/610MT9qiRyL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B006QF3TW4?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "352560148.12863273165",
+   "name": "Purificador de Água Clorin – 10 Pastilhas",
+   "cat": "sobrevivencia",
+   "store": "shopee",
+   "price": 29.99,
+   "img": "https://down-br.img.susercontent.com/file/37419d7bde72f5581b06dcd1cde597ea",
+   "link": "https://s.shopee.com.br/6fim9MEtO4",
+   "available": true
+  },
+  {
+   "id": "B0784Y6J17",
+   "name": "Cobertor Térmico de Emergência Azteq",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 24.9,
+   "img": "https://m.media-amazon.com/images/I/71FD5xqm6oL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0784Y6J17?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "377198088.23294508507",
+   "name": "Kit 5 Mantas Térmicas de Emergência 2,10 x 1,40m",
+   "cat": "sobrevivencia",
+   "store": "shopee",
+   "price": 29.95,
+   "oldPrice": 37.9,
+   "img": "https://down-br.img.susercontent.com/file/sg-11134201-824id-mfjw6cqezkeja1",
+   "link": "https://s.shopee.com.br/70LcXyDciA",
+   "available": true
+  },
+  {
+   "id": "B077TBKCRG",
+   "name": "Apito de Sobrevivência Azteq Survivor em Alumínio",
+   "cat": "sobrevivencia",
+   "store": "amazon",
+   "price": 18.7,
+   "img": "https://m.media-amazon.com/images/I/41OKgkfOy+L._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B077TBKCRG?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "547118557.58211948397",
+   "name": "Pulseira de Sobrevivência Paracord 5 em 1 (Bússola, Apito e Pederneira)",
+   "cat": "sobrevivencia",
+   "store": "shopee",
+   "price": 25.07,
+   "oldPrice": 29.5,
+   "img": "https://down-br.img.susercontent.com/file/br-11134207-820mf-mp2b81obez2e2c",
+   "link": "https://s.shopee.com.br/BVIPSGq70",
+   "available": true
   }
  ]
 }

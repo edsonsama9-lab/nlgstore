@@ -482,6 +482,7 @@ const CATEGORIES = {
   casa:      { name:"Casa e Escritório",     icon:"home" },
   cozinha:   { name:"Air Fryer e Cozinha",   icon:"pot" },
   pilhas:    { name:"Pilhas e Carregadores", icon:"battery" },
+  sobrevivencia:{ name:"Kit de Sobrevivência e Emergência", icon:"pack" },
   roupas:    { name:"Roupas Geek",           icon:"shirt" },
   giftcards: { name:"Gift Cards",            icon:"gift" },
   cafe:      { name:"Café de Outro Nível",   icon:"coffee" }
@@ -519,6 +520,7 @@ const ICONS = {
   case:'<rect x="6" y="2" width="12" height="20" rx="1.5"/><circle cx="12" cy="9" r="3"/><path d="M9 17h6M9 19h3"/>',
   psu:'<rect x="2" y="5" width="20" height="14" rx="1.5"/><circle cx="9" cy="12" r="4"/><path d="M9 8v8M5 12h8M16 9h3M16 12h3M16 15h3"/>',
   fan:'<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="1.5"/><path d="M12 10.5c-1-3 0-6 2.5-6M13.5 12c3-1 6 0 6 2.5M12 13.5c1 3 0 6-2.5 6M10.5 12c-3 1-6 0-6-2.5"/>',
+  pack:'<path d="M8 6V4.5A1.5 1.5 0 0 1 9.5 3h5A1.5 1.5 0 0 1 16 4.5V6"/><rect x="4" y="6" width="16" height="15" rx="3"/><path d="M10 13h4M12 11v4"/>',
   laptop:'<rect x="4" y="4" width="16" height="11" rx="1.5"/><path d="M2 19h20l-2-4H4z"/>',
   wheel:'<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="2.5"/><path d="M3.5 10.5h6M14.5 10.5h6M12 14.5V21"/>',
   pot:'<path d="M4 10h16v6a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4v-6Z"/><path d="M2 10h20M9 6.5c0-1 1-1.5 3-1.5s3 .5 3 1.5V10H9z"/>',
@@ -550,7 +552,7 @@ function renderCounts(){
   $("#deptGrid").innerHTML = Object.entries(CATEGORIES).map(([k,c]) =>
     `<button data-cat="${k}">${esc(c.name)}<span>${countBy(k)}</span></button>`).join("");
 }
-const quick = ["consoles","retro","dualsense","xbox","controles","acessorios","headsets","gpu","cpu","monitores","cadeiras","mesas","setup","celulares","cafe"];
+const quick = ["sobrevivencia","consoles","retro","dualsense","xbox","controles","acessorios","headsets","gpu","cpu","monitores","cadeiras","mesas","setup","celulares","cafe"];
 $("#navRow").insertAdjacentHTML("beforeend", quick.map(k =>
   `<button class="nav-link" data-cat="${k}" aria-pressed="false">${esc(CATEGORIES[k].name)}</button>`).join(""));
 $("#footCats").innerHTML = Object.entries(CATEGORIES).map(([k,c]) =>
@@ -585,6 +587,7 @@ function renderFilters(){
 /* Busca: cada palavra digitada precisa aparecer no produto (nome, departamento, loja ou apelidos) */
 const norm = t => String(t).normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9$ ]+/g," ").replace(/\s+/g," ").trim();
 const ALIASES = {
+  sobrevivencia:"sobrevivencia sobrevivência emergencia emergência kit 72 horas defesa civil mochila primeiros socorros lanterna radio rádio manivela canivete pilha cobertor termico apito filtro agua",
   notebooks:"notebook laptop notebook gamer computador portatil",
   volantes:"volante pedal pedais simulador corrida logitech g29 thrustmaster",
   cozinha:"air fryer airfryer fritadeira cozinha eletroportatil forno",
