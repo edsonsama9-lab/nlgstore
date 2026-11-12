@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T12:00-03:00",
+ "updatedAt": "2026-11-12T12:00-03:00",
  "products": [
   {
    "id": "1zYeYNc",
@@ -18,27 +18,24 @@
    "name": "Console PlayStation 5 Slim Digital 825GB - Pacote Astro Bot e Gran Turismo 7",
    "cat": "consoles",
    "store": "amazon",
-   "price": 3719.9,
+   "price": 4277.07,
    "img": "https://m.media-amazon.com/images/I/71WCygaQDAL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0FPGF9J2J?tag=nlgstore-20",
    "available": true,
    "oldPrice": 4599.9,
-   "promo": true,
-   "featured": true,
-   "promoRank": 1
+   "featured": true
   },
   {
    "id": "2XK84oM",
    "name": "Console Nintendo Switch 2 + Mario Kart World Bundle Preto",
    "cat": "consoles",
    "store": "ml",
-   "price": 4399,
+   "price": 4899,
    "tag": "Bundle",
    "img": "https://http2.mlstatic.com/D_NQ_NP_839444-MLB117590898084_102026-O.webp",
    "link": "https://meli.la/2XK84oM",
    "available": true,
-   "oldPrice": 5699,
-   "promo": true
+   "oldPrice": 5699
   },
   {
    "id": "2ME7orZ",
@@ -56,10 +53,11 @@
    "name": "Microsoft Xbox Series S 512GB Branco",
    "cat": "consoles",
    "store": "ml",
-   "price": 3900,
+   "price": 3753,
    "img": "https://http2.mlstatic.com/D_NQ_NP_632101-MLA110165481061_042026-O.webp",
    "link": "https://meli.la/1cipRB8",
-   "available": true
+   "available": true,
+   "oldPrice": 3900
   },
   {
    "id": "2YF8HeF",
@@ -70,8 +68,7 @@
    "img": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-O.webp",
    "link": "https://meli.la/2YF8HeF",
    "available": true,
-   "oldPrice": 2999,
-   "promo": true
+   "oldPrice": 2699
   },
   {
    "id": "1iepuLV",
@@ -89,8 +86,8 @@
    "name": "Console Retrô Portátil R36S Tela 3.5\" IPS 64/128GB",
    "cat": "retro",
    "store": "ali",
-   "price": 165.27,
-   "oldPrice": 398.76,
+   "price": 168.51,
+   "oldPrice": 406.59,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Scef23243532f480885f4f760a45aa375E.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c36vZVQL",
    "available": true,
@@ -101,8 +98,8 @@
    "name": "Console Retrô Portátil R36 Ultra com Wi-Fi Tela 4\" IPS",
    "cat": "retro",
    "store": "ali",
-   "price": 211.24,
-   "oldPrice": 488.65,
+   "price": 215.81,
+   "oldPrice": 498.03,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sc0bed4ab4ec740fbaf1bbe0190515c022.png_480x480.png",
    "link": "https://s.click.aliexpress.com/e/_c3p0n26P",
    "available": true
@@ -112,8 +109,8 @@
    "name": "Console Portátil Anbernic RG35XX H Tela 3.5\" IPS",
    "cat": "retro",
    "store": "ali",
-   "price": 431.99,
-   "oldPrice": 863.98,
+   "price": 422.98,
+   "oldPrice": 906.52,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S78baefbb036f4023b55a59a494950b20v.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3ev8JKT",
    "available": true
@@ -158,32 +155,33 @@
    "name": "Controle sem fio PlayStation DualSense - Remix Green",
    "cat": "dualsense",
    "store": "ml",
-   "price": 562.81,
+   "price": 487.23,
    "img": "https://http2.mlstatic.com/D_NQ_NP_745279-MLA105010226029_012026-O.webp",
    "link": "https://meli.la/31Yo45p",
    "available": true,
-   "oldPrice": 662.14
+   "oldPrice": 599.9
   },
   {
    "id": "1G3kz6f",
    "name": "Controle DualSense sem fio PlayStation 5 Cobalt Blue",
    "cat": "dualsense",
    "store": "ml",
-   "price": 550.2,
+   "price": 499,
    "img": "https://http2.mlstatic.com/D_NQ_NP_934470-MLA99513531000_112025-O.webp",
    "link": "https://meli.la/1G3kz6f",
-   "available": true
+   "available": true,
+   "oldPrice": 550.2
   },
   {
    "id": "17h2fWi",
    "name": "Controle DualSense sem fio Sony CFI-ZCT1W Azul Claro PS5",
    "cat": "dualsense",
    "store": "ml",
-   "price": 439,
+   "price": 464.91,
    "img": "https://http2.mlstatic.com/D_NQ_NP_891520-MLA97399587870_112025-O.webp",
    "link": "https://meli.la/17h2fWi",
    "available": true,
-   "oldPrice": 464.91
+   "oldPrice": 499.9
   },
   {
    "id": "2b2q6G1",
@@ -200,7 +198,7 @@
    "name": "Controle sem fio Sony PlayStation 5 CFI-ZCT1W Midnight Black",
    "cat": "dualsense",
    "store": "ml",
-   "price": 429.9,
+   "price": 449.9,
    "img": "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
    "link": "https://meli.la/1NLiV5b",
    "available": true,
@@ -212,12 +210,11 @@
    "name": "Controle Sony CFI-ZCT1W sem fio White PS5",
    "cat": "dualsense",
    "store": "ml",
-   "price": 366.54,
+   "price": 459.97,
    "img": "https://http2.mlstatic.com/D_NQ_NP_682801-MLA117393672127_092026-O.webp",
    "link": "https://meli.la/2MNRSxd",
    "available": true,
-   "oldPrice": 447,
-   "promo": true
+   "oldPrice": 499.97
   },
   {
    "id": "34gFcd2",
@@ -247,66 +244,62 @@
    "name": "Controle sem fio Xbox Velocity Green",
    "cat": "xbox",
    "store": "ml",
-   "price": 376.38,
+   "price": 499.99,
    "img": "https://http2.mlstatic.com/D_NQ_NP_646853-MLA91590723354_092025-O.webp",
    "link": "https://meli.la/2a8dVXs",
-   "available": true,
-   "oldPrice": 499.99,
-   "promo": true,
-   "promoRank": 14
+   "available": true
   },
   {
    "id": "1FvRK6D",
    "name": "Controle sem fio Xbox Series X|S Azul Shock com Bluetooth",
    "cat": "xbox",
    "store": "ml",
-   "price": 330.59,
+   "price": 450,
    "img": "https://http2.mlstatic.com/D_NQ_NP_838906-MLA86702461397_062025-O.webp",
    "link": "https://meli.la/1FvRK6D",
    "available": true,
-   "oldPrice": 499,
-   "promo": true
+   "oldPrice": 615.12
   },
   {
    "id": "2Re8p5y",
    "name": "Controle sem fio Xbox Series X|S Pulse Red para PC, One e Smart TVs",
    "cat": "xbox",
    "store": "ml",
-   "price": 361.92,
+   "price": 421,
    "img": "https://http2.mlstatic.com/D_NQ_NP_698165-MLA86671767786_062025-O.webp",
    "link": "https://meli.la/2Re8p5y",
    "available": true,
-   "oldPrice": 416
+   "oldPrice": 599.9
   },
   {
    "id": "1HwPSvZ",
    "name": "Controle sem fio Microsoft Xbox Series X|S Robot",
    "cat": "xbox",
    "store": "ml",
-   "price": 342.78,
+   "price": 399.99,
    "img": "https://http2.mlstatic.com/D_NQ_NP_791846-MLU70663323517_072023-O.webp",
    "link": "https://meli.la/1HwPSvZ",
    "available": true,
    "featured": true,
-   "oldPrice": 394
+   "oldPrice": 529.95
   },
   {
    "id": "2EmghV1",
    "name": "Controle Xbox sem fio compatível com Xbox Series S/X/One e PC Prateado",
    "cat": "xbox",
    "store": "ml",
-   "price": 252,
+   "price": 599,
    "img": "https://http2.mlstatic.com/D_NQ_NP_607218-MLA109374437785_032026-O.webp",
    "link": "https://meli.la/2EmghV1",
-   "available": false
+   "available": true
   },
   {
    "id": "1005012122397943",
    "name": "Controle GameSir G7 Pro para Xbox Series X|S e PC com Sticks TMR e Hall Effect",
    "cat": "xbox",
    "store": "ali",
-   "price": 361.24,
-   "oldPrice": 475.24,
+   "price": 368.26,
+   "oldPrice": 484.47,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sd1bf885dc80043f58d7599a101a01451Q.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3NmkpsX",
    "available": true
@@ -316,8 +309,8 @@
    "name": "Controle com Fio GameSir G7 SE para Xbox Series X|S e PC com Hall Effect",
    "cat": "xbox",
    "store": "ali",
-   "price": 225.76,
-   "oldPrice": 297.01,
+   "price": 230.15,
+   "oldPrice": 302.77,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S555334b997d3408594a1eb42c127c20ej.png_480x480.png",
    "link": "https://s.click.aliexpress.com/e/_c3jb8mRh",
    "available": true
@@ -327,8 +320,8 @@
    "name": "Controle com Fio 8BitDo Ultimate C para Xbox com RGB e Hall Effect",
    "cat": "xbox",
    "store": "ali",
-   "price": 138.85,
-   "oldPrice": 207.89,
+   "price": 143.19,
+   "oldPrice": 211.92,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sd326d2ada90e474e94c5c9a85c735510r.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3nmUHfd",
    "available": true
@@ -338,8 +331,8 @@
    "name": "Controle GameSir Cyclone 2 sem fio com Hall Effect (Switch 2, PC, Android e iPhone)",
    "cat": "controles",
    "store": "ali",
-   "price": 256.4,
-   "oldPrice": 342.63,
+   "price": 261.38,
+   "oldPrice": 349.28,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S5ec29644fdc64304b378209e2cf028043.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3sotAGj",
    "available": true,
@@ -350,8 +343,8 @@
    "name": "Controle GameSir Nova Lite 2 sem fio com Hall Effect (Switch, PC, Android e iPhone)",
    "cat": "controles",
    "store": "ali",
-   "price": 138.21,
-   "oldPrice": 190.06,
+   "price": 141.29,
+   "oldPrice": 193.75,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sa898ef103a444c3d84f775dc19ae934am.png_480x480.png",
    "link": "https://s.click.aliexpress.com/e/_c4bAfGkx",
    "available": true
@@ -361,7 +354,7 @@
    "name": "Controle 8BitDo Ultimate 2 sem fio com Sticks TMR (PC e Android)",
    "cat": "controles",
    "store": "ali",
-   "price": 243.88,
+   "price": 248.61,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sb7642da0a97d48068bfe566bcd5409fec.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3BLztMb",
    "available": true
@@ -371,8 +364,8 @@
    "name": "Controle 8BitDo Ultimate 2C sem fio (PC, Steam Deck e Android)",
    "cat": "controles",
    "store": "ali",
-   "price": 118.35,
-   "oldPrice": 178.18,
+   "price": 125.88,
+   "oldPrice": 181.64,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sba9217218cd84fb282aefb37333e84a6l.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3hVfJtv",
    "available": true
@@ -382,8 +375,8 @@
    "name": "Controle 8BitDo Pro 3 sem fio com Sticks TMR (Switch 1 e 2, PC e Apple)",
    "cat": "controles",
    "store": "ali",
-   "price": 256.45,
-   "oldPrice": 415.83,
+   "price": 261.42,
+   "oldPrice": 423.9,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sd531dc3bcba744cbad269c161887df11K.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c4cDZPhv",
    "available": true
@@ -479,7 +472,7 @@
    "name": "Fone de Ouvido sem fio PlayStation Pulse Elite - Midnight Black",
    "cat": "headsets",
    "store": "ml",
-   "price": 1284,
+   "price": 1435,
    "img": "https://http2.mlstatic.com/D_NQ_NP_690038-CBT108975317925_032026-O.webp",
    "link": "https://meli.la/1g1ruAg",
    "available": true
@@ -489,13 +482,10 @@
    "name": "Headset sem fio Pulse Elite Sony Branco",
    "cat": "headsets",
    "store": "ml",
-   "price": 787.12,
+   "price": 1199,
    "img": "https://http2.mlstatic.com/D_NQ_NP_676107-MLA95500678420_102025-O.webp",
    "link": "https://meli.la/1QCZUEq",
-   "available": true,
-   "oldPrice": 1099,
-   "promo": true,
-   "promoRank": 10
+   "available": true
   },
   {
    "id": "1zTN2MK",
@@ -546,12 +536,11 @@
    "name": "Fone Bluetooth JBL Tune 530BT Over-Ear até 76h de Bateria Preto",
    "cat": "headsets",
    "store": "amazon",
-   "price": 163.8,
+   "price": 161.97,
    "img": "https://m.media-amazon.com/images/I/61cnqHlVvEL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=nlgstore-20",
    "available": true,
-   "oldPrice": 299,
-   "promo": true
+   "oldPrice": 299
   },
   {
    "id": "B0BTYCRJSS",
@@ -562,16 +551,15 @@
    "img": "https://m.media-amazon.com/images/I/61ljZu9+GXL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=nlgstore-20",
    "available": true,
-   "oldPrice": 249,
-   "promo": true
+   "oldPrice": 249
   },
   {
    "id": "1005009361746399",
    "name": "Fone Bluetooth QCY MeloBuds N70 com Cancelamento de Ruído (ANC)",
    "cat": "headsets",
    "store": "ali",
-   "price": 259.54,
-   "oldPrice": 651.82,
+   "price": 264.58,
+   "oldPrice": 664.47,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sc9ab6c6d8585468cbdca0b92a71ad464Q.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c4TpnrOT",
    "available": true
@@ -594,7 +582,7 @@
    "name": "Microfone USB FIFINE A6V RGB com Tripé e Pop Filter",
    "cat": "microfones",
    "store": "amazon",
-   "price": 260.29,
+   "price": 246.05,
    "img": "https://m.media-amazon.com/images/I/61ciiEJ7HRL._AC_SL500_.jpg",
    "link": "https://link.amazon/B0dwQFB5z",
    "available": true,
@@ -616,22 +604,22 @@
    "name": "Teclado Gamer Mecânico HyperX Alloy Origins Core RGB Switch Blue ABNT2",
    "cat": "teclados",
    "store": "ml",
-   "price": 624,
+   "price": 541.16,
    "img": "https://http2.mlstatic.com/D_NQ_NP_662998-MLA99590652326_122025-O.webp",
    "link": "https://meli.la/2zfqk1u",
-   "available": true
+   "available": true,
+   "oldPrice": 624
   },
   {
    "id": "1J5CUmi",
    "name": "Teclado Gamer HyperX Alloy Core RGB ABNT2 Preto",
    "cat": "teclados",
    "store": "ml",
-   "price": 151.7,
+   "price": 190,
    "img": "https://http2.mlstatic.com/D_NQ_NP_819571-MLA118157889799_092026-O.webp",
    "link": "https://meli.la/1J5CUmi",
    "available": true,
-   "oldPrice": 197.88,
-   "promo": true
+   "oldPrice": 197.88
   },
   {
    "id": "B09oInFA8",
@@ -651,8 +639,8 @@
    "name": "Teclado Mecânico AJAZZ AK820 75% sem fio Tri-Mode Hot Swap com Knob",
    "cat": "teclados",
    "store": "ali",
-   "price": 151.96,
-   "oldPrice": 378.61,
+   "price": 156.46,
+   "oldPrice": 385.88,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sc049d26647544bf4885f097ae400a8e7I.png_480x480.png",
    "link": "https://s.click.aliexpress.com/e/_c3yPnTNh",
    "available": true
@@ -662,8 +650,8 @@
    "name": "Teclado Mecânico AULA F75 75% sem fio Tri-Mode RGB Gasket",
    "cat": "teclados",
    "store": "ali",
-   "price": 304.11,
-   "oldPrice": 699.94,
+   "price": 332.15,
+   "oldPrice": 713.37,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S9d0c285127124820ae8fda27a0cc0b34k.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c4afH1dv",
    "available": true
@@ -673,8 +661,8 @@
    "name": "Teclado Magnético MonsGeek FUN60 60% Rapid Trigger 8K",
    "cat": "teclados",
    "store": "ali",
-   "price": 203.59,
-   "oldPrice": 433.16,
+   "price": 181.68,
+   "oldPrice": 429.04,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S8c3067b1a1a0444eaa2c939bce06a7f3Y.png_480x480.png",
    "link": "https://s.click.aliexpress.com/e/_c43sOLZp",
    "available": true
@@ -684,8 +672,8 @@
    "name": "Teclado Magnético Attack Shark X68HE Rapid Trigger 8000Hz",
    "cat": "teclados",
    "store": "ali",
-   "price": 195.75,
-   "oldPrice": 450,
+   "price": 181.88,
+   "oldPrice": 442.01,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sa249fd20a6c244138cc4cb387aee3451f.png_480x480.png",
    "link": "https://s.click.aliexpress.com/e/_c3jZZX2J",
    "available": true
@@ -695,7 +683,7 @@
    "name": "Mouse Gamer HyperX Pulsefire Haste 2 Core sem fio, Leve e com Bateria de Longa Duração",
    "cat": "mouse",
    "store": "ml",
-   "price": 256.44,
+   "price": 259.89,
    "img": "https://http2.mlstatic.com/D_NQ_NP_888781-MLA95393886558_102025-O.webp",
    "link": "https://meli.la/2CU3gxo",
    "available": true,
@@ -706,11 +694,11 @@
    "name": "Mouse Gamer Redragon King Pro 4K Preto",
    "cat": "mouse",
    "store": "ml",
-   "price": 286,
+   "price": 277,
    "img": "https://http2.mlstatic.com/D_NQ_NP_709542-MLA99397928184_112025-O.webp",
    "link": "https://meli.la/1bvKTx7",
    "available": true,
-   "oldPrice": 297
+   "oldPrice": 286
   },
   {
    "id": "29c34YD",
@@ -728,7 +716,7 @@
    "name": "Mouse Gamer Logitech G203 LIGHTSYNC Preto",
    "cat": "mouse",
    "store": "ml",
-   "price": 80.91,
+   "price": 92.68,
    "img": "https://http2.mlstatic.com/D_NQ_NP_957206-MLA99870256007_112025-O.webp",
    "link": "https://meli.la/1ibJGx5",
    "available": true,
@@ -740,7 +728,7 @@
    "name": "Mouse Gamer Redragon Cobra Chroma M711 12.400 DPI RGB Preto",
    "cat": "mouse",
    "store": "ml",
-   "price": 81.22,
+   "price": 67.41,
    "img": "https://http2.mlstatic.com/D_NQ_NP_898286-MLA95664298408_102025-O.webp",
    "link": "https://meli.la/2bU81tS",
    "available": true,
@@ -751,8 +739,8 @@
    "name": "Mouse Gamer sem fio Logitech G304 Lightspeed",
    "cat": "mouse",
    "store": "ali",
-   "price": 65.16,
-   "oldPrice": 164.42,
+   "price": 70.6,
+   "oldPrice": 166.11,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S4de3a0d91c0c4c25b049bc82e8cdb146B.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3wGGnVd",
    "available": true
@@ -816,8 +804,8 @@
    "name": "SSD Kingston NV3 1TB M.2 NVMe Gen4",
    "cat": "armazenamento",
    "store": "amazon",
-   "price": 905.22,
-   "oldPrice": 1023,
+   "price": 899.99,
+   "oldPrice": 905.22,
    "tag": "Meu Setup",
    "img": "https://m.media-amazon.com/images/I/71ZnK38jZzL._AC_SL500_.jpg",
    "link": "https://link.amazon/B0i9jFzDr",
@@ -832,7 +820,7 @@
    "price": 1047.05,
    "img": "https://m.media-amazon.com/images/I/81aLJVTgADL._AC_SL500_.jpg",
    "link": "https://link.amazon/B0hi1lgA0",
-   "available": true,
+   "available": false,
    "tag": "Meu Setup",
    "featured": true,
    "oldPrice": 1099
@@ -914,7 +902,7 @@
    "name": "Cadeira Gamer Ergonômica Reclinável com Altura Ajustável",
    "cat": "cadeiras",
    "store": "shopee",
-   "price": 383.99,
+   "price": 402.95,
    "oldPrice": 1500,
    "img": "https://down-br.img.susercontent.com/file/br-11134207-820m8-mu7744w88r9c6f",
    "link": "https://s.shopee.com.br/3VlQHRxcCt",
@@ -925,7 +913,7 @@
    "name": "Cadeira Gamer Fox Racer Nordic Preta",
    "cat": "cadeiras",
    "store": "shopee",
-   "price": 330.9,
+   "price": 367.37,
    "oldPrice": 1099,
    "img": "https://down-br.img.susercontent.com/file/sg-11134201-81zu9-mmrnindmz0nad0",
    "link": "https://s.shopee.com.br/1gJm654avY",
@@ -958,7 +946,7 @@
    "name": "Celular Samsung Galaxy A17 128GB 4GB RAM Câmera 50MP Tela 6.7\" Preto",
    "cat": "celulares",
    "store": "amazon",
-   "price": 949,
+   "price": 853.19,
    "img": "https://m.media-amazon.com/images/I/61ldkLk4JYL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=nlgstore-20",
    "available": true,
@@ -970,7 +958,7 @@
    "name": "Smartwatch Samsung Galaxy Fit3 Tela 1.6\" Grafite",
    "cat": "celulares",
    "store": "amazon",
-   "price": 185.25,
+   "price": 208,
    "img": "https://m.media-amazon.com/images/I/61o3-pf41tL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=nlgstore-20",
    "available": true,
@@ -981,12 +969,11 @@
    "name": "Apple iPhone 17 256GB Preto",
    "cat": "celulares",
    "store": "amazon",
-   "price": 5273.1,
+   "price": 5398.99,
    "img": "https://m.media-amazon.com/images/I/41HPi5vrxSL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=nlgstore-20",
    "available": true,
-   "oldPrice": 7999,
-   "promo": true
+   "oldPrice": 7999
   },
   {
    "id": "B0GVTB7BGQ",
@@ -1038,7 +1025,7 @@
    "name": "Smart TV 32\" Philco Roku TV HDR10 Dolby Áudio",
    "cat": "tvs",
    "store": "amazon",
-   "price": 818.1,
+   "price": 863.55,
    "img": "https://m.media-amazon.com/images/I/81zLY1z0j4L._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0GH34KFLR?tag=nlgstore-20",
    "available": true,
@@ -1049,7 +1036,7 @@
    "name": "Smart TV LG 55\" 4K UHD NanoCell AI",
    "cat": "tvs",
    "store": "amazon",
-   "price": 2279.05,
+   "price": 2278.1,
    "img": "https://m.media-amazon.com/images/I/71JvlwEntGL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0HCRPPXB1?tag=nlgstore-20",
    "available": true
@@ -1059,23 +1046,22 @@
    "name": "Smart TV TCL 65\" QD-Mini LED 4K 144Hz Google TV C6K",
    "cat": "tvs",
    "store": "amazon",
-   "price": 3599,
+   "price": 3599.1,
    "img": "https://m.media-amazon.com/images/I/91W5Y2SD1BL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0F7K7B2PD?tag=nlgstore-20",
    "available": true,
-   "oldPrice": 5299,
-   "promo": true
+   "oldPrice": 5299
   },
   {
    "id": "1005009022236959",
    "name": "Fita LED RGB USB para TV com Controle por App",
    "cat": "tvs",
    "store": "ali",
-   "price": 12.64,
+   "price": 13.48,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sec1cb5eee0484f3c814c05f59062809da.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c39JiYtl",
    "available": true,
-   "oldPrice": 15.54
+   "oldPrice": 15.84
   },
   {
    "id": "B0D8V3QLDD",
@@ -1094,20 +1080,17 @@
    "name": "Echo Dot com Alexa, Wi-Fi e Bluetooth Preto",
    "cat": "casa",
    "store": "amazon",
-   "price": 349,
+   "price": 649,
    "img": "https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=nlgstore-20",
-   "available": true,
-   "oldPrice": 649,
-   "promo": true,
-   "promoRank": 12
+   "available": true
   },
   {
    "id": "B098YHFT9S",
    "name": "Impressora Multifuncional Epson EcoTank L3250 Wi-Fi Bivolt",
    "cat": "casa",
    "store": "amazon",
-   "price": 938.73,
+   "price": 903.93,
    "img": "https://m.media-amazon.com/images/I/51Go2vIg0ML._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B098YHFT9S?tag=nlgstore-20",
    "available": true,
@@ -1118,7 +1101,7 @@
    "name": "Kindle 16GB (modelo 2024) com Tela Antirreflexo",
    "cat": "casa",
    "store": "amazon",
-   "price": 759.05,
+   "price": 854.05,
    "img": "https://m.media-amazon.com/images/I/718jJRdvDsL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0CP31L73X?tag=nlgstore-20",
    "available": true,
@@ -1133,8 +1116,7 @@
    "img": "https://m.media-amazon.com/images/I/51LAU1+ACrL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0FHCHBRGF?tag=nlgstore-20",
    "available": true,
-   "oldPrice": 4500,
-   "promo": true
+   "oldPrice": 4500
   },
   {
    "id": "B07XLML2YS",
@@ -1174,8 +1156,8 @@
    "name": "Base Carregadora Dupla para Controle DualSense PS5",
    "cat": "pilhas",
    "store": "ali",
-   "price": 37.21,
-   "oldPrice": 111.26,
+   "price": 48.19,
+   "oldPrice": 113.4,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S874d388720044eb093dd92ddb17d8092g.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c4DnHEL1",
    "available": true
@@ -1185,33 +1167,34 @@
    "name": "Camiseta Gamer com Estampa 3D de Controle",
    "cat": "roupas",
    "store": "ali",
-   "price": 25.29,
+   "price": 16.59,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sfc6811e40de2495597b8baad1b89d864p.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c41cdSmJ",
    "available": true,
-   "featured": true
+   "featured": true,
+   "oldPrice": 26.04
   },
   {
    "id": "1005006937567327",
    "name": "Camiseta \"Control All The Things\" com Controle de Videogame",
    "cat": "roupas",
    "store": "ali",
-   "price": 47.29,
+   "price": 48.19,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S6a19e54143f74955a8d789912f2f29152.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c4SJYo6R",
    "available": true,
-   "oldPrice": 50.11
+   "oldPrice": 51.06
   },
   {
    "id": "1005008289823778",
    "name": "Camiseta Game com Estampa 3D de Controle (Adulto e Infantil)",
    "cat": "roupas",
    "store": "ali",
-   "price": 46.79,
+   "price": 47.69,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S4812af3e15f84796a0685d99d1c922e0I.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3M9qWR1",
    "available": true,
-   "oldPrice": 48.01
+   "oldPrice": 48.94
   },
   {
    "id": "1005011865401878",
@@ -1219,7 +1202,7 @@
    "cat": "roupas",
    "store": "ali",
    "price": 6.99,
-   "oldPrice": 18.43,
+   "oldPrice": 18.84,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S94be96808cd4478aba7bc12f87145054S.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3ZYa2UF",
    "available": true
@@ -1229,7 +1212,7 @@
    "name": "Meia \"Do Not Disturb, I Am Gaming\" Unissex",
    "cat": "roupas",
    "store": "ali",
-   "price": 13.43,
+   "price": 13.7,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S41569ce353c74869bbdb2ad03d2664ec9.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3SD8nbH",
    "available": true
@@ -1239,19 +1222,19 @@
    "name": "Meia Gamer \"Gaming in Process\"",
    "cat": "roupas",
    "store": "ali",
-   "price": 24.89,
+   "price": 25.39,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sa6adaa0fd08c427488b0668e6224188am.png_480x480.png",
    "link": "https://s.click.aliexpress.com/e/_c4kJyvkR",
    "available": true,
-   "oldPrice": 25.3
+   "oldPrice": 25.81
   },
   {
    "id": "1005009831111268",
    "name": "Boné Trucker Personalizável com a sua Estampa ou Logo",
    "cat": "roupas",
    "store": "ali",
-   "price": 18.5,
-   "oldPrice": 48.43,
+   "price": 17.78,
+   "oldPrice": 49.77,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Se6c4bb47c9a64b44974badfc7e1982cd0.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3GzBOc3",
    "available": true
@@ -1333,7 +1316,7 @@
    "name": "Cafeteira Espresso e Multibebidas 3 Corações TRES Passione Preta 127V",
    "cat": "cafe",
    "store": "amazon",
-   "price": 347.13,
+   "price": 348.9,
    "oldPrice": 499.9,
    "img": "https://m.media-amazon.com/images/I/71ng1H1wNsS._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B08S1HB8G9?tag=nlgstore-20",
@@ -1344,13 +1327,12 @@
    "name": "Cafeteira Nespresso Essenza Mini Branca 110V",
    "cat": "cafe",
    "store": "amazon",
-   "price": 407.55,
+   "price": 455.05,
    "oldPrice": 829,
    "tag": "Mais vendido",
    "img": "https://m.media-amazon.com/images/I/51OmeGN0wGL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B099ZCGZK9?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B0BXBHXGM8",
@@ -1369,7 +1351,7 @@
    "name": "Cafeteira Arno Nescafé Dolce Gusto Genio S Plus DGS2 Preta",
    "cat": "cafe",
    "store": "amazon",
-   "price": 439.76,
+   "price": 449.9,
    "oldPrice": 929.99,
    "tag": "Escolha da Amazon",
    "img": "https://m.media-amazon.com/images/I/51qqanOydXL._AC_SL500_.jpg",
@@ -1381,7 +1363,7 @@
    "name": "Cafeteira Espresso Oster OCAF900 Digital 127V",
    "cat": "cafe",
    "store": "amazon",
-   "price": 545.9,
+   "price": 594.91,
    "img": "https://m.media-amazon.com/images/I/619uZwDplLL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0CY2Z1KPS?tag=nlgstore-20",
    "available": true
@@ -1391,7 +1373,7 @@
    "name": "Cafeteira Espresso Automática Mondial Dolce Latte 20 bar 110V",
    "cat": "cafe",
    "store": "amazon",
-   "price": 949,
+   "price": 841.41,
    "oldPrice": 1546.9,
    "img": "https://m.media-amazon.com/images/I/51D04KXWjcL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0GNCJSWF5?tag=nlgstore-20",
@@ -1402,7 +1384,7 @@
    "name": "Café Especial em Grãos Coffee Mais Arara 100% Arábica 250g",
    "cat": "cafe",
    "store": "amazon",
-   "price": 25.64,
+   "price": 24.84,
    "tag": "Escolha da Amazon",
    "img": "https://m.media-amazon.com/images/I/71UsilxHuVL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B09MWN12GJ?tag=nlgstore-20",
@@ -1483,7 +1465,7 @@
    "name": "Moedor de Café Elétrico Cadence di Grano 110V",
    "cat": "cafe",
    "store": "amazon",
-   "price": 89.9,
+   "price": 89.91,
    "oldPrice": 119.9,
    "img": "https://m.media-amazon.com/images/I/51sinRLY4lL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B076HZQQ9X?tag=nlgstore-20",
@@ -1516,7 +1498,7 @@
    "name": "Filtro de Papel Hario V60 Tamanho 02 (100 unidades)",
    "cat": "cafe",
    "store": "amazon",
-   "price": 40.42,
+   "price": 40.75,
    "oldPrice": 53.55,
    "img": "https://m.media-amazon.com/images/I/61iXYB9ObhL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B001U7EOYA?tag=nlgstore-20",
@@ -1543,8 +1525,7 @@
    "img": "https://m.media-amazon.com/images/I/616WtXLQ9jL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B00004RFRU?tag=nlgstore-20",
    "available": true,
-   "oldPrice": 219,
-   "promo": true
+   "oldPrice": 219
   },
   {
    "id": "B0BH9B6B62",
@@ -1562,7 +1543,7 @@
    "name": "Placa de Vídeo MSI GeForce RTX 5060 Shadow 2X OC 8GB GDDR7",
    "cat": "gpu",
    "store": "amazon",
-   "price": 2969.99,
+   "price": 3199.98,
    "img": "https://m.media-amazon.com/images/I/81UzzpO5dML._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B09729YMPT?tag=nlgstore-20",
    "available": true
@@ -1594,7 +1575,7 @@
    "cat": "gpu",
    "store": "amazon",
    "price": 527.24,
-   "oldPrice": 746.25,
+   "oldPrice": 760.11,
    "img": "https://m.media-amazon.com/images/I/61lfsM6-RgL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0CV2C7WTB?tag=nlgstore-20",
    "available": true
@@ -1604,7 +1585,7 @@
    "name": "Processador AMD Ryzen 5 5500 AM4 6 Núcleos",
    "cat": "cpu",
    "store": "amazon",
-   "price": 487.11,
+   "price": 489.98,
    "oldPrice": 1166.64,
    "img": "https://m.media-amazon.com/images/I/51So7GoGvxL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B09VCJ171S?tag=nlgstore-20",
@@ -1636,12 +1617,11 @@
    "name": "Processador AMD Ryzen 7 5700G AM4 com Vídeo Integrado",
    "cat": "cpu",
    "store": "amazon",
-   "price": 1157.9,
+   "price": 1157.89,
    "img": "https://m.media-amazon.com/images/I/51D3DrDmwkL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B091J3NYVF?tag=nlgstore-20",
    "available": true,
-   "oldPrice": 1249.9,
-   "promo": true
+   "oldPrice": 1249.9
   },
   {
    "id": "B0BTZB7F88",
@@ -1670,7 +1650,7 @@
    "name": "Placa-mãe Gigabyte B550M AORUS ELITE AM4 DDR4",
    "cat": "placamae",
    "store": "amazon",
-   "price": 651.71,
+   "price": 651.72,
    "oldPrice": 871.45,
    "img": "https://m.media-amazon.com/images/I/81QyMksmunL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B08BN8VD23?tag=nlgstore-20",
@@ -1681,18 +1661,18 @@
    "name": "Placa-mãe ASUS TUF Gaming B550M-PLUS AM4 DDR4",
    "cat": "placamae",
    "store": "amazon",
-   "price": 757.05,
+   "price": 647.1,
    "img": "https://m.media-amazon.com/images/I/81p4nj7F2tL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B089HDJS79?tag=nlgstore-20",
    "available": true,
-   "oldPrice": 796.9
+   "oldPrice": 799
   },
   {
    "id": "B08HHMCCXV",
    "name": "Placa-mãe MSI A520M-A PRO AM4 DDR4",
    "cat": "placamae",
    "store": "amazon",
-   "price": 338.18,
+   "price": 355.98,
    "oldPrice": 499,
    "img": "https://m.media-amazon.com/images/I/81sffemYJJS._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B08HHMCCXV?tag=nlgstore-20",
@@ -1787,7 +1767,7 @@
    "name": "SSD Kingston NV3 500GB M.2 NVMe Gen4",
    "cat": "armazenamento",
    "store": "amazon",
-   "price": 635.55,
+   "price": 664.77,
    "img": "https://m.media-amazon.com/images/I/71lCFgczaBL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0DBR9RZLV?tag=nlgstore-20",
    "available": true
@@ -1797,7 +1777,7 @@
    "name": "HD Seagate BarraCuda 2TB 3.5\" SATA III",
    "cat": "armazenamento",
    "store": "amazon",
-   "price": 935.1,
+   "price": 940.4,
    "img": "https://m.media-amazon.com/images/I/71NyznvXLOL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B07FFVYDF3?tag=nlgstore-20",
    "available": true
@@ -1840,7 +1820,7 @@
    "name": "Gabinete Gamer C3Tech Aquarius MT-G810 Vidro Temperado",
    "cat": "gabinetes",
    "store": "amazon",
-   "price": 179.1,
+   "price": 199,
    "oldPrice": 279.9,
    "img": "https://m.media-amazon.com/images/I/51rzqdjF4NL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0CLSGXMYN?tag=nlgstore-20",
@@ -1873,7 +1853,7 @@
    "name": "Fonte Gamemax GP650 650W 80 Plus Bronze",
    "cat": "fontes",
    "store": "amazon",
-   "price": 255.45,
+   "price": 233.09,
    "img": "https://m.media-amazon.com/images/I/719QY45IAHL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B01MTDJ6VP?tag=nlgstore-20",
    "available": true,
@@ -1894,7 +1874,7 @@
    "name": "Fonte XPG Core Reactor II VE 850W 80 Plus Gold",
    "cat": "fontes",
    "store": "amazon",
-   "price": 529.98,
+   "price": 549.97,
    "img": "https://m.media-amazon.com/images/I/81OGxIVcW+L._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0CNCHV3V4?tag=nlgstore-20",
    "available": true
@@ -1904,7 +1884,7 @@
    "name": "Air Cooler Cooler Master Hyper 212 Spectrum V3 ARGB",
    "cat": "refrigeracao",
    "store": "amazon",
-   "price": 94.11,
+   "price": 59.39,
    "oldPrice": 124.47,
    "img": "https://m.media-amazon.com/images/I/61JMWRhpUgL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0BR5B1S3G?tag=nlgstore-20",
@@ -1959,7 +1939,7 @@
    "name": "Monitor Gamer LG UltraGear 24\" IPS Full HD 180Hz 1ms",
    "cat": "monitores",
    "store": "amazon",
-   "price": 740.05,
+   "price": 701.1,
    "oldPrice": 1199,
    "img": "https://m.media-amazon.com/images/I/61aIuJu0M0L._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0D8DPT7ZY?tag=nlgstore-20",
@@ -1993,7 +1973,7 @@
    "name": "Monitor Gamer AOC AGON 27\" QHD 180Hz 0,5ms IPS",
    "cat": "monitores",
    "store": "amazon",
-   "price": 1061.1,
+   "price": 1139.9,
    "oldPrice": 1299,
    "img": "https://m.media-amazon.com/images/I/71sEhnd0beL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0FGDK8DJM?tag=nlgstore-20",
@@ -2004,7 +1984,7 @@
    "name": "Monitor Gamer Samsung Odyssey G5 32\" QHD 165Hz",
    "cat": "monitores",
    "store": "amazon",
-   "price": 1049.96,
+   "price": 1117.71,
    "oldPrice": 1599,
    "img": "https://m.media-amazon.com/images/I/616NYrEQ6QL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0DWQNS8TN?tag=nlgstore-20",
@@ -2015,7 +1995,7 @@
    "name": "Placa de Rede Wi-Fi 6 TP-Link Archer TX50E com Bluetooth 5.0",
    "cat": "pc",
    "store": "amazon",
-   "price": 246.41,
+   "price": 233.7,
    "oldPrice": 289,
    "img": "https://m.media-amazon.com/images/I/51gWpnyfP0L._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B087ML9XMX?tag=nlgstore-20",
@@ -2047,8 +2027,8 @@
    "name": "Kit Placa-mãe X99 SOYO + Xeon E5 2630 V4 + 8GB DDR4",
    "cat": "placamae",
    "store": "ali",
-   "price": 176.69,
-   "oldPrice": 456.93,
+   "price": 180.43,
+   "oldPrice": 465.7,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S6c91a0972b544a9a8cb685b724e0f974U.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3j0Ehlp",
    "available": true
@@ -2058,8 +2038,8 @@
    "name": "Kit Placa-mãe Machinist X99 PR9-H LGA 2011-3 (Xeon opcional)",
    "cat": "placamae",
    "store": "ali",
-   "price": 228.85,
-   "oldPrice": 507.65,
+   "price": 226.67,
+   "oldPrice": 502.82,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S211953b7d45a45f0b08bb766a3e0b5c1b.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c2IhJKQB",
    "available": true
@@ -2069,8 +2049,8 @@
    "name": "Placa de Vídeo Veineda Radeon RX 580 8GB GDDR5 256-bit",
    "cat": "gpu",
    "store": "ali",
-   "price": 749.82,
-   "oldPrice": 1242.1,
+   "price": 762.53,
+   "oldPrice": 1264.57,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S14d4a56e8eb64ef2a1d5df089d202d38G.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c42hZgyX",
    "available": true
@@ -2080,8 +2060,8 @@
    "name": "Placa de Vídeo MOUGOL Radeon RX 580 8GB GDDR5",
    "cat": "gpu",
    "store": "ali",
-   "price": 864.65,
-   "oldPrice": 1261.53,
+   "price": 810.92,
+   "oldPrice": 1285.74,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S7e5d23b7f1da48fe9467bf79e07f7b6f9.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c4NbslhZ",
    "available": true
@@ -2091,7 +2071,7 @@
    "name": "Processador Intel Xeon E5 2680 V4 14 Núcleos LGA 2011-3",
    "cat": "cpu",
    "store": "ali",
-   "price": 50.14,
+   "price": 51.48,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S93fe93d9f74448dd846ffcf7f4285727d.png_480x480.png",
    "link": "https://s.click.aliexpress.com/e/_c313oReF",
    "available": true
@@ -2101,8 +2081,8 @@
    "name": "Memória RAM Netac Shadow III DDR4 3200MHz com Dissipador",
    "cat": "ram",
    "store": "ali",
-   "price": 318.12,
-   "oldPrice": 511.05,
+   "price": 327.36,
+   "oldPrice": 526.56,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S39b5097d34664733841782df0ac18cb38.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3V3eiVl",
    "available": true
@@ -2123,8 +2103,8 @@
    "name": "SSD Netac NVMe M.2 3500MB/s (500GB a 2TB)",
    "cat": "armazenamento",
    "store": "ali",
-   "price": 201.01,
-   "oldPrice": 354.52,
+   "price": 204.9,
+   "oldPrice": 361.4,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S4d9a5cac8b5e470d9b33245ceaefdf21a.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3orSLKj",
    "available": true
@@ -2134,8 +2114,8 @@
    "name": "SSD WD Black SN850X NVMe Gen4 1TB/2TB",
    "cat": "armazenamento",
    "store": "ali",
-   "price": 1607.79,
-   "oldPrice": 3420.83,
+   "price": 1608.36,
+   "oldPrice": 3486.47,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S929ab35ea292404bbfc1259acb80d2f12.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c43oQyOX",
    "available": true
@@ -2145,8 +2125,8 @@
    "name": "SSD Netac SATA 2.5\" (128GB a 2TB)",
    "cat": "armazenamento",
    "store": "ali",
-   "price": 174.37,
-   "oldPrice": 281.04,
+   "price": 114.54,
+   "oldPrice": 184.24,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S4e083f23423549f9b96430e464c396e87.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3MPXItl",
    "available": true
@@ -2156,8 +2136,8 @@
    "name": "Air Cooler Thermalright Peerless Assassin 120 SE V2",
    "cat": "refrigeracao",
    "store": "ali",
-   "price": 271.98,
-   "oldPrice": 642.26,
+   "price": 277.78,
+   "oldPrice": 655.97,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sf1413866ebd349c49b208b94e57721c5i.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3DKWrKP",
    "available": true
@@ -2167,8 +2147,8 @@
    "name": "Water Cooler TEUCER AF-240 RGB 240mm",
    "cat": "refrigeracao",
    "store": "ali",
-   "price": 296.58,
-   "oldPrice": 674.05,
+   "price": 310.99,
+   "oldPrice": 706.8,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sc4524bea3c4c477597dd11d6734c9fc8m.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c45rXbYJ",
    "available": true
@@ -2198,8 +2178,8 @@
    "name": "Gabinete Mini ITX METALFISH T40 7L Compacto",
    "cat": "gabinetes",
    "store": "ali",
-   "price": 376.46,
-   "oldPrice": 800.99,
+   "price": 383.68,
+   "oldPrice": 816.36,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sf2acb92dbaa34f389270c3dbc82da199p.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3BNseiX",
    "available": true
@@ -2209,8 +2189,8 @@
    "name": "Fonte Thermalright TR-KG 650/750/850W 80 Plus Gold Modular ATX 3.1",
    "cat": "fontes",
    "store": "ali",
-   "price": 551.27,
-   "oldPrice": 1266,
+   "price": 573.16,
+   "oldPrice": 1290.3,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/A5aa2a68c63014b2e979a6fad8579ccc00.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c32sDdXl",
    "available": true
@@ -2244,7 +2224,7 @@
    "name": "Placa de Vídeo MSI GeForce RTX 5060 Ti Ventus 2X OC Plus 8GB GDDR7",
    "cat": "gpu",
    "store": "amazon",
-   "price": 3499.98,
+   "price": 3685.08,
    "tag": "Meu Setup",
    "img": "https://m.media-amazon.com/images/I/51N310J-GcL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0F8BQ3KYW?tag=nlgstore-20",
@@ -2256,7 +2236,7 @@
    "name": "Memória RAM Kingston FURY Beast 32GB (2x16GB) DDR4 3200MHz",
    "cat": "ram",
    "store": "amazon",
-   "price": 1619.99,
+   "price": 1680.55,
    "tag": "Meu Setup",
    "img": "https://m.media-amazon.com/images/I/5150HvlLv0L._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B097K2WKZW?tag=nlgstore-20",
@@ -2272,7 +2252,7 @@
    "tag": "Meu Setup",
    "img": "https://m.media-amazon.com/images/I/51TO+Fm8DvL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0H37CRQ58?tag=nlgstore-20",
-   "available": true,
+   "available": false,
    "featured": true
   },
   {
@@ -2280,7 +2260,7 @@
    "name": "Gabinete Gamer Kalkan Asgard Evo ATX Aquário Câmara Dupla Preto",
    "cat": "gabinetes",
    "store": "amazon",
-   "price": 325.5,
+   "price": 366.02,
    "tag": "Meu Setup",
    "img": "https://m.media-amazon.com/images/I/61rifDw2PuL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0GTC9GHYT?tag=nlgstore-20",
@@ -2297,8 +2277,7 @@
    "img": "https://m.media-amazon.com/images/I/71VqjPlOJAL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B00ELBQIKA?tag=nlgstore-20",
    "available": true,
-   "featured": true,
-   "promo": true
+   "featured": true
   },
   {
    "id": "B0CJTYM3FH",
@@ -2346,7 +2325,7 @@
    "name": "Cadeira de Escritório Presidente Duoffice Atlanta DU500A",
    "cat": "cadeiras",
    "store": "amazon",
-   "price": 434.9,
+   "price": 449.9,
    "img": "https://m.media-amazon.com/images/I/51BMMOKhSJL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B09VNBCFDJ?tag=nlgstore-20",
    "available": true,
@@ -2368,13 +2347,12 @@
    "name": "Mesa Gamer Madesa 9409 Preta",
    "cat": "mesas",
    "store": "amazon",
-   "price": 224.97,
+   "price": 254.97,
    "oldPrice": 349.99,
    "img": "https://m.media-amazon.com/images/I/61M0zF5KovL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B08LQRYBNV?tag=nlgstore-20",
    "available": true,
-   "featured": true,
-   "promo": true
+   "featured": true
   },
   {
    "id": "B089Y3S71L",
@@ -2402,8 +2380,8 @@
    "name": "Escrivaninha Artely Match com Estante Lateral Preto/Pinho",
    "cat": "mesas",
    "store": "amazon",
-   "price": 292.89,
-   "oldPrice": 529,
+   "price": 292.9,
+   "oldPrice": 549,
    "img": "https://m.media-amazon.com/images/I/61SwLdyBdFL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B08YP35XRT?tag=nlgstore-20",
    "available": true
@@ -2439,8 +2417,7 @@
    "img": "https://m.media-amazon.com/images/I/61AMXPtRajL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0F8RFWW53?tag=nlgstore-20",
    "available": true,
-   "oldPrice": 439.9,
-   "promo": true
+   "oldPrice": 439.9
   },
   {
    "id": "B0FLLG567H",
@@ -2483,15 +2460,14 @@
    "img": "https://m.media-amazon.com/images/I/61func7nJaL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0G1C6QJCJ?tag=nlgstore-20",
    "available": true,
-   "oldPrice": 313.47,
-   "promo": true
+   "oldPrice": 313.47
   },
   {
    "id": "B0FV3PPLCS",
    "name": "Hyrule Warriors: Age of Imprisonment – Nintendo Switch 2",
    "cat": "jogos",
    "store": "amazon",
-   "price": 428.5,
+   "price": 438.24,
    "img": "https://m.media-amazon.com/images/I/617CFC94HgL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0FV3PPLCS?tag=nlgstore-20",
    "available": true
@@ -2512,7 +2488,7 @@
    "name": "Mario Kart 8 Deluxe – Nintendo Switch",
    "cat": "jogos",
    "store": "amazon",
-   "price": 290.34,
+   "price": 290.35,
    "oldPrice": 349,
    "img": "https://m.media-amazon.com/images/I/61UFnW4XewL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0BK2RYTYH?tag=nlgstore-20",
@@ -2523,7 +2499,7 @@
    "name": "Super Smash Bros. Ultimate – Nintendo Switch",
    "cat": "jogos",
    "store": "amazon",
-   "price": 296.67,
+   "price": 296.66,
    "oldPrice": 349,
    "img": "https://m.media-amazon.com/images/I/613aVcNKViL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0BKGXLRB3?tag=nlgstore-20",
@@ -2534,7 +2510,7 @@
    "name": "Super Mario Galaxy + Super Mario Galaxy 2 – Nintendo Switch",
    "cat": "jogos",
    "store": "amazon",
-   "price": 315.81,
+   "price": 315.8,
    "oldPrice": 399.9,
    "img": "https://m.media-amazon.com/images/I/61tLkY3m0OL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0FS8WQVJZ?tag=nlgstore-20",
@@ -2545,13 +2521,11 @@
    "name": "Controle DualSense Midnight Black PS5 – Sony Original",
    "cat": "dualsense",
    "store": "shopee",
-   "price": 395.95,
+   "price": 439.9,
    "img": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mc6mtam4rfs7a7",
    "link": "https://s.shopee.com.br/3LSK4nHAU8",
    "available": true,
-   "promo": true,
-   "oldPrice": 499.9,
-   "promoRank": 6
+   "oldPrice": 499.9
   },
   {
    "id": "1343318906.28134934148",
@@ -2562,7 +2536,6 @@
    "img": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m90bfhxyyomxc9",
    "link": "https://s.shopee.com.br/3VlkH6GX9B",
    "available": true,
-   "promo": true,
    "oldPrice": 2530.65
   },
   {
@@ -2570,11 +2543,10 @@
    "name": "Nintendo Switch OLED + Super Mario Bros. Wonder + 3 meses de NSO",
    "cat": "consoles",
    "store": "shopee",
-   "price": 2019.99,
+   "price": 2699.99,
    "img": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mi05vrdgfpqa1f",
    "link": "https://s.shopee.com.br/3g5ATPFtoE",
    "available": true,
-   "promo": true,
    "oldPrice": 3199.99
   },
   {
@@ -2586,7 +2558,6 @@
    "img": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mb84nf9v9xu73e",
    "link": "https://s.shopee.com.br/3qOafiFGTH",
    "available": true,
-   "promo": true,
    "oldPrice": 219.99
   },
   {
@@ -2594,11 +2565,10 @@
    "name": "Headset Gamer TGT Diver V2 Rainbow 40mm",
    "cat": "headsets",
    "store": "shopee",
-   "price": 54.61,
+   "price": 54.87,
    "img": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mf1f34sgcnwkd3",
    "link": "https://s.shopee.com.br/7Af2dq2Zhw",
    "available": true,
-   "promo": true,
    "oldPrice": 176.43
   },
   {
@@ -2606,11 +2576,10 @@
    "name": "Fone KZ EDX Pro Intra-auricular Driver 10mm",
    "cat": "headsets",
    "store": "shopee",
-   "price": 54.9,
+   "price": 48.9,
    "img": "https://down-br.img.susercontent.com/file/br-11134207-81zto-mkpgj0t7shs33d",
    "link": "https://s.shopee.com.br/3g5ATRShbp",
    "available": true,
-   "promo": true,
    "oldPrice": 130
   },
   {
@@ -2618,11 +2587,10 @@
    "name": "SSD Lexar NM790 1TB NVMe PCIe 4.0 – 7400MB/s",
    "cat": "armazenamento",
    "store": "shopee",
-   "price": 1579.67,
+   "price": 1601.9,
    "img": "https://down-br.img.susercontent.com/file/sg-11134201-825aq-msaa0hs7dhc54f",
    "link": "https://s.shopee.com.br/3VlkH8TKwo",
    "available": true,
-   "promo": true,
    "oldPrice": 2799.99
   },
   {
@@ -2630,11 +2598,10 @@
    "name": "Monitor Gamer Mancer Horizon Z3B 21,5\" FHD 100Hz 1ms",
    "cat": "monitores",
    "store": "shopee",
-   "price": 444.9,
+   "price": 416.63,
    "img": "https://down-br.img.susercontent.com/file/br-11134207-820ll-mm26rb2omrd3cb",
    "link": "https://s.shopee.com.br/3LSK4pTyHn",
    "available": true,
-   "promo": true,
    "oldPrice": 788.61
   },
   {
@@ -2646,7 +2613,6 @@
    "img": "https://down-br.img.susercontent.com/file/sg-11134201-8258c-mrkhpa1dtz4791",
    "link": "https://s.shopee.com.br/4VeHSyPWv2",
    "available": true,
-   "promo": true,
    "oldPrice": 2000
   },
   {
@@ -2654,13 +2620,11 @@
    "name": "Monitor Gamer TCL 25G64 25\" QD Mini LED 300Hz",
    "cat": "monitores",
    "store": "shopee",
-   "price": 1226.66,
+   "price": 1318.99,
    "img": "https://down-br.img.susercontent.com/file/br-11134207-820lx-mszmyhmlphxjdd",
    "link": "https://s.shopee.com.br/4LKrGfQAG1",
    "available": true,
-   "promo": true,
-   "oldPrice": 1989,
-   "promoRank": 16
+   "oldPrice": 1989
   },
   {
    "id": "1388709282.21098130533",
@@ -2671,7 +2635,6 @@
    "img": "https://down-br.img.susercontent.com/file/sg-11134201-7rff8-m963vrl5thu9aa",
    "link": "https://s.shopee.com.br/AKc4Pic36U",
    "available": true,
-   "promo": true,
    "oldPrice": 485.9
   },
   {
@@ -2679,11 +2642,10 @@
    "name": "Controle GameSir T4 Nova Lite Hall Effect (Switch, PC, Mobile)",
    "cat": "controles",
    "store": "shopee",
-   "price": 93.99,
+   "price": 94.99,
    "img": "https://down-br.img.susercontent.com/file/cn-11134207-7r98o-lx3zjydgvy9x6a",
    "link": "https://s.shopee.com.br/AUvUc1bPlX",
    "available": true,
-   "promo": true,
    "oldPrice": 110
   },
   {
@@ -2691,11 +2653,10 @@
    "name": "Air Fryer Oven Philco 11L 8 Funções 1800W",
    "cat": "cozinha",
    "store": "shopee",
-   "price": 309,
+   "price": 349.9,
    "img": "https://down-br.img.susercontent.com/file/sg-11134201-825bb-muw81q77356v3f",
    "link": "https://s.shopee.com.br/5LDOSWv5FY",
    "available": true,
-   "promo": true,
    "oldPrice": 479.9,
    "featured": true
   },
@@ -2704,11 +2665,10 @@
    "name": "Air Fryer Britânia Dura Mais 4,2L 1500W",
    "cat": "cozinha",
    "store": "shopee",
-   "price": 179.9,
+   "price": 189.9,
    "img": "https://down-br.img.susercontent.com/file/sg-11134201-8258f-mudi8zi45c034a",
    "link": "https://s.shopee.com.br/5VWoepuRub",
    "available": true,
-   "promo": true,
    "oldPrice": 249.9
   },
   {
@@ -2720,21 +2680,18 @@
    "oldPrice": 2699.9,
    "img": "https://m.media-amazon.com/images/I/61JwTVae3+L._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0FR6PC1FB?tag=nlgstore-20",
-   "available": true,
-   "promo": true,
-   "promoRank": 3
+   "available": true
   },
   {
    "id": "B0HKYBZRN1",
    "name": "Nintendo Switch 2 + EA Sports FC 27 (Bundle)",
    "cat": "consoles",
    "store": "amazon",
-   "price": 4199,
+   "price": 4091.08,
    "oldPrice": 4699.9,
    "img": "https://m.media-amazon.com/images/I/61aJsKTHQoL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0HKYBZRN1?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B017RBNOI4",
@@ -2746,21 +2703,18 @@
    "img": "https://m.media-amazon.com/images/I/61wBV8pnsFL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B017RBNOI4?tag=nlgstore-20",
    "available": true,
-   "promo": true,
-   "featured": true,
-   "promoRank": 8
+   "featured": true
   },
   {
    "id": "B088GNW267",
    "name": "Controle DualSense Branco – PlayStation 5",
    "cat": "dualsense",
    "store": "amazon",
-   "price": 412.3,
+   "price": 399,
    "oldPrice": 469.9,
    "img": "https://m.media-amazon.com/images/I/5102Pp-TfHL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B088GNW267?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B07FN1MZBH",
@@ -2771,44 +2725,40 @@
    "oldPrice": 349.9,
    "img": "https://m.media-amazon.com/images/I/61kwdPH8+xL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B07FN1MZBH?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B0FSGH4DJD",
    "name": "Headset Gamer JBL Quantum 650 Sem Fio",
    "cat": "headsets",
    "store": "amazon",
-   "price": 557,
+   "price": 569.05,
    "oldPrice": 799,
    "img": "https://m.media-amazon.com/images/I/61BiRo3RhEL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0FSGH4DJD?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B07Y2G7VX5",
    "name": "Headset Gamer Havit H2002d 53mm",
    "cat": "headsets",
    "store": "amazon",
-   "price": 148.74,
+   "price": 139.99,
    "oldPrice": 219,
    "img": "https://m.media-amazon.com/images/I/71sV-QnV8TL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B07Y2G7VX5?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B0CHJXCJTW",
    "name": "Headset Gamer Havit Fuxi-H3 Sem Fio 2.4G e Bluetooth",
    "cat": "headsets",
    "store": "amazon",
-   "price": 149.88,
+   "price": 144.99,
    "oldPrice": 265.45,
    "img": "https://m.media-amazon.com/images/I/71g1gS6qGmL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0CHJXCJTW?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B07K986YLL",
@@ -2819,8 +2769,7 @@
    "oldPrice": 599.9,
    "img": "https://m.media-amazon.com/images/I/61-6uAf8soL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B07K986YLL?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B07GPRWFC5",
@@ -2831,8 +2780,7 @@
    "oldPrice": 299.9,
    "img": "https://m.media-amazon.com/images/I/51sg9BLSMTL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B07GPRWFC5?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B0FHWYPYF4",
@@ -2843,8 +2791,7 @@
    "oldPrice": 149.9,
    "img": "https://m.media-amazon.com/images/I/71j7xE6D2sL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0FHWYPYF4?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B0GGLJCJQM",
@@ -2855,9 +2802,7 @@
    "oldPrice": 349.9,
    "img": "https://m.media-amazon.com/images/I/71xKlhR+NtL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0GGLJCJQM?tag=nlgstore-20",
-   "available": true,
-   "promo": true,
-   "promoRank": 15
+   "available": true
   },
   {
    "id": "B0CD2RBWM6",
@@ -2868,8 +2813,7 @@
    "oldPrice": 199.9,
    "img": "https://m.media-amazon.com/images/I/61CYkp+WN1L._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0CD2RBWM6?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B0BLVY24Z3",
@@ -2880,8 +2824,7 @@
    "oldPrice": 139.9,
    "img": "https://m.media-amazon.com/images/I/61UmOMpv7SL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0BLVY24Z3?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B0FY8K73R9",
@@ -2892,8 +2835,7 @@
    "oldPrice": 579.9,
    "img": "https://m.media-amazon.com/images/I/816GBYeDp-L._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0FY8K73R9?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B0DNV12PC4",
@@ -2904,20 +2846,18 @@
    "oldPrice": 349,
    "img": "https://m.media-amazon.com/images/I/71LI7czffML._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0DNV12PC4?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B08CKGW1D4",
    "name": "Placa-mãe ASUS TUF Gaming A520M-PLUS II AM4 DDR4",
    "cat": "placamae",
    "store": "amazon",
-   "price": 439.71,
+   "price": 465.58,
    "oldPrice": 936.25,
    "img": "https://m.media-amazon.com/images/I/91lKZoY9CWL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B08CKGW1D4?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "B0DVK166SV",
@@ -2928,34 +2868,29 @@
    "oldPrice": 479,
    "img": "https://m.media-amazon.com/images/I/61EwP1HwXlL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0DVK166SV?tag=nlgstore-20",
-   "available": true,
-   "promo": true
+   "available": true
   },
   {
    "id": "22FX56W",
    "name": "Nintendo Switch 2 + Mario Kart World + 3 meses de NSO (Bundle)",
    "cat": "consoles",
    "store": "ml",
-   "price": 4399,
+   "price": 4654,
    "img": "https://http2.mlstatic.com/D_NQ_NP_642168-MLA118780566083_102026-O.webp",
    "link": "https://meli.la/22FX56W",
    "available": true,
-   "promo": true,
-   "oldPrice": 5699,
-   "promoRank": 5
+   "oldPrice": 5699
   },
   {
    "id": "1quDiHp",
    "name": "Nintendo Switch 2 + EA Sports FC 27 (Bundle)",
    "cat": "consoles",
    "store": "ml",
-   "price": 3961,
+   "price": 4084,
    "img": "https://http2.mlstatic.com/D_NQ_NP_621310-MLB117384489436_102026-O.webp",
    "link": "https://meli.la/1quDiHp",
    "available": true,
-   "promo": true,
-   "oldPrice": 4699,
-   "promoRank": 4
+   "oldPrice": 4699
   },
   {
    "id": "2PQBQpJ",
@@ -2966,9 +2901,7 @@
    "img": "https://http2.mlstatic.com/D_NQ_NP_795445-MLB120087071969_102026-O.webp",
    "link": "https://meli.la/2PQBQpJ",
    "available": true,
-   "promo": true,
-   "oldPrice": 529,
-   "promoRank": 2
+   "oldPrice": 529
   },
   {
    "id": "2mugHzc",
@@ -2979,7 +2912,6 @@
    "img": "https://http2.mlstatic.com/D_NQ_NP_984099-MLA99993479459_112025-O.webp",
    "link": "https://meli.la/2mugHzc",
    "available": true,
-   "promo": true,
    "oldPrice": 699
   },
   {
@@ -2987,36 +2919,32 @@
    "name": "Controle Xbox Series Carbon Black Sem Fio",
    "cat": "xbox",
    "store": "ml",
-   "price": 345.99,
+   "price": 399,
    "img": "https://http2.mlstatic.com/D_NQ_NP_706410-MLA54692702580_032023-O.webp",
    "link": "https://meli.la/1SJQhkz",
    "available": true,
-   "promo": true,
-   "oldPrice": 499
+   "oldPrice": 599
   },
   {
    "id": "2kY7gt4",
    "name": "Controle Xbox Series Deep Pink Sem Fio",
    "cat": "xbox",
    "store": "ml",
-   "price": 327.92,
+   "price": 457,
    "img": "https://http2.mlstatic.com/D_NQ_NP_652595-MLU70518626684_072023-O.webp",
    "link": "https://meli.la/2kY7gt4",
    "available": true,
-   "promo": true,
-   "oldPrice": 660,
-   "promoRank": 11
+   "oldPrice": 660.46
   },
   {
    "id": "1wrn6HB",
    "name": "ASUS ROG Ally Z2 16GB 512GB Tela 7\" FHD",
    "cat": "consoles",
    "store": "ml",
-   "price": 4539,
+   "price": 4542,
    "img": "https://http2.mlstatic.com/D_NQ_NP_793083-MLA99126402146_112025-O.webp",
    "link": "https://meli.la/1wrn6HB",
    "available": true,
-   "promo": true,
    "oldPrice": 6999
   },
   {
@@ -3024,11 +2952,10 @@
    "name": "Cadeira Gamer Healer Lancer Preta",
    "cat": "cadeiras",
    "store": "ml",
-   "price": 406.03,
+   "price": 493.05,
    "img": "https://http2.mlstatic.com/D_NQ_NP_986648-MLA105118436464_012026-O.webp",
    "link": "https://meli.la/1eprMdg",
    "available": true,
-   "promo": true,
    "oldPrice": 591
   },
   {
@@ -3036,11 +2963,10 @@
    "name": "Headset Gamer JBL Quantum 100P Branco/Azul",
    "cat": "headsets",
    "store": "ml",
-   "price": 179,
+   "price": 181,
    "img": "https://http2.mlstatic.com/D_NQ_NP_850743-MLA85169586256_052025-O.webp",
    "link": "https://meli.la/1DNo8R9",
    "available": true,
-   "promo": true,
    "oldPrice": 349
   },
   {
@@ -3048,23 +2974,21 @@
    "name": "HD Seagate Barracuda 4TB 5400rpm SATA 3",
    "cat": "armazenamento",
    "store": "ml",
-   "price": 1299,
+   "price": 1278,
    "img": "https://http2.mlstatic.com/D_NQ_NP_708489-MLA99416699086_112025-O.webp",
    "link": "https://meli.la/2ZVf4cp",
    "available": true,
-   "promo": true,
-   "oldPrice": 2107
+   "oldPrice": 1299
   },
   {
    "id": "2umW32w",
    "name": "Monitor Gamer LG UltraGear 27\" IPS 144Hz 1ms (27G411B)",
    "cat": "monitores",
    "store": "ml",
-   "price": 669.76,
+   "price": 725.88,
    "img": "https://http2.mlstatic.com/D_NQ_NP_896633-MLA120723721883_112026-O.webp",
    "link": "https://meli.la/2umW32w",
    "available": true,
-   "promo": true,
    "oldPrice": 1039
   },
   {
@@ -3076,20 +3000,17 @@
    "img": "https://http2.mlstatic.com/D_NQ_NP_960196-MLA90885249892_082025-O.webp",
    "link": "https://meli.la/1LzjBgi",
    "available": true,
-   "promo": true,
-   "oldPrice": 1819,
-   "promoRank": 9
+   "oldPrice": 1819
   },
   {
    "id": "2eoMnPH",
    "name": "Monitor Gamer LG UltraGear 34\" Curvo UltraWide QHD 160Hz",
    "cat": "monitores",
    "store": "ml",
-   "price": 1655,
+   "price": 1849,
    "img": "https://http2.mlstatic.com/D_NQ_NP_714205-MLA120725726433_112026-O.webp",
    "link": "https://meli.la/2eoMnPH",
    "available": true,
-   "promo": true,
    "oldPrice": 2515
   },
   {
@@ -3097,24 +3018,21 @@
    "name": "Monitor LG UltraGear OLED 27\" QHD 240Hz (27GX704A)",
    "cat": "monitores",
    "store": "ml",
-   "price": 3372,
+   "price": 3388,
    "img": "https://http2.mlstatic.com/D_NQ_NP_912218-MLA108662731317_032026-O.webp",
    "link": "https://meli.la/1KaD7wX",
    "available": true,
-   "promo": true,
-   "oldPrice": 5109,
-   "promoRank": 7
+   "oldPrice": 5109
   },
   {
    "id": "2QDLh4s",
    "name": "Placa de Vídeo Zotac RTX 5060 Twin Edge 8GB GDDR7",
    "cat": "gpu",
    "store": "ml",
-   "price": 3099,
+   "price": 3259,
    "img": "https://http2.mlstatic.com/D_NQ_NP_980986-MLA99925899181_112025-O.webp",
    "link": "https://meli.la/2QDLh4s",
    "available": true,
-   "promo": true,
    "oldPrice": 3879
   },
   {
@@ -3122,24 +3040,21 @@
    "name": "Processador AMD Ryzen 7 5800X3D AM4",
    "cat": "cpu",
    "store": "ml",
-   "price": 2248,
+   "price": 2471,
    "img": "https://http2.mlstatic.com/D_NQ_NP_699392-MLA113258460830_072026-O.webp",
    "link": "https://meli.la/1dbvocm",
    "available": true,
-   "promo": true,
-   "oldPrice": 4699,
-   "promoRank": 13
+   "oldPrice": 4189
   },
   {
    "id": "1ZRraQD",
    "name": "Notebook Gamer Acer Nitro V15 RTX 4060 i7 16GB 512GB 165Hz",
    "cat": "notebooks",
    "store": "ml",
-   "price": 6695,
+   "price": 7253,
    "img": "https://http2.mlstatic.com/D_NQ_NP_903344-MLA99495653410_112025-O.webp",
    "link": "https://meli.la/1ZRraQD",
    "available": true,
-   "promo": true,
    "oldPrice": 9935,
    "featured": true
   },
@@ -3209,10 +3124,11 @@
    "name": "Rádio de Emergência com Manivela, Solar, Lanterna LED e Carregador",
    "cat": "sobrevivencia",
    "store": "amazon",
-   "price": 208.51,
+   "price": 202.63,
    "img": "https://m.media-amazon.com/images/I/71hUF6+u3sL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B01MFCFKG5?tag=nlgstore-20",
-   "available": true
+   "available": true,
+   "oldPrice": 208.51
   },
   {
    "id": "408842872.25954297432",
@@ -3230,7 +3146,7 @@
    "name": "Lanterna Tática Recarregável Goreit 10.000 Lúmens XHP70",
    "cat": "sobrevivencia",
    "store": "amazon",
-   "price": 113.99,
+   "price": 142.49,
    "oldPrice": 149.99,
    "img": "https://m.media-amazon.com/images/I/81gHG9gMQkL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0DB8BR668?tag=nlgstore-20",
@@ -3262,7 +3178,7 @@
    "name": "Lanterna Recarregável Vonder LRV 100L",
    "cat": "sobrevivencia",
    "store": "amazon",
-   "price": 34.64,
+   "price": 34.97,
    "oldPrice": 49.28,
    "img": "https://m.media-amazon.com/images/I/51RBs4c74LL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B08K3GS882?tag=nlgstore-20",
@@ -3284,8 +3200,7 @@
    "name": "Lampião LED Solar Recarregável (Barraca, Casa e Emergência)",
    "cat": "sobrevivencia",
    "store": "shopee",
-   "price": 75.9,
-   "oldPrice": 78.9,
+   "price": 81.9,
    "img": "https://down-br.img.susercontent.com/file/br-11134207-820lh-muex5s2qsmpt66",
    "link": "https://s.shopee.com.br/LoiblGCm1",
    "available": true
@@ -3306,7 +3221,7 @@
    "name": "Pilha Alcalina AA Duracell – 16 Unidades",
    "cat": "sobrevivencia",
    "store": "ml",
-   "price": 76.27,
+   "price": 78.75,
    "oldPrice": 99.9,
    "img": "https://http2.mlstatic.com/D_NQ_NP_930225-MLA115343633264_082026-O.webp",
    "link": "https://meli.la/1L353D8",
@@ -3360,10 +3275,11 @@
    "name": "Filtro de Água Pessoal LifeStraw",
    "cat": "sobrevivencia",
    "store": "amazon",
-   "price": 134.06,
+   "price": 163.81,
    "img": "https://m.media-amazon.com/images/I/610MT9qiRyL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B006QF3TW4?tag=nlgstore-20",
-   "available": true
+   "available": true,
+   "oldPrice": 215.1
   },
   {
    "id": "352560148.12863273165",
@@ -3390,7 +3306,7 @@
    "name": "Kit 5 Mantas Térmicas de Emergência 2,10 x 1,40m",
    "cat": "sobrevivencia",
    "store": "shopee",
-   "price": 29.95,
+   "price": 32.22,
    "oldPrice": 37.9,
    "img": "https://down-br.img.susercontent.com/file/sg-11134201-824id-mfjw6cqezkeja1",
    "link": "https://s.shopee.com.br/70LcXyDciA",
@@ -3422,17 +3338,18 @@
    "name": "Rádio de Emergência STONEGO AM/FM/WB com Manivela, Solar e Lanterna",
    "cat": "sobrevivencia",
    "store": "ali",
-   "price": 81.99,
+   "price": 76.41,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S5d39e3e40ace4bcf98c35d45e4d4a438U.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c4DRr6pv",
-   "available": true
+   "available": true,
+   "oldPrice": 81.99
   },
   {
    "id": "1005008406059988",
    "name": "Rádio de Emergência 5000mAh com Manivela, Solar e Alerta Meteorológico",
    "cat": "sobrevivencia",
    "store": "ali",
-   "price": 115.97,
+   "price": 128.05,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S23a42564b0374fdd94f0424275f6c393I.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c41aFh6R",
    "available": true,
@@ -3443,74 +3360,77 @@
    "name": "Kit de Primeiros Socorros 150 Peças com Estojo Rígido à Prova d'Água",
    "cat": "sobrevivencia",
    "store": "ali",
-   "price": 46.26,
+   "price": 49.24,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S73a404f0348a40738f0ff0fb30006f1fA.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c2ugg4Dt",
    "available": true,
-   "oldPrice": 131.33
+   "oldPrice": 131.88
   },
   {
    "id": "1005007011385910",
    "name": "Kit Médico de Sobrevivência Compacto com Estojo Rígido",
    "cat": "sobrevivencia",
    "store": "ali",
-   "price": 34.44,
+   "price": 37.55,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S44d1a14e28d941889393a373a6e91cf5k.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c4tS17WR",
    "available": true,
-   "oldPrice": 92.04
+   "oldPrice": 92.78
   },
   {
    "id": "1005008405909940",
    "name": "Lanterna de Cabeça LED Recarregável USB à Prova d'Água",
    "cat": "sobrevivencia",
    "store": "ali",
-   "price": 16.9,
+   "price": 11.69,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S0d25105529ba43b4b85033c8d657b7b0N.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3di2J1l",
    "available": true,
-   "oldPrice": 44.19
+   "oldPrice": 16.9
   },
   {
    "id": "1005010376467273",
    "name": "Alicate Multiuso Dobrável em Aço Inox (Camping e Sobrevivência)",
    "cat": "sobrevivencia",
    "store": "ali",
-   "price": 37.9,
+   "price": 37,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S18df0472003a4bbe976b3fcd47f1b2c7T.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c30OmLGT",
    "available": true,
-   "oldPrice": 102.71
+   "oldPrice": 103.43
   },
   {
    "id": "1005012176962962",
    "name": "Saco de Dormir de Emergência Térmico à Prova d'Água",
    "cat": "sobrevivencia",
    "store": "ali",
-   "price": 13.13,
+   "price": 16.06,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S346faa012d0347e1b1a45514b3f03262y.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c4UuyhRh",
-   "available": true
+   "available": true,
+   "oldPrice": 47.07
   },
   {
    "id": "1005006860860277",
    "name": "Filtro de Água Portátil tipo Canudo para Emergência",
    "cat": "sobrevivencia",
    "store": "ali",
-   "price": 17.36,
+   "price": 20.8,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sa315551fec334845b413e347ec4afc049.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3XKehlN",
-   "available": true
+   "available": true,
+   "oldPrice": 56.54
   },
   {
    "id": "1005007345137299",
    "name": "Lampião LED Solar Recarregável para Emergência e Camping",
    "cat": "sobrevivencia",
    "store": "ali",
-   "price": 35.8,
+   "price": 35.71,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S3ad6b5efbbc948eb97a0fd9aa4476bb4b.png_480x480.png",
    "link": "https://s.click.aliexpress.com/e/_c3ysffcL",
-   "available": true
+   "available": true,
+   "oldPrice": 86.17
   },
   {
    "id": "1QamJpc",
