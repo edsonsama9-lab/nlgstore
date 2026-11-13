@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T12:00-03:00",
+ "updatedAt": "2026-11-13T12:00-03:00",
  "products": [
   {
    "id": "1zYeYNc",
@@ -3451,6 +3451,362 @@
    "price": 85,
    "img": "https://http2.mlstatic.com/D_NQ_NP_715343-MLB109558356829_032026-O.webp",
    "link": "https://meli.la/31oVRkS",
+   "available": true
+  },
+  {
+   "id": "B0CNKVYLF5",
+   "name": "Headset Gamer Sem Fio Redragon Zeus Pro H510-PRO",
+   "cat": "headsets",
+   "store": "amazon",
+   "price": 271.71,
+   "oldPrice": 447.5,
+   "img": "https://m.media-amazon.com/images/I/619T-Fp+EkL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CNKVYLF5?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B07N78G8GB",
+   "name": "Headset Gamer Havit H2232d RGB 50mm",
+   "cat": "headsets",
+   "store": "amazon",
+   "price": 59.99,
+   "oldPrice": 169,
+   "img": "https://m.media-amazon.com/images/I/71+giACAGrL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B07N78G8GB?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0FTZY2PCV",
+   "name": "Headset Sem Fio Xbox (Series X|S, One e PC)",
+   "cat": "xbox",
+   "store": "amazon",
+   "price": 698.9,
+   "oldPrice": 949,
+   "img": "https://m.media-amazon.com/images/I/515CA7V8hmL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FTZY2PCV?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0CSF244P6",
+   "name": "Tampas do PS5 Slim Midnight Black – Sony Original",
+   "cat": "acessorios",
+   "store": "amazon",
+   "price": 319.9,
+   "oldPrice": 399.9,
+   "img": "https://m.media-amazon.com/images/I/41iAvPZ-3AL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CSF244P6?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0FL9MYXHD",
+   "name": "Controle Xbox Series Robot White Sem Fio",
+   "cat": "xbox",
+   "store": "amazon",
+   "price": 345.9,
+   "oldPrice": 429.9,
+   "img": "https://m.media-amazon.com/images/I/41aWnRVNlnL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FL9MYXHD?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0GP36NXCM",
+   "name": "Headset Gamer JBL Quantum 100M2 com Microfone Removível",
+   "cat": "headsets",
+   "store": "amazon",
+   "price": 139.9,
+   "oldPrice": 199,
+   "img": "https://m.media-amazon.com/images/I/61dk8ozePdL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0GP36NXCM?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0CX8MT2M2",
+   "name": "Kindle Colorsoft 16GB com Tela Colorida",
+   "cat": "celulares",
+   "store": "amazon",
+   "price": 999,
+   "oldPrice": 1499,
+   "img": "https://m.media-amazon.com/images/I/71lORNHYWLL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CX8MT2M2?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0FTC96JJ5",
+   "name": "Celular Samsung Galaxy S25 FE 5G 128GB 8GB RAM",
+   "cat": "celulares",
+   "store": "amazon",
+   "price": 2699.1,
+   "oldPrice": 4999,
+   "img": "https://m.media-amazon.com/images/I/51ydsfiGvOL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FTC96JJ5?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0FDX5W5T9",
+   "name": "Smartwatch Samsung Galaxy Watch8 44mm LTE",
+   "cat": "celulares",
+   "store": "amazon",
+   "price": 1259.1,
+   "oldPrice": 3499,
+   "img": "https://m.media-amazon.com/images/I/41SnB5tK1PL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FDX5W5T9?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0G4SQNDHB",
+   "name": "Caixa de Som JBL PartyBox Club 120 160W RMS",
+   "cat": "headsets",
+   "store": "amazon",
+   "price": 1538.05,
+   "oldPrice": 3099,
+   "img": "https://m.media-amazon.com/images/I/61gT9v+QQGL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0G4SQNDHB?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0DD1KD5JP",
+   "name": "Air Fryer Forno Philips Walita 12L com Visor",
+   "cat": "cozinha",
+   "store": "amazon",
+   "price": 499,
+   "oldPrice": 999.9,
+   "img": "https://m.media-amazon.com/images/I/61a0AdTUvPL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0DD1KD5JP?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0CYW2N6TX",
+   "name": "Notebook ASUS Vivobook Go 15 Ryzen 5 7520U 8GB 512GB SSD",
+   "cat": "notebooks",
+   "store": "amazon",
+   "price": 2519.15,
+   "oldPrice": 4299,
+   "img": "https://m.media-amazon.com/images/I/71TK+vh6JIL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0HCR619M3",
+   "name": "Smart TV LG 43\" 4K NanoCell AI",
+   "cat": "tvs",
+   "store": "amazon",
+   "price": 1484.1,
+   "oldPrice": 1750,
+   "img": "https://m.media-amazon.com/images/I/71JvlwEntGL._AC_SL500_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0HCR619M3?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "2k23VPh",
+   "name": "Fone Bluetooth Soundcore P20i by Anker – 30h de Bateria",
+   "cat": "headsets",
+   "store": "ml",
+   "price": 129,
+   "oldPrice": 299,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-O.webp",
+   "link": "https://meli.la/2k23VPh",
+   "available": true
+  },
+  {
+   "id": "1PcwqC1",
+   "name": "Celular Samsung Galaxy A17 128GB 4GB RAM Câmera 50MP NFC",
+   "cat": "celulares",
+   "store": "ml",
+   "price": 849.11,
+   "oldPrice": 1499,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_868127-MLA118013296557_092026-O.webp",
+   "link": "https://meli.la/1PcwqC1",
+   "available": true
+  },
+  {
+   "id": "1xcAM4d",
+   "name": "Power Bank Basike 20.000mAh 22,5W com Cabos Embutidos e Display",
+   "cat": "celulares",
+   "store": "ml",
+   "price": 136.88,
+   "oldPrice": 213,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_719636-MLA99381510294_112025-O.webp",
+   "link": "https://meli.la/1xcAM4d",
+   "available": true
+  },
+  {
+   "id": "1GeE9Z3",
+   "name": "Caixa de Som Boombox Aiwa AWS-BBS-01 200W IP66 30h",
+   "cat": "headsets",
+   "store": "ml",
+   "price": 1201,
+   "oldPrice": 2699,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_864411-MLA99591392870_122025-O.webp",
+   "link": "https://meli.la/1GeE9Z3",
+   "available": true
+  },
+  {
+   "id": "2mctEBu",
+   "name": "Notebook ASUS Vivobook Go 15 Ryzen 5 7520U 8GB 256GB SSD",
+   "cat": "notebooks",
+   "store": "ml",
+   "price": 2749,
+   "oldPrice": 4199,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_830301-MLA99949667885_112025-O.webp",
+   "link": "https://meli.la/2mctEBu",
+   "available": true
+  },
+  {
+   "id": "1PoXSmw",
+   "name": "Smart TV 43\" AOC Roku Full HD Wi-Fi",
+   "cat": "tvs",
+   "store": "ml",
+   "price": 1354,
+   "oldPrice": 2327,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_600093-MLA115184611400_082026-O.webp",
+   "link": "https://meli.la/1PoXSmw",
+   "available": true
+  },
+  {
+   "id": "2k3fnfb",
+   "name": "Pisca-Pisca Cascata de Natal 400 LEDs 10m 8 Funções",
+   "cat": "casa",
+   "store": "ml",
+   "price": 60.8,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_736309-MLB117573401341_092026-O.webp",
+   "link": "https://meli.la/2k3fnfb",
+   "available": true
+  },
+  {
+   "id": "2EsyLQb",
+   "name": "Câmera de Segurança Wi-Fi A8 Full HD 355° Visão Noturna",
+   "cat": "casa",
+   "store": "ml",
+   "price": 90.15,
+   "oldPrice": 179,
+   "img": "https://http2.mlstatic.com/D_NQ_NP_797717-MLA111994035197_052026-O.webp",
+   "link": "https://meli.la/2EsyLQb",
+   "available": true
+  },
+  {
+   "id": "419081850.23596783977",
+   "name": "Árvore de Natal Pinheiro 1,50m 220 Galhos",
+   "cat": "casa",
+   "store": "shopee",
+   "price": 69.9,
+   "img": "https://down-br.img.susercontent.com/file/sg-11134201-825al-mvby4oqr5gxy98",
+   "link": "https://s.shopee.com.br/2BGQH9fXTI",
+   "available": true,
+   "oldPrice": 89.9
+  },
+  {
+   "id": "693282950.48216232287",
+   "name": "Árvore de Natal Nevada Branca 1,80m 320 Galhos",
+   "cat": "casa",
+   "store": "shopee",
+   "price": 139.9,
+   "img": "https://down-br.img.susercontent.com/file/sg-11134201-8259o-ms09o3e32qyw6d",
+   "link": "https://s.shopee.com.br/20x04qgAoH",
+   "available": true,
+   "oldPrice": 329.8
+  },
+  {
+   "id": "1215385259.53750943172",
+   "name": "Jogo de Panelas Antiaderente 10 Peças com Tampa de Vidro",
+   "cat": "cozinha",
+   "store": "shopee",
+   "price": 201.9,
+   "img": "https://down-br.img.susercontent.com/file/br-11134207-820m6-ms42s3kelced28",
+   "link": "https://s.shopee.com.br/2VtGfleGnO",
+   "available": true,
+   "oldPrice": 310
+  },
+  {
+   "id": "1235701517.19599863349",
+   "name": "Mouse Gamer RGB Cyberpunk 16.000 DPI 7 Botões",
+   "cat": "mouse",
+   "store": "shopee",
+   "price": 48.99,
+   "img": "https://down-br.img.susercontent.com/file/sg-11134201-7rdxg-mdl2zjrdhowl72",
+   "link": "https://s.shopee.com.br/2LZqTSeu8N",
+   "available": true,
+   "oldPrice": 60
+  },
+  {
+   "id": "408715442.22499247158",
+   "name": "Power Bank 10.000mAh com Saídas Tipo-C e Lightning",
+   "cat": "celulares",
+   "store": "shopee",
+   "price": 31.99,
+   "img": "https://down-br.img.susercontent.com/file/sg-11134201-81zvk-mik9ovwbhszk62",
+   "link": "https://s.shopee.com.br/BVLtTn9Wy",
+   "available": true,
+   "oldPrice": 58
+  },
+  {
+   "id": "345113675.49368850144",
+   "name": "Copo Térmico GTA VI 473ml",
+   "cat": "cafe",
+   "store": "shopee",
+   "price": 49.95,
+   "img": "https://down-br.img.susercontent.com/file/br-11134207-820mg-mtzidcihks1vf6",
+   "link": "https://s.shopee.com.br/4B1UetJB9x",
+   "available": true,
+   "oldPrice": 129.98
+  },
+  {
+   "id": "1821431551.58213233379",
+   "name": "Caneca GTA 325ml (Plástico ou Cerâmica)",
+   "cat": "cafe",
+   "store": "shopee",
+   "price": 20.99,
+   "img": "https://down-br.img.susercontent.com/file/br-11134207-820ld-mpwueir89x4w63",
+   "link": "https://s.shopee.com.br/4LKurCIXp0",
+   "available": true
+  },
+  {
+   "id": "1005006882206210",
+   "name": "Console Retrô Portátil Anbernic RG40XX H Tela 4\" IPS",
+   "cat": "retro",
+   "store": "ali",
+   "price": 436.72,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S8e4a2538246f4614ab2e33499a814afa6.png_480x480.png",
+   "link": "https://s.click.aliexpress.com/e/_c35nVgGx",
+   "available": true
+  },
+  {
+   "id": "1005007010660202",
+   "name": "Console Retrô Portátil TrimUI Smart Pro Tela 4,96\"",
+   "cat": "retro",
+   "store": "ali",
+   "price": 395.58,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S05a8d44533554ced935a6d8b1f388c142.png_480x480.png",
+   "link": "https://s.click.aliexpress.com/e/_c3196bCR",
+   "available": true
+  },
+  {
+   "id": "1005008032142642",
+   "name": "Fone QCY MeloBuds N50 ANC Bluetooth 5.4",
+   "cat": "headsets",
+   "store": "ali",
+   "price": 165.72,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S94a9919b0c2a4e2f9345556e92975cf9A.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c3BTST2j",
+   "available": true
+  },
+  {
+   "id": "1005006959700436",
+   "name": "Fone QCY MeloBuds Pro ANC Hi-Res LDAC",
+   "cat": "headsets",
+   "store": "ali",
+   "price": 232.06,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S7fbb5513949145119289cdea74ef7d96i.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c3UYPuKB",
+   "available": true
+  },
+  {
+   "id": "1005012879778878",
+   "name": "Pederneira de Magnésio Multifuncional 6 em 1 (Acendedor)",
+   "cat": "sobrevivencia",
+   "store": "ali",
+   "price": 17.16,
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Aa8ea424ce5b9459ca4e9ddeac9522f8ac.png_480x480.png",
+   "link": "https://s.click.aliexpress.com/e/_c4V07jjl",
    "available": true
   }
  ]
