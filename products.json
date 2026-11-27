@@ -1,6 +1,134 @@
 {
- "updatedAt": "2026-11-27T10:26-03:00",
+ "updatedAt": "2026-11-27T10:40-03:00",
  "products": [
+  {
+   "id": "25C4o4z",
+   "name": "Volante Gamer Logitech G920 Driving Force Xbox e PC Preto",
+   "cat": "volantes",
+   "store": "ml",
+   "price": 1439.1,
+   "oldPrice": 1999.9,
+   "tag": "Black Friday",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_686690-MLA99522251226_122025-O.webp",
+   "link": "https://meli.la/25C4o4z",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1NiQxoV",
+   "name": "Monitor Gamer Samsung Odyssey G5 27\" QHD 180Hz 0,03ms G-Sync FreeSync",
+   "cat": "monitores",
+   "store": "ml",
+   "price": 2510.09,
+   "oldPrice": 2999.0,
+   "tag": "Black Friday",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_874400-MLA106481154366_022026-O.webp",
+   "link": "https://meli.la/1NiQxoV",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "29Esddn",
+   "name": "Fritadeira Elétrica Air Fryer Oven Mondial AFON-12L-BG 12 Litros Preto",
+   "cat": "cozinha",
+   "store": "ml",
+   "price": 399.0,
+   "oldPrice": 899.0,
+   "tag": "Black Friday",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_900387-MLA109507200694_042026-O.webp",
+   "link": "https://meli.la/29Esddn",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "2nNJhFa",
+   "name": "Power Bank Baseus Bipow2 Pro 20000mAh 22,5W Cabo USB-C Integrado Display Digital",
+   "cat": "sobrevivencia",
+   "store": "ml",
+   "price": 203.96,
+   "oldPrice": 286.9,
+   "tag": "Black Friday",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_812206-MLA93073248860_092025-O.webp",
+   "link": "https://meli.la/2nNJhFa",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1qkYYpN",
+   "name": "Cadeira Gamer Nitro Ergonômica Reclinável com Apoio para Pés Luvinco Preto",
+   "cat": "cadeiras",
+   "store": "ml",
+   "price": 549.9,
+   "oldPrice": 899.9,
+   "tag": "Black Friday",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_682821-MLA101424826295_122025-O.webp",
+   "link": "https://meli.la/1qkYYpN",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "13e7Nc8",
+   "name": "Mesa para Setup Gamer 150cm Industrial Escritório Pés Aço Preto",
+   "cat": "mesas",
+   "store": "ml",
+   "price": 234.89,
+   "oldPrice": 289.99,
+   "tag": "Black Friday",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_605050-MLA114688410424_082026-O.webp",
+   "link": "https://meli.la/13e7Nc8",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "24WrdhR",
+   "name": "Carregador de Pilhas Recarregáveis Duracell AA/AAA com 4 Pilhas AA",
+   "cat": "pilhas",
+   "store": "ml",
+   "price": 147.52,
+   "oldPrice": 216.3,
+   "tag": "Black Friday",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_912720-MLA99529602056_122025-O.webp",
+   "link": "https://meli.la/24WrdhR",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "29TNUhK",
+   "name": "Apple iPhone 16e 128GB Preto",
+   "cat": "celulares",
+   "store": "ml",
+   "price": 2933.1,
+   "oldPrice": 5799.0,
+   "tag": "Black Friday",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-O.webp",
+   "link": "https://meli.la/29TNUhK",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "2w2wm6k",
+   "name": "Smart TV TCL 50\" QLED 4K P7L Google TV HDR10+ Wi-Fi Bluetooth",
+   "cat": "tvs",
+   "store": "ml",
+   "price": 2049.0,
+   "oldPrice": 2999.0,
+   "tag": "Black Friday",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_978669-MLA114751005026_082026-O.webp",
+   "link": "https://meli.la/2w2wm6k",
+   "available": true
+  },
+  {
+   "id": "1TtTYwa",
+   "name": "Grand Theft Auto V (GTA 5) - PlayStation 5 Mídia Física",
+   "cat": "jogos",
+   "store": "ml",
+   "price": 156.92,
+   "oldPrice": 209.9,
+   "tag": "Black Friday",
+   "img": "https://http2.mlstatic.com/D_NQ_NP_813771-MLA109219355845_032026-O.webp",
+   "link": "https://meli.la/1TtTYwa",
+   "available": true
+  },
   {
    "id": "1005010537477228",
    "name": "Headset Gamer MCHOSE V9 Pro 2 Tri-Mode Sem Fio Bluetooth com Microfone",
@@ -489,8 +617,7 @@
    "tag": "Black Friday",
    "img": "https://m.media-amazon.com/images/I/61FupVYWaxL._AC_SL1500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0DSY665M3?tag=nlgstore-20",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B0HQDBX1H4",
@@ -1373,8 +1500,7 @@
    "oldPrice": 484.11,
    "img": "https://down-br.img.susercontent.com/file/sg-11134201-81zu9-mmrnindmz0nad0",
    "link": "https://s.shopee.com.br/1gJm654avY",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "1431552632.20899600608",
@@ -1396,8 +1522,7 @@
    "oldPrice": 149.99,
    "img": "https://down-br.img.susercontent.com/file/br-11134207-820l8-moiyb92gk64j5c",
    "link": "https://s.shopee.com.br/1LgvhT5rbW",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B0FPYV6K68",
@@ -1583,7 +1708,6 @@
    "img": "https://m.media-amazon.com/images/I/81hlYhCb-YL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B0778VZYVV?tag=nlgstore-20",
    "available": true,
-   "featured": true,
    "oldPrice": 82.9
   },
   {
