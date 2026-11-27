@@ -1,6 +1,209 @@
 {
- "updatedAt": "2026-11-26T17:15-03:00",
+ "updatedAt": "2026-11-27T10:07-03:00",
  "products": [
+  {
+   "id": "B0DF7CZ9D8",
+   "name": "Water Cooler Corsair iCUE LINK Titan 360 RX LCD 360mm RGB (AM5/AM4/LGA1851/1700)",
+   "cat": "refrigeracao",
+   "store": "amazon",
+   "price": 849.0,
+   "oldPrice": 2589.48,
+   "tag": "Black Friday",
+   "img": "https://m.media-amazon.com/images/I/718andDifNL._SX522_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0DF7CZ9D8?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0FK5SQZ44",
+   "name": "Processador AMD Ryzen 7 8700G 8 Núcleos 16 Threads 5.1GHz Radeon Socket AM5",
+   "cat": "cpu",
+   "store": "amazon",
+   "price": 1400.0,
+   "oldPrice": 2100.0,
+   "tag": "Black Friday",
+   "img": "https://m.media-amazon.com/images/I/51S6UoxbHlL._AC_SY450_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FK5SQZ44?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0D6NMCZG1",
+   "name": "Processador AMD Ryzen 9 5900XT Box AM4 16 Núcleos 32 Threads 4.8GHz",
+   "cat": "cpu",
+   "store": "amazon",
+   "price": 2079.99,
+   "oldPrice": 3096.68,
+   "tag": "Black Friday",
+   "img": "https://m.media-amazon.com/images/I/71klxIIJP5L._AC_SX466_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0D6NMCZG1?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B08HHMCCXV",
+   "name": "Placa-Mãe MSI A520M-A PRO AM4 2xDDR4 M.2 HDMI USB 3.2",
+   "cat": "placamae",
+   "store": "amazon",
+   "price": 338.18,
+   "oldPrice": 499.0,
+   "tag": "Black Friday",
+   "img": "https://m.media-amazon.com/images/I/81sffemYJJS._AC_SX450_.jpg",
+   "link": "https://www.amazon.com.br/dp/B08HHMCCXV?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0CV2C7WTB",
+   "name": "Placa de Vídeo PCYES Radeon RX 550 4GB GDDR5 128 Bits Dual-Fan",
+   "cat": "gpu",
+   "store": "amazon",
+   "price": 509.14,
+   "oldPrice": 760.11,
+   "tag": "Black Friday",
+   "img": "https://m.media-amazon.com/images/I/61lfsM6-RgL._AC_SY450_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CV2C7WTB?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B091CSSXLC",
+   "name": "Memória RAM Adata Premier 16GB DDR4 3200MHz UDIMM Desktop",
+   "cat": "ram",
+   "store": "amazon",
+   "price": 890.9,
+   "oldPrice": 1099.0,
+   "tag": "Black Friday",
+   "img": "https://m.media-amazon.com/images/I/51eXx5aygrL._AC_SY355_.jpg",
+   "link": "https://www.amazon.com.br/dp/B091CSSXLC?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0CRHN3M8D",
+   "name": "Gabinete Gamer Redragon Wideload Pro CA-604B-PRO Aquário",
+   "cat": "gabinetes",
+   "store": "amazon",
+   "price": 318.97,
+   "oldPrice": 399.9,
+   "tag": "Black Friday",
+   "img": "https://m.media-amazon.com/images/I/81ksnT7oAFL._AC_SY450_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0CRHN3M8D?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0FPBPX7WF",
+   "name": "Smart TV Philips 50\" 4K 50PUG7300 Google TV HDR Dolby Atmos Wi-Fi",
+   "cat": "tvs",
+   "store": "amazon",
+   "price": 1794.54,
+   "oldPrice": 2799.0,
+   "tag": "Black Friday",
+   "img": "https://m.media-amazon.com/images/I/71AcJsiJuVL._AC_SY355_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FPBPX7WF?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "B0FY6X2XXY",
+   "name": "Controle sem fio PlayStation DualSense Branco - PS5",
+   "cat": "dualsense",
+   "store": "amazon",
+   "price": 351.91,
+   "oldPrice": 499.9,
+   "tag": "Black Friday",
+   "img": "https://m.media-amazon.com/images/I/51zRVFcqMLL._AC_SX679_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0FY6X2XXY?tag=nlgstore-20",
+   "available": true
+  },
+  {
+   "id": "B0DPY3469H",
+   "name": "Cafeteira Espresso Superautomática Philips Walita Série 5500 220V",
+   "cat": "cafe",
+   "store": "amazon",
+   "price": 4194.66,
+   "oldPrice": 6999.9,
+   "tag": "Black Friday",
+   "img": "https://m.media-amazon.com/images/I/71Q8zNldpZL._AC_SY450_.jpg",
+   "link": "https://www.amazon.com.br/dp/B0DPY3469H?tag=nlgstore-20",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1005009070126028",
+   "name": "Mouse Gamer sem fio Rapoo VT7 MAX / VT7 8K Ultra Leve 53g até 750h Bateria",
+   "cat": "mouse",
+   "store": "ali",
+   "price": 196.77,
+   "oldPrice": 513.68,
+   "tag": "Black Friday",
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Se014fbfa04254baa912ce0d96ee03b29o.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4DYlrDB",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1005006356702381",
+   "name": "Microfone Dinâmico USB/XLR FIFINE AmpliGame AM8 RGB com Controle de Ganho e Mudo",
+   "cat": "microfones",
+   "store": "ali",
+   "price": 289.94,
+   "oldPrice": 684.31,
+   "tag": "Black Friday",
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sff64e30c35d847d593385bd188bc6af3q.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4pjPjEv",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1005007027334636",
+   "name": "SSD SATA 2.5\" SomnAmbulist 120GB / 240GB / 480GB / 512GB para PC e Notebook",
+   "cat": "armazenamento",
+   "store": "ali",
+   "price": 70.29,
+   "oldPrice": 167.38,
+   "tag": "Black Friday",
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S490c8d10f16e49129020d63f9a34f65b3.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c3l6Jya5",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1005012122397943",
+   "name": "Controle GameSir G7 Pro para Xbox Series X|S e PC com Sticks TMR e Base Carregadora",
+   "cat": "xbox",
+   "store": "ali",
+   "price": 362.95,
+   "oldPrice": 499.39,
+   "tag": "Black Friday",
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sd1bf885dc80043f58d7599a101a01451Q.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4FO8jX7",
+   "available": true
+  },
+  {
+   "id": "1005007093085200",
+   "name": "Controle GameSir Nova Lite sem fio com Hall Effect (Switch, PC, Android e iPhone)",
+   "cat": "controles",
+   "store": "ali",
+   "price": 127.46,
+   "oldPrice": 167.13,
+   "tag": "Black Friday",
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S721996005f5c44108158a6a3d3662f7az.png_480x480.png",
+   "link": "https://s.click.aliexpress.com/e/_c3x24sNb",
+   "available": true
+  },
+  {
+   "id": "1005003913546013",
+   "name": "Controle 8BitDo Ultimate 2 sem fio com Sticks TMR e Triggers Ajustáveis (PC e Android)",
+   "cat": "controles",
+   "store": "ali",
+   "price": 271.44,
+   "oldPrice": 374.52,
+   "tag": "Black Friday",
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S31d015e19a134d46980af638a5f333e5Q.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c2QHXyCp",
+   "available": true
+  },
   {
    "id": "B0FR6PC1FB",
    "name": "Bundle Nintendo Switch OLED + Super Mario Bros. Wonder + 3 Meses Nintendo Switch Online",
@@ -213,8 +416,7 @@
    "tag": "Black Friday",
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sf1413866ebd349c49b208b94e57721c5i.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c3wdvQMv",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B0GQJM9NJK",
@@ -252,8 +454,7 @@
    "tag": "Black Friday",
    "img": "https://m.media-amazon.com/images/I/41qWh0m4vLL._AC_SX425_.jpg",
    "link": "https://www.amazon.com.br/dp/B0HQDBX1H4?tag=nlgstore-20",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B09B8VGCR8",
@@ -542,17 +743,6 @@
    "available": false
   },
   {
-   "id": "1005012122397943",
-   "name": "Controle GameSir G7 Pro para Xbox Series X|S e PC com Sticks TMR e Hall Effect",
-   "cat": "xbox",
-   "store": "ali",
-   "price": 388.35,
-   "oldPrice": 510.92,
-   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sd1bf885dc80043f58d7599a101a01451Q.jpg_480x480.jpg",
-   "link": "https://s.click.aliexpress.com/e/_c3NmkpsX",
-   "available": true
-  },
-  {
    "id": "1005005708451590",
    "name": "Controle com Fio GameSir G7 SE para Xbox Series X|S e PC com Hall Effect",
    "cat": "xbox",
@@ -597,26 +787,16 @@
    "available": true
   },
   {
-   "id": "1005003913546013",
-   "name": "Controle 8BitDo Ultimate 2 sem fio com Sticks TMR (PC e Android)",
-   "cat": "controles",
-   "store": "ali",
-   "price": 277.71,
-   "oldPrice": 383.17,
-   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S31d015e19a134d46980af638a5f333e5Q.jpg_480x480.jpg",
-   "link": "https://s.click.aliexpress.com/e/_c4Mhv7Vp",
-   "available": true
-  },
-  {
    "id": "1005010182516019",
    "name": "Controle 8BitDo Pro 3 sem fio com Sticks TMR (Switch 1 e 2, PC e Apple)",
    "cat": "controles",
    "store": "ali",
-   "price": 275.7,
-   "oldPrice": 447.05,
+   "price": 269.47,
+   "oldPrice": 436.95,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/S7c7b865d3f704637835f981e0bec32df1.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c4cDZPhv",
-   "available": true
+   "available": true,
+   "tag": "Black Friday"
   },
   {
    "id": "1006215031.54063528194",
@@ -811,8 +991,7 @@
    "tag": "Escolha da Amazon",
    "img": "https://m.media-amazon.com/images/I/811EMBB42AL._AC_SL500_.jpg",
    "link": "https://link.amazon/B0dtGcBxo",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B0dwQFB5z",
@@ -952,7 +1131,6 @@
    "img": "https://http2.mlstatic.com/D_NQ_NP_957206-MLA99870256007_112025-O.webp",
    "link": "https://meli.la/1ibJGx5",
    "available": true,
-   "featured": true,
    "oldPrice": 189.9
   },
   {
@@ -1039,8 +1217,7 @@
    "tag": "Escolha da Amazon",
    "img": "https://m.media-amazon.com/images/I/71ZnK38jZzL._AC_SL500_.jpg",
    "link": "https://link.amazon/B0i9jFzDr",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B0hi1lgA0",
@@ -1060,8 +1237,7 @@
    "price": 1006.99,
    "img": "https://m.media-amazon.com/images/I/51oYGzxUbsL._AC_SL500_.jpg",
    "link": "https://link.amazon/B07Ebu7W4",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "664761873.23594179432",
@@ -1646,7 +1822,6 @@
    "img": "https://m.media-amazon.com/images/I/51RITWg4ryL._AC_SL500_.jpg",
    "link": "https://www.amazon.com.br/dp/B08KSVQ62G?tag=nlgstore-20",
    "available": true,
-   "featured": true,
    "oldPrice": 21.99
   },
   {
