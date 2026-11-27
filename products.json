@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-11-27T10:07-03:00",
+ "updatedAt": "2026-11-27T10:26-03:00",
  "products": [
+  {
+   "id": "1005010537477228",
+   "name": "Headset Gamer MCHOSE V9 Pro 2 Tri-Mode Sem Fio Bluetooth com Microfone",
+   "cat": "headsets",
+   "store": "ali",
+   "price": 259.82,
+   "oldPrice": 626.89,
+   "tag": "Black Friday",
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S6280ee1c80b545bf8d7f26ee105aabb1t.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c3wFLiFR",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1005009595291176",
+   "name": "Fone In-Ear HiFi KZ AS16 PRO X 8 Drivers Balanceados Retorno de Palco",
+   "cat": "headsets",
+   "store": "ali",
+   "price": 138.63,
+   "oldPrice": 305.97,
+   "tag": "Black Friday",
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S73fe1088437a4627a352320249c140f9B.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4b8N71X",
+   "available": true
+  },
+  {
+   "id": "1005010634951569",
+   "name": "SSD SATA 2.5\" KOOTION SATA3 até 1TB para PC, Notebook e PS4",
+   "cat": "armazenamento",
+   "store": "ali",
+   "price": 257.93,
+   "oldPrice": 936.16,
+   "tag": "Black Friday",
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sade59ecf98de460a8bfe7c968df0f9f1K.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c4pszIed",
+   "available": true
+  },
+  {
+   "id": "1005005470604431",
+   "name": "Controle 8BitDo Ultimate 2C Wireless (Nova Edição PC, Steam Deck e Android)",
+   "cat": "controles",
+   "store": "ali",
+   "price": 131.23,
+   "oldPrice": 436.95,
+   "tag": "Black Friday",
+   "img": "https://ae-pic-a1.aliexpress-media.com/kf/S2b4c0a84a38942daa3c3131f46def2244.jpg_480x480.jpg",
+   "link": "https://s.click.aliexpress.com/e/_c45uu0Yt",
+   "available": true
+  },
   {
    "id": "B0DF7CZ9D8",
    "name": "Water Cooler Corsair iCUE LINK Titan 360 RX LCD 360mm RGB (AM5/AM4/LGA1851/1700)",
@@ -377,8 +426,7 @@
    "tag": "Black Friday",
    "img": "https://m.media-amazon.com/images/I/71yVhRlcJdL._AC_SL1500_.jpg",
    "link": "https://www.amazon.com.br/dp/B07Y2G7VX5?tag=nlgstore-20",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "B07QQB9VCV",
