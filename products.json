@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-11-27T10:40-03:00",
+ "updatedAt": "2026-11-27T11:07-03:00",
  "products": [
+  {
+   "id": "1930141978.22795378621",
+   "name": "Fonte Gamer Rise Mode Elektra 650W 80 Plus Bronze Full Modular PFC Ativo Preto",
+   "cat": "fontes",
+   "store": "shopee",
+   "price": 233.99,
+   "tag": "Black Friday",
+   "img": "https://down-tx-br.img.susercontent.com/sg-11134201-825a5-muc48z8etc0699.webp",
+   "link": "https://s.shopee.com.br/3qP0Hmgr4a",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1494995608.18398161750",
+   "name": "Roteador HUAWEI WiFi AX2S WS7000 V2 Dual Band Wi-Fi 6 5GHz 4 Antenas",
+   "cat": "pc",
+   "store": "shopee",
+   "price": 124.0,
+   "tag": "Black Friday",
+   "img": "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-me9rity3qqkg1d.webp",
+   "link": "https://s.shopee.com.br/3g5a5YNs4q",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1738139377.58267394271",
+   "name": "Camiseta Anime Streetwear Unissex 100% Algodão Killua Zoldyck Hunter x Hunter",
+   "cat": "roupas",
+   "store": "shopee",
+   "price": 30.88,
+   "tag": "Black Friday",
+   "img": "https://down-tx-br.img.susercontent.com/sg-11134201-8258p-msm8b9djk8p344.webp",
+   "link": "https://s.shopee.com.br/8fUG3FaF6P",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1569849623.58252393794",
+   "name": "Video Game Stick 4K 20000 Jogos 64GB com 2 Controles Sem Fio Retro",
+   "cat": "retro",
+   "store": "shopee",
+   "price": 114.25,
+   "tag": "Black Friday",
+   "img": "https://down-tx-br.img.susercontent.com/sg-11134201-81zua-mimuo22r54ava2.webp",
+   "link": "https://s.shopee.com.br/4B1qh475gR",
+   "available": true,
+   "featured": true
+  },
+  {
+   "id": "1235701517.19599863349",
+   "name": "Mouse Gamer com Fio RGB Estilo Cyberpunk 16000 DPI 7 Botões",
+   "cat": "mouse",
+   "store": "shopee",
+   "price": 48.99,
+   "tag": "Black Friday",
+   "img": "https://mms.img.susercontent.com/sg-11134201-7rdxg-mdl2zjrdhowl72",
+   "link": "https://s.shopee.com.br/3LSjggHzZ5",
+   "available": true
+  },
+  {
+   "id": "1371911195.55856646958",
+   "name": "Teclado Mecânico Gamer Basike KEY391 Tri-Mode RGB Switch Vermelho com Visor Digital",
+   "cat": "teclados",
+   "store": "shopee",
+   "price": 379.99,
+   "tag": "Black Friday",
+   "img": "https://down-tx-br.img.susercontent.com/br-11134207-820ma-mnxrx1gvgsn6b6.webp",
+   "link": "https://s.shopee.com.br/8KrPeBQp7U",
+   "available": true
+  },
+  {
+   "id": "1813187035.58261537400",
+   "name": "Headset Gamer Havit H2232d P2 3,5mm Drivers 50mm 7.1 Surround",
+   "cat": "headsets",
+   "store": "shopee",
+   "price": 98.01,
+   "tag": "Black Friday",
+   "img": "https://down-tx-br.img.susercontent.com/br-11134207-820la-mrshcewqmvpjc8.webp",
+   "link": "https://s.shopee.com.br/9pgDQzAl3j",
+   "available": true
+  },
+  {
+   "id": "1220261333.19797809933",
+   "name": "Microfone Gamer Condensador Podcast Alta Sensibilidade RGB USB",
+   "cat": "microfones",
+   "store": "shopee",
+   "price": 122.49,
+   "tag": "Black Friday",
+   "img": "https://down-tx-br.img.susercontent.com/sg-11134201-7rdwp-lzsfksvs9jfuf5.webp",
+   "link": "https://s.shopee.com.br/6q2brWhNVT",
+   "available": true
+  },
+  {
+   "id": "473616631.44200899566",
+   "name": "Mousepad Gamer Grande Titorion 90x40cm Speed Hexágono Preto e Branco",
+   "cat": "mousepad",
+   "store": "shopee",
+   "price": 44.9,
+   "tag": "Black Friday",
+   "img": "https://down-tx-br.img.susercontent.com/br-11134207-820l7-mvc83e6s9q0y42.webp",
+   "link": "https://s.shopee.com.br/5AuNsiTeGp",
+   "available": true
+  },
+  {
+   "id": "1793507407.58261864970",
+   "name": "Controle GameSir T4 Nova Lite Sem Fio Hall Effect (PC, Switch, Android e iOS)",
+   "cat": "controles",
+   "store": "shopee",
+   "price": 169.1,
+   "tag": "Black Friday",
+   "img": "https://down-tx-br.img.susercontent.com/br-11134207-820mg-mq36yggsrlz5a9.webp",
+   "link": "https://s.shopee.com.br/6VPlTKG8NK",
+   "available": true
+  },
   {
    "id": "25C4o4z",
    "name": "Volante Gamer Logitech G920 Driving Force Xbox e PC Preto",
@@ -718,8 +832,7 @@
    "oldPrice": 440.4,
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Scef23243532f480885f4f760a45aa375E.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c36vZVQL",
-   "available": true,
-   "featured": true
+   "available": true
   },
   {
    "id": "1005009686782638",
@@ -1741,7 +1854,6 @@
    "img": "https://ae-pic-a1.aliexpress-media.com/kf/Sfc6811e40de2495597b8baad1b89d864p.jpg_480x480.jpg",
    "link": "https://s.click.aliexpress.com/e/_c41cdSmJ",
    "available": true,
-   "featured": true,
    "oldPrice": 27.47
   },
   {
